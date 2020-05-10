@@ -1,0 +1,454 @@
+* thought
+* abstract
+* thought fiction
+* abstract good
+
+* fiction
+* fiction
+
+* change control
+* change
+* change
+* change
+* stability control
+
+* situation difficult bad
+* control change bad
+* thought difficult bad
+* thought plan good
+* control change good
+
+* plan control
+* plan control
+* stability bad
+* plan thought control good
+
+* analysis good data
+* analysis
+* analysis good data
+* analysis bad data
+* say bad
+* control say bad
+* analysis bad data
+* quality good
+
+* group event
+* group event
+* group event
+
+* say
+* thought emphasis
+* emphasis good
+* easy_simple
+
+* sound
+* sound
+* sound sense
+* sound emphasis
+* sound
+
+* say sound
+* say sound
+* say sound
+* say data
+
+* abstract data
+* say data
+* data
+
+* thought data
+* thought data more
+* thought sense more
+* thought less
+* thought good
+* thought bad
+
+* distance less
+* distance less
+* distance less
+* location distance more
+* distance more
+* distance more
+
+* time_point more
+* time_point more
+* time_point less
+* time_point less
+* abstract time_point more
+* time_point more bad
+
+* more
+* less
+
+* control
+* stability
+* control change less
+* control change less
+* stability
+* control less bad
+
+* receive
+* give good
+* give good
+* receive control
+* give
+
+* move location
+* move location
+* move change control
+* rest
+* rest
+* move stability
+* move stability
+* rest
+* rest
+* move good
+* quantity small
+* quantity big
+* move more
+
+* person ownership
+* abstract ownership
+* ownership
+* stability ownership
+* ownership
+
+* time_period
+* time_point time_period
+* time_point event
+* time_period
+* time_period
+* time_period
+* time_period
+* stability time_period
+* time_period more
+* time_period less
+
+* time_point food event
+* food
+* food
+* food water
+* food water
+* water
+* food water
+* food
+* food water
+* food water
+* food good
+* bad intense
+
+* person
+* person
+* person group
+* person female
+* person family
+* person good
+* person society
+* person
+* person
+* person
+* person
+
+* alive
+* alive house
+* dead
+* alive
+* dead
+
+* touch
+* touch
+* touch intense
+* touch less
+* touch intense
+
+* location
+* location
+* location
+* location nature
+* location water
+
+* vision
+* person vision
+* vision sense
+* vision sense more
+* analysis
+* vision trait
+* vision easy_simple
+* vision easy_simple
+* vision effort
+* vision more
+* vision less
+
+* person time_point less small
+* person time_point more
+* change time_period
+* person time_point less
+* person time_point more
+
+* artifact house
+* house
+
+* control
+* control
+* group
+* society group
+* school
+
+* create say fiction
+* create bad
+* create bad
+
+* thought
+* thought
+* quality thought good
+* quality thought bad
+
+* entertainment vision
+* give vision
+* entertainment intense
+
+* receive group
+* receive
+* receive group
+
+* society politics
+* person group control leader
+* person control leader
+* control leader
+* control intense
+* abstract name
+* politics
+
+* person expertise
+* expertise
+* expertise
+* expertise
+
+* abstract value
+* resource
+* resource financial
+* financial use
+* analysis value
+* financial resource less
+* financial resource more
+* financial resource more value
+
+* distance more
+* distance less
+* distance more
+* distance less
+
+* big
+* small
+* change big
+* change small
+* big
+* small
+* big
+* small
+
+* level more
+* level big
+* level big
+* level big intense
+* level less
+* level small
+* level more change
+* level less change
+* level more change
+* level less change
+* level more
+* level more
+* level less
+* level less
+
+* piece
+* group
+* abstract quantity
+* change good
+* create
+* damage bad
+
+* medical
+* control give emotion good
+* emotion bad intense damage
+* emotion bad damage
+* emotion good
+* emotion good
+* emotion bad
+* emotion bad intense
+* emotion bad
+* emotion bad
+* emotion bad
+* emotion bad
+* emotion bad receive
+* emotion good control
+
+* biology body
+* biology
+
+* damage
+* damage
+* emotion body bad
+* damage body bad
+* artifact damage
+* military
+* military person
+* military
+* military
+* military
+* fight
+* emotion fight
+* damage change
+* damage
+* damage
+* damage
+* fight intense
+* fight intense
+* damage body bad
+* damage body bad
+* damage
+
+* change help good
+* change help good
+* use value good
+* quality good
+* person help use
+* help
+* help
+* help
+* help good
+* good
+* help good
+* good
+
+* time_point multiple
+* multiple
+* time_point multiple
+* time_point multiple
+
+* bad
+* good
+* emotion good
+* legal good
+* legal good
+* bad intense
+* person good
+* person bad
+* person bad
+* person entertainment
+
+* cold
+* cold
+* cold
+* hot
+* hot
+* food sense good
+* food sense
+* food sense
+* artifact create bad
+* bad intense
+* air sense
+* air sense
+* air sense
+* food sense good
+* food sense
+* food sense
+* food sense bad
+
+* nature
+* air nature
+* water more
+* water more
+* water less
+* water less
+
+* entertainment event
+* act
+* act
+* act
+* entertainment
+* act
+* air entertainment
+* society expertise
+
+* effort good
+* effort good
+* effort good
+* society expertise
+* society expertise
+* effort good
+* effort good
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+* effort bad
+
+* say data
+* group
+* analysis quantity
+* thought
+* effort emotion
+* trait
+* abstract
+
+* abstract financial
+* emotion
+* abstract trait
+* abstract trait
+* abstract vision
+* abstract
+* abstract trait
+* time_period
+* quality
+
+* emotion
+* abstract thought
+
+* substance
+* substance water
+* substance
+* artifact
+* artifact use
+* artifact use
+* substance
+* substance
+* substance
+* substance
+* artifact use
+* vehicle
+* person
+* animal
+* animal
+* animal
+* animal
+* biology nature
+* biology nature
+* biology nature
+* artifact use
+* covering
+
+* say question
+* question thought
+* thought
+* question thought
+* effort
+* analysis question science
+* analysis plan
+* analysis plan
+* question less
+* question more
+
+* effort good
+* effort stability
+* effort plan
+* effort change plan
+* effort create
+* event
+* effort good

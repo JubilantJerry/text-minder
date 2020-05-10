@@ -1,0 +1,500 @@
+*
+*
+*
+*
+*
+*
+* time_point
+* question
+*
+*
+*
+*
+*
+*
+* fight
+*
+* thought
+*
+* quantity
+* person
+*
+* time_period
+*
+* person name
+* say sound
+* quantity
+* location
+*
+*
+* person family
+* person name
+*
+*
+* person female
+* control legal
+* person name
+*
+*
+* dead
+* artifact house
+* situation difficult
+*
+* bad
+* politics
+* person family
+*
+*
+* difficult
+* entertainment
+* legal
+* society
+*
+*
+*
+* person family
+* religion
+* emotion good
+* emphasis bad
+*
+* entertainment
+* emotion bad
+* abstract event bad
+* person good
+* person control
+* data
+* expertise
+* emotion good love
+*
+* school
+*
+* society artifact vehicle
+* military
+* quality
+* vision trait
+* society location
+*
+* create say
+* person female
+* touch
+*
+*
+* say data
+* person
+* plan legal
+* artifact use
+* event
+* location
+* person
+*
+* artifact use energy
+* person emotion
+* financial
+* food water
+* vehicle
+*
+* stability
+* artifact house
+*
+* fiction
+*
+*
+*
+* financial less
+* vehicle air
+* artifact house
+* society location
+* entertainment sound
+* time_period
+* entertainment vision
+* emotion
+* time_point
+* artifact
+*
+* financial
+* nature air
+*
+* military
+* artifact data say
+* event group
+* analysis
+* love
+* society
+* society damage bad
+* use
+* bad person
+*
+* medical
+* person
+* food
+* location society
+* society defense control
+* touch damage
+* financial quantity value
+* say
+* data
+* financial
+*
+* legal
+* biology medical piece
+*
+* create
+*
+*
+* vision create
+* quality good
+* location
+*
+* body
+* move
+* legal data
+* financial society
+* event good
+*
+*
+* person society expertise
+* nature biology
+* politics
+* animal
+* outfit
+* person time_point less small
+* politics leader
+* politics leader
+* artifact
+* move
+* covering
+* outfit covering
+* food control
+*
+* religion
+* vehicle water
+*
+* science
+* damage
+* biology medical body
+*
+*
+*
+* quantity
+*
+* artifact
+* group
+* quantity
+* expertise
+* fight
+* artifact piece
+* damage
+* food
+*
+*
+* animal
+* data say
+* military hot
+* medical expertise
+*
+*
+* person bad
+* family
+* legal analysis
+* entertainment
+* military defense
+* nature
+* nature water
+* location rest
+* nature air vision
+*
+* medical body
+* body
+* sound
+* artifact house
+*
+* medical
+* data vision
+* thought fiction
+*
+* nature biology
+* analysis defense
+* food
+*
+*
+*
+*
+* house
+* legal house
+* religion
+* resource energy
+* food event
+* fight
+*
+* abstract
+* time_point society
+* substance
+* receive legal bad
+*
+* plan
+* entertainment
+*
+* house financial
+* artifact damage
+* rest
+* control defense
+*
+* covering ownership
+* location
+* nature biology
+* move location
+*
+* defense
+* person
+* person
+*
+*
+* location politics
+* food
+* entertainment sound
+* water
+*
+*
+*
+* entertainment move
+* medical bad
+* damage
+* fiction animal
+* emotion bad
+*
+* water
+* medical
+*
+*
+* bad substance
+*
+*
+* location
+* entertainment
+* data
+*
+*
+*
+* data receive
+* substance bad
+* substance science
+* food
+*
+* food
+* medical nature
+* religion
+* medical
+* outfit
+* damage person bad
+* science medical
+* nature
+* medical body
+*
+*
+* create
+* outfit covering
+* location
+* damage military
+* move air
+*
+* situation bad
+* religion
+*
+* military good
+* artifact vision good
+*
+* sense air
+* financial
+* location
+* vehicle location
+* food water
+*
+*
+* fight effort good
+* food
+* nature
+* artifact data
+* animal
+*
+* person expertise
+*
+*
+*
+* animal small
+* bad
+* artifact use energy
+* air
+* animal
+*
+* data say give
+* thought
+* vision more
+*
+*
+* air water cold
+*
+*
+*
+*
+*
+*
+* military
+*
+* politics
+*
+*
+* quality
+* science
+*
+*
+*
+*
+*
+* dead
+*
+* substance
+*
+* financial
+*
+*
+* school
+* food water
+*
+*
+* sound
+*
+*
+*
+* religion
+*
+* air water
+*
+*
+*
+* entertainment
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* data artifact energy
+*
+*
+*
+*
+* religion
+*
+*
+*
+* leader
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*

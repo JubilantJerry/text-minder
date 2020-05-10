@@ -1,0 +1,500 @@
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* sound
+*
+*
+* family
+* thought
+*
+*
+* bad emphasis
+* say
+*
+* say
+* analysis
+*
+* house
+*
+*
+* level
+* data
+* emotion
+* society expertise
+* sense
+* financial
+* fight
+*
+* damage
+* analysis
+* effort
+*
+* plan
+* help
+*
+* entertainment
+* say good
+*
+* house
+* thought
+*
+* plan
+* emotion bad
+* medical piece
+*
+* food
+*
+*
+* move
+* location
+* medical help
+* stability
+* name
+* vision data
+* animal
+* legal bad
+* use
+*
+* fight
+* financial
+* outfit
+*
+* legal
+*
+*
+*
+* vision
+* 
+* damage
+*
+* science expertise
+* control
+* medical
+*
+* damage
+* water
+* move
+*
+* air
+*
+* event
+* quality good
+*
+* say defense
+* ownership
+* effort
+* situation difficult
+* financial
+*
+* 
+* stability
+* plan
+* house create
+* artifact
+* rest
+* body
+* move
+* person small
+* damage
+* control defense
+* food
+* ownership
+* expertise
+*
+* quantity
+* say
+*
+* artifact
+* touch
+* control
+* vehicle artifact
+* leader control
+* abstract
+* give
+* effort
+* receive
+* emphasis
+* fiction thought
+* body
+* vision
+* damage
+* air sense
+* dead
+*
+* situation
+*
+* analysis
+*
+* military defense
+* air nature
+*
+* say receive
+*
+* water house
+* vehicle
+* covering outfit
+* artifact damage
+* emotion
+* say artifact
+* body
+* say control
+* water
+* damage
+* school
+* hot damage
+* data
+*
+* defense stability
+* move
+* defense
+* science
+* control move
+* control
+* say emotion
+* food control
+* society defense control
+* emotion
+* vision
+* control
+* entertainment
+* touch change
+* entertainment
+* financial
+*
+* food
+* food
+* damage
+* fight
+* move entertainment
+* analysis
+* water
+* vision trait
+* entertainment group
+* damage
+* society artifact ownership
+* emotion
+* stability emotion
+* sound entertainment
+* biology nature
+* defense
+*
+* water
+* less
+* animal
+* sound entertainment
+* emotion
+* defense vision
+* entertainment
+* animal
+* move location
+* move air
+* damage artifact
+* stability
+* legal
+*
+* touch damage
+* thought act emotion
+* biology nature
+* emotion intense
+* house piece
+* legal control
+* say
+* medical
+* leader control
+* data say
+* sound
+* damage body
+* house
+* defense control
+* fight
+* data
+* entertainment fight
+* level
+* move
+* house
+* control
+*
+* level more
+*
+* religion stability
+* vision
+* touch love
+* quantity
+* politics leader
+* say defense
+* damage
+* religion
+* fight
+*
+*
+* change good
+*
+* control fight
+* animal
+* biology medical
+* thought financial
+*
+* data energy
+* data
+* food water
+* data
+* location
+* resource energy
+* artifact vision
+* sense air
+* entertainment
+* sound
+*
+*
+*
+* vision move
+* say emotion
+* location stability
+* move
+* fiction bad
+* level small
+* give
+* situation
+* damage
+* touch
+* analysis
+* fiction
+* emotion good
+*
+* expertise school
+* say
+* plan
+* difficult
+*
+* defense move
+* data
+* financial
+* artifact
+* stability cold
+*
+* say receive less
+*
+* emotion
+* plan
+* say legal
+* damage legal
+*
+* rest change move
+* situation bad
+*
+* nature biology
+*
+*
+*
+*
+* air
+* ownership
+*
+* say control 
+* analysis
+* say intense
+* artifact energy
+*
+* ownership financial resource
+* sound
+* say question
+*
+* data
+* move level more
+* resource value
+* damage
+*
+* medical
+*
+*
+*
+* receive time_period
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* medical body
+*
+*
+*
+*
+*
+*
+* food create
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* question less
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* cold
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*

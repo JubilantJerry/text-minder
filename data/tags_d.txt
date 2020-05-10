@@ -1,0 +1,500 @@
+*
+*
+*
+*
+*
+*
+*
+*
+* quantity
+*
+*
+*
+* question
+*
+*
+* emphasis
+* less
+* emphasis
+* distance
+*
+*
+* quantity
+*
+* intense bad emphasis
+* small
+* vision trait
+* question
+*
+*
+* emphasis big
+*
+*
+* alive situation
+*
+*
+* good
+* location
+* emotion
+*
+* politics
+* time_period
+*
+*
+*
+* time_point
+* emotion bad
+* big
+* level big
+*
+* bad
+* good
+*
+*
+* quality bad
+* expertise
+* level
+* location
+* intense good
+* quantity small
+* quality
+* plan
+* defense
+* easy_simple quality
+* question
+* sense
+* person
+*
+* more
+* sound
+* sense defense
+*
+* emotion
+* abstract good
+* situation
+*
+*
+* defense
+* good
+* time_period
+*
+* stability
+* legal
+* defense
+*
+* quantity
+* easy_simple
+* control value
+* thought society
+* emotion
+* bad
+* good
+* emphasis
+*
+* family
+*
+* location
+* stability less
+* question
+* analysis
+* quantity
+* quantity
+* level
+* control small
+*
+* touch change
+* quality
+* society
+* damage
+*
+* damage
+* love
+* food
+* ownership
+* level
+* fight
+* quality
+* science
+* use value good
+* trait artifact
+* outfit covering
+* fiction
+* trait entertainment
+* bad thought
+*
+*
+* location artifact
+* love receive good
+* time_period
+* big
+* location
+* artifact
+* rest
+* intense emphasis
+* emotion emphasis
+* emotion bad intense
+* receive small
+* expertise
+* substance
+* question
+* nature
+*
+* analysis
+* emotion
+* level more
+* substance
+* plan
+* emotion stability
+* legal
+*
+* artifact energy
+* question thought
+* quality
+* leader
+*
+* value change
+* location
+* resource more
+* substance water bad
+* damage
+* emotion bad
+* entertainment
+*
+* quality bad
+* artifact trait
+* location
+*
+* quality good
+* cold
+* nature sense
+* big emphasis
+* quality entertainment
+* entertainment good
+* intense
+* food
+* damage
+*
+* nature
+* medical
+* medical expertise
+* emphasis
+* religion
+* say
+* air
+* leader
+* quality thought bad
+* data
+*
+* fiction
+* house
+* difficult
+* emotion
+* air vehicle
+* abstract bad
+*
+*
+* change
+* religion
+* sound entertainment
+* food good
+* quality data good
+* emotion bad
+* legal bad
+* sense less small
+* emotion
+*
+* quality good
+* entertainment trait
+* military
+*
+* trait
+* bad science
+* act trait bad
+* politics leader
+* effort
+* bad
+* analysis
+* love
+* nature location trait
+*
+* fiction trait
+* politics thought
+* good emphasis
+* medical
+* family love
+* trait
+* abstract
+* bad sense
+* thought less
+*
+*
+* distance science
+*
+*
+* sense
+* time_period plan less
+*
+* air
+*
+* quality
+*
+*
+* medical
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* quality
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* location
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* science
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*

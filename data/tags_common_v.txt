@@ -1,0 +1,1000 @@
+*
+*
+*
+*
+*
+*
+*
+*
+* control
+*
+*
+*
+*
+* emotion good
+*
+* create
+*
+*
+*
+* say
+*
+*
+* create
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* ownership
+*
+* use
+*
+*
+*
+*
+*
+*
+*
+*
+* stability
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* use
+*
+*
+*
+*
+*
+* give
+* school
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* control
+*
+* emphasis say
+*
+* move leader
+*
+*
+*
+* question receive emotion
+*
+* change
+*
+*
+* create
+* water
+* energy data artifact
+* give receive say
+*
+*
+*
+* group
+*
+*
+*
+*
+* say receive
+*
+* question receive emotion
+*
+*
+* group effort
+* situation
+*
+*
+*
+* vision give
+*
+*
+*
+* society alive move
+*
+*
+*
+*
+*
+*
+*
+*
+* give
+*
+*
+*
+*
+*
+*
+*
+* help
+* energy control
+*
+*
+*
+*
+* vision sense
+*
+* group stability time_period
+*
+*
+*
+*
+*
+*
+*
+* expertise give help
+*
+* name
+*
+* vehicle change
+*
+* stability ownership
+*
+* thought question
+*
+*
+* thought emotion
+*
+*
+*
+* act change
+*
+* sense
+*
+*
+* change
+*
+* time_point
+*
+*
+* value
+*
+*
+* question
+* act
+* society dead change
+* say data
+* move
+* control effort
+* analysis
+*
+*
+*
+*
+*
+*
+* move body time_period less
+*
+*
+*
+*
+*
+* location
+*
+* say
+* plan
+*
+*
+*
+* give
+* receive
+*
+* entertainment sound
+* vision sense
+*
+* ownership
+*
+*
+*
+*
+* change more
+*
+*
+*
+*
+* thought
+*
+*
+*
+* love
+*
+* ownership touch
+*
+* move
+*
+*
+*
+*
+* thought question
+*
+* change control ownership
+*
+*
+*
+*
+* value
+*
+* create
+*
+* move give
+*
+* control
+*
+* sound sense say
+*
+* change
+*
+*
+*
+*
+* touch move
+* alive
+*
+*
+*
+*
+*
+*
+*
+* thought
+*
+*
+*
+*
+*
+*
+* analysis say
+*
+* say emotion data
+* entertainment
+* financial give
+*
+* quantity big effort
+*
+*
+*
+*
+*
+* vision data receive
+*
+* question receive emotion
+* air move stability
+* group entertainment
+*
+* plan control
+* give move location
+*
+*
+* move distance less
+*
+* sound
+*
+* say
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* sound sense say
+* thought good question
+*
+*
+* body move effort
+*
+*
+* event group
+*
+* change quantity less
+*
+* body move effort
+*
+*
+* event change time_point
+* quantity vehicle damage
+*
+*
+*
+*
+*
+*
+* help medical
+*
+*
+*
+*
+*
+*
+*
+* help give emotion
+* vision
+* use damage society expertise
+* say
+*
+*
+*
+* quantity move
+*
+* effort
+*
+*
+*
+* say question
+*
+*
+*
+*
+*
+*
+* leader control
+*
+* say
+* thought analysis
+* quantity small move
+*
+*
+* change damage
+*
+*
+*
+*
+* event change time_point
+*
+*
+*
+*
+*
+*
+*
+* level change less
+*
+* control say society
+* control plan
+* thought analysis plan
+*
+* question receive emotion
+* ownership stability
+* body vision
+* value
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* thought data more
+* say
+* move
+* quantity analysis
+*
+* control move
+*
+*
+* rest
+*
+*
+* financial value
+* create data
+* thought
+* create receive
+*
+* situation
+* control effort
+*
+* create data touch
+* distance less
+*
+* say control society
+*
+*
+*
+*
+*
+*
+*
+*
+* vision sense
+*
+*
+*
+*
+*
+* move distance less
+* touch emotion
+*
+*
+*
+*
+* quantity more
+*
+*
+* emphasis say data
+* change control
+*
+* move
+*
+* create change
+* effort
+*
+*
+*
+*
+* effort distance more
+*
+* vision create
+* quantity change more
+*
+*
+* thought data more
+*
+*
+* vision give
+*
+*
+* stability
+*
+*
+* receive change
+*
+*
+*
+*
+* receive
+* act
+* control expertise
+*
+*
+* effort
+*
+* data change good
+*
+*
+*
+* thought question receive
+*
+*
+*
+*
+*
+* move body
+* move distance less
+*
+* say
+* effort good move
+*
+*
+*
+* change expertise good
+*
+* group analysis
+*
+* create piece thought
+*
+*
+* control stability move less
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* question receive emotion
+*
+*
+* create change good
+* move vehicle control
+* effort distance more
+* society control
+* move body level less rest
+* energy change more legal
+* create food
+* emotion bad
+* science question analysis
+* science analysis
+*
+* analysis data
+* food quantity more
+* emotion change bad
+* event
+*
+*
+*
+*
+* food give help expertise
+* distance more bad
+* abstract touch
+*
+*
+* level change more
+*
+*
+*
+*
+*
+* financial give
+* give
+*
+*
+* use
+* thought
+* abstract touch emotion analysis bad
+*
+* move effort
+*
+*
+*
+*
+* animal food
+*
+* move body
+* change act
+*
+*
+* effort control society
+*
+*
+*
+*
+*
+*
+*
+* group control
+*
+* analysis plan
+*
+*
+* level less
+* entertainment
+*
+*
+*
+*
+* change control
+*
+* vision give
+* create
+* location more
+* question say
+*
+*
+*
+*
+* vision data receive
+*
+* thought question
+* expertise give help
+* say data
+* move body level less rest
+* move less stability
+*
+*
+*
+*
+*
+*
+*
+* financial receive
+*
+*
+* time_point receive
+* move location
+*
+*
+*
+*
+* analysis distance
+* level more
+*
+*
+*
+*
+*
+* location quantity stability
+* quantity analysis
+*
+* plan control
+* change thought multiple
+*
+* plan analysis
+*
+* move distance less
+* question receive emotion intense
+*
+*
+*
+*
+*
+* body move time_period less
+*
+*
+* stability event
+* fight
+*
+* change artifact plan damage
+*
+*
+* touch move
+*
+* give
+*
+* move control
+* time_period stability
+*
+* society alive move
+*
+*
+*
+* change
+*
+* love family group
+* ownership say receive
+*
+*
+* damage bad
+*
+*
+* move damage
+* plan
+*
+*
+* quantity more
+*
+*
+*
+*
+* control move less stability
+* financial value say
+*
+* quantity less
+*
+*
+*
+*
+*
+*
+* create society
+*
+* ownership give more
+*
+*
+*
+* damage hot energy
+* create
+*
+* damage change
+*
+*
+* covering
+* say
+*
+*
+*
+* location move
+*
+* fight
+*
+*
+* group
+* move touch
+* say name legal
+*
+*
+* thought emphasis
+* change expertise more
+*
+*
+* control location
+*
+*
+*
+* move body time_period less
+*
+* move multiple intense
+*
+* move change level less
+* artifact create
+* effort act
+* thought data more
+*
+* move entertainment time_period less
+*
+*
+*
+* love event time_point
+*
+*
+* analysis thought change more
+*
+*
+* thought question
+*
+*
+* group quantity more
+*
+* give food help expertise
+* say
+* analysis
+*
+*
+*
+* say analysis
+*
+* analysis say
+* create
+* analysis
+* receive
+* vehicle move less stability
+*
+*
+*
+*
+*
+*
+* change food good
+*
+* thought data change more
+* expertise change more
+*
+* create data touch vision
+*
+*
+*
+*
+* vision sense
+*
+*
+*
+*
+*
+*
+* alive location
+*
+*
+*
+* give move location
+* give move location
+* receive
+* give
+*
+*
+* artifact change good
+*
+*
+* use damage
+*
+*
+* move
+*
+*
+*
+* say plan
+* water food
+*
+* plan
+*
+*
+* thought question
+*
+* control say give
+* say
+* alive family
+*
+*
+* give
+*
+*
+*
+* vision create
+*
+*
+*
+*
+* say receive less
+* location change
+*
+* give distance more
+* question receive emotion
+* analysis
+*
+* time_period stability
+*
+*
+* entertainment data vision
+*
+*
+*
+* touch sense
+*
+* move ownership
+*
+*
+*
+* value
+*
+* plan create
+*
+* analysis say
+*
+* create
+*
+* alive change quantity
+*
+* control leader
+* distance less
+*
+*
+* analysis vision
+*
+*
+*
+*
+*
+* move body level less rest
+*
+*
+*
+*
+*
+* society dead change
+* emotion change good
+* say receive
+* give data say use
+* control stability
+* body food damage
+* family love group
+* artifact
+* control
+* emotion thought data more
+*
+* create
+*
+* quantity location stability
+*
+*
+*
+*
+* thought question
+* quantity less
+* damage touch effort
+*
+*
+* control stability
+* covering
+* entertainment sound
+* politics say plan
+*
+*
+* bad quantity less
+* say control
+*
+*
+*
+* school analysis
+*
+* create
+*
+*
+*
+*
+* dead
+*
+*
+* plan control
+*
+*
+*
+* say damage less help
+* say data move
+*
+*
+* distance change more
+*
+*
+* level change more
+*
+*
+* level change control less
+*
+* entertainment give say
+* entertainment sound
+* control stability
+*
+* body move effort
+* quantity change more
+* change location
+*
+*
+* say
+* say thought
+* create vision say artifact
+*
+* event
+*
+*
+*
+* quantity more
+*
+*
+*
+*
+* thought data
+*
+*
+*
+*
+* receive control
+* say sound more
+* financial give receive
+* group quantity change more
+* move location
+*
+*
+*
+* control give leader
+*
+*
+*
+*
+*
+* move quantity more stability
+*
+* say analysis
+* quantity change more
+*
+*
+* thought data more
+*
+*
+* distance less
+*
+* quantity change more
+*
+*
+*
+*
+*
+*
+* person time_point more rest expertise
+*
+*
+*
+*
+* control leader
+*
+* move military
+* person level change less rest

@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction and Overall Goal}{}% 1
+\BOOKMARK [1][-]{section.2}{Approach and Desiderata}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Data Set}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Semantic Constraint Language}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Automatic Semantic Constraint Generation}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Constrained Language Model}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Evaluation Concerns}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Work Done}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Designing the SC Language Syntax}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Finding the SC Language Tags}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Creating the Tag Generator}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Building the Automatic Semantic Constraint Generator}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.5}{Implementing the TMD Language Model}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Evaluation Results}{}% 14
+\BOOKMARK [1][-]{section.5}{Discussion and Conclusion}{}% 15
+\BOOKMARK [1][-]{section.6}{Addendum: Uses of semantics}{}% 16

@@ -1,0 +1,500 @@
+['it', 'have', 'are', 'be', 'can', 'so', 'here', 'now', 'well', 'will', 'or', 'has', 'more', 'even', 'still', 'being', 'may', 'today'] 65.32228866840573 18
+['i', 'me', 'am'] 45.96034800388825 3
+['do', 'get', 'go', 'come', 'want', 'let', 'take', 'need', 'make', 'give', 'help', 'find', 'must', 'keep', 'leave', 'stay', 'might', 'enough', 'try', 'ready'] 33.610507598720375 22
+['like', 'think', 'see', 'good', 'going', 'look', 'way', 'little', 'thing', 'much', 'nothing', 'great', 'better', 'things', 'lot', 'kind', 'bad', 'looking', 'getting', 'real'] 25.57878400356232 22
+['a'] 18.802661720861717 1
+['out', 'back', 'time', 'then', 'over', 'home', 'put', 'last', 'place', 'years', 'coming', 'saw', 'start', 'while', 'end', 'year', 'open', 'taking', 'set', 'months'] 17.17555796082894 25
+['in', 'was', 'march', 'april', 'july', 'june', 'august', 'september', 'december', 'january', 'october', 'february', 'november'] 15.3527791427738 13
+['know', 'why', 'tell', 'say', 'someone', 'wrong', 'guess', 'knows', 'somebody', 'nobody', 'ca'] 12.791619801303236 11
+['no', 'there'] 10.516226380346271 2
+['oh', 'okay', 'yes', 'ok', 'wow'] 8.13916429029092 5
+['he'] 7.378134471734389 1
+['don'] 5.56423309722934 1
+['mean', 'course', 'same', 'far', 'point', 'change', 'means', 'making', 'clear', 'longer', 'less', 'given', 'ones', 'giving', 'short', 'normal', 'impossible', 'difference', 'target', 'level'] 4.760740069600507 40
+['who', 'people', 'life'] 4.363212873062751 3
+['first', 'won', 'best', 'lost', 'second', 'top', 'win', 'straight', 'beat', 'finish', 'lead', 'record', 'third', 'round', 'final', 'grand', 'super', 'career', 'tie', 'victory'] 3.9626477680857994 57
+['move', 'hold', 'its', 'power', 'full', 'step', 'future', 'join', 'key', 'forward', 'major', 'position', 'holding', 'reach', 'group', 'push', 'helping', 'keeping', 'support', 'action'] 3.7927949317965926 88
+['thought', 'mind', 'idea', 'true', 'thinking', 'moment', 'truth', 'reason', 'sort', 'perfect', 'fact', 'somewhere', 'happening', 'wonder', 'fit', 'knowing', 'finding', 'nowhere', 'familiar', 'reality'] 3.787900523755668 24
+['right'] 3.7513781134089026 1
+['one', 'few', 'least', 'small', 'single'] 3.7412855064831327 5
+['man', 'old', 'girl', 'woman', 'boy', 'person', 'teenager'] 3.5902001934405074 7
+['does', 'looks', 'wants', 'says', 'makes', 'comes', 'goes', 'gets', 'needs', 'takes', 'thinks', 'likes', 'turns', 'gives', 'tells', 'keeps', 'ends', 'starts', 'sees', 'finds'] 3.3741711488755386 38
+['day', 'night', 'morning', 'days', 'hours', 'week', 'weeks', 'month', 'evening', 'afternoon', 'weekend', 'friday', 'sunday', 'saturday', 'tuesday', 'nights', 'monday', 'midnight', 'thursday', 'session'] 3.35337835333616 23
+['at'] 3.114970049935789 1
+['sam', 'boss', 'john', 'jack', 'captain', 'david', 'frank', 'mark', 'nick', 'mike', 'tom', 'michael', 'arthur', 'george', 'peter', 'james', 'paul', 'jimmy', 'bob', 'henry'] 3.0436129561529217 69
+['call', 'talk', 'talking', 'telling', 'calling', 'voice', 'calls', 'contact', 'speaking', 'listening', 'conversation', 'spoke', 'voices', 'callers'] 2.953657111814541 14
+['two', 'three', 'five', 'four', 'six', 'ten', 'seven', 'eight', 'nine', 'twenty', 'thirty', 'dozen', 'fifty', 'twelve', 'forty', 'fifteen', 'eleven', 'sixteen', 'sixty', 'eighteen'] 2.918552392072733 23
+['left', 'stand', 'side', 'walk', 'behind', 'front', 'leaving', 'sitting', 'ground', 'standing', 'walking', 'field', 'cross', 'spot', 'empty', 'corner', 'heading', 'sat', 'circle', 'row'] 2.46161720827961 29
+['guys', 'guy', 'nice', 'stuff', 'kid', 'bunch'] 2.410006519351511 6
+['as', 'role'] 2.2556470161021975 2
+['father', 'son', 'family', 'brother', 'uncle', 'born', 'brothers', 'cousin', 'grandfather', 'sons', 'nephew', 'heir', 'elder', 'deceased', 'grandson', 'eldest', 'siblings', 'grandparents'] 2.229926057983681 18
+['buddy', 'bell', 'harvey', 'johnson', 'gary', 'morgan', 'ben', 'chase', 'dean', 'marshall', 'rick', 'jones', 'scott', 'howard', 'walker', 'jerry', 'carter', 'clark', 'tyler', 'jason'] 2.186450212764981 227
+['turn', 'pick', 'drive', 'luck', 'pull', 'fast', 'stick', 'quick', 'grab', 'sight', 'lots', 'knock', 'turning', 'trick', 'plenty', 'shake', 'spell', 'passing', 'rush', 'picking'] 2.1385525230403415 62
+['l', 's', 'd', 't', 'o', 'u', 'n', 'm', 'c', 'f', 'b', 'p', 'r', 'h', 'g', 'w', 'k', 'j', 'v', 'z'] 2.023955865806268 22
+['mother', 'wife', 'lady', 'married', 'daughter', 'husband', 'sister', 'mary', 'aunt', 'grandmother', 'sisters', 'niece', 'daughters', 'widow', 'teresa', 'granddaughter', 'grandchildren'] 1.9520586994119893 17
+['free', 'safe', 'order', 'control', 'law', 'special', 'act', 'fair', 'rules', 'carry', 'orders', 'duty', 'rule', 'necessary', 'safety', 'practice', 'federal', 'powers', 'protection', 'authority'] 1.9111481990974981 62
+['darling', 'regina', 'naomi', 'sonny', 'teddy', 'nina', 'mack', 'frost', 'mercer', 'toby', 'helm', 'donna', 'meg', 'karen', 'holly', 'lydia', 'carol', 'lambert', 'molly', 'heather'] 1.9102030720275267 631
+['us'] 1.905983754750867 1
+['an'] 1.8882963767271101 1
+['kill', 'dead', 'die', 'death', 'killing', 'dying', 'dies', 'kills', 'deaths'] 1.7679276934585662 9
+['room', 'door', 'inside', 'bed', 'floor', 'apartment', 'window', 'upstairs', 'bathroom', 'kitchen', 'doors', 'desk', 'bedroom', 'basement', 'rooms', 'closet', 'locker', 'hallway'] 1.7013974986401985 18
+['problem', 'matter', 'question', 'answer', 'questions', 'handle', 'situation', 'problems', 'address', 'matters', 'issue', 'subject', 'dealing', 'answers', 'issues', 'sensitive', 'situations', 'topic', 'challenges', 'resolve'] 1.679119503419436 26
+['down', 'close'] 1.639829220939182 2
+['ahem', 'assholes', 'crores', 'taters', 'scrips', 'tattler', 'fart', 'farts', 'stammer', 'signora', 'wieners', 'douche', 'fucks', 'jap', 'icefall', 'thistles', 'gook', 'pricks', 'pissing', 'lolly'] 1.6175174711802065 5834
+['saying', 'security', 'report', 'government', 'service', 'public', 'press', 'national', 'local', 'condition', 'post', 'interview', 'defense', 'release', 'official', 'statement', 'reports', 'source', 'media', 'agency'] 1.597804820863653 46
+['kids', 'young', 'girls', 'child', 'children', 'boys', 'parents', 'age', 'adult', 'ages', 'youth', 'childhood', 'mothers', 'fathers', 'adults', 'aged', 'teen', 'orphans', 'teenagers', 'teens'] 1.584134232887276 29
+['earhart', 'mavis', 'puppeteer', 'pippin', 'mademoiselle', 'bingo', 'tabor', 'sire', 'samson', 'clementine', 'pincus', 'reaper', 'coop', 'hourglass', 'masquerade', 'slipper', 'joffrey', 'kendal', 'camelot', 'tangiers'] 1.564826637029282 2635
+['choice', 'decision', 'favor', 'mention', 'advice', 'settle', 'proof', 'reasons', 'request', 'appointment', 'claim', 'permission', 'chosen', 'seek', 'circumstances', 'grant', 'refuse', 'favour', 'status', 'decisions'] 1.5594596654533712 229
+['face', 'hurt', 'break', 'wake', 'blow', 'tough', 'surprise', 'worst', 'upset', 'breaking', 'challenge', 'faces', 'loss', 'repeat', 'shock', 'defeat', 'bitter', 'facing', 'opponent', 'stiff'] 1.5567930569345225 37
+['damn', 'crazy', 'fun', 'stupid', 'funny', 'weird', 'fool', 'joke', 'laugh', 'silly', 'boring', 'fools', 'jokes', 'annoying', 'laughs', 'humor', 'darn', 'goofy'] 1.5277641540711044 18
+['case', 'evidence', 'charge', 'prison', 'court', 'lawyer', 'arrest', 'judge', 'hearing', 'jail', 'justice', 'trial', 'attorney', 'criminal', 'cases', 'warrant', 'charges', 'custody', 'jury', 'prosecutor'] 1.5272915905361184 70
+['work', 'job', 'working', 'jobs', 'workers'] 1.5112919394230255 5
+['ruin', 'nonsense', 'interrupt', 'coincidence', 'token', 'madness', 'alibi', 'insult', 'spoil', 'senses', 'temper', 'sorts', 'unfortunate', 'absurd', 'spite', 'scares', 'mere', 'instinct', 'blackmail', 'hint'] 1.4862798266069879 1619
+['fall', 'drop', 'yesterday', 'share', 'fell', 'low', 'price', 'interest', 'rose', 'market', 'lower', 'rise', 'value', 'rate', 'dollar', 'marks', 'stock', 'closing', 'flat', 'falls'] 1.4578922599696222 131
+['wait', 'watch', 'waiting', 'watching', 'waits', 'pause'] 1.4447279900664447 6
+['dad', 'mom', 'dear', 'daddy', 'mama', 'mommy', 'mum', 'moms', 'dads'] 1.4229563129188816 9
+['god', 'hell', 'heaven', 'almighty', 'allah'] 1.3949062916636485 5
+['hope', 'wish', 'welcome', 'promise', 'glad', 'honor', 'congratulations', 'opportunity', 'invite', 'honour', 'wishes', 'reward', 'promises', 'greetings', 'praise', 'eager', 'vow', 'gesture', 'urge', 'vows'] 1.3845098938939595 32
+['fuck', 'shit', 'fucking', 'crap'] 1.3469748474007959 4
+['simple', 'form', 'ways', 'type', 'common', 'purpose', 'nature', 'model', 'example', 'theory', 'solid', 'particular', 'solution', 'kinds', 'shape', 'specific', 'behavior', 'tools', 'standard', 'basic'] 1.3142329453339177 144
+['play', 'game', 'team', 'playing', 'club', 'cup', 'match', 'season', 'games', 'squad', 'football', 'professional', 'player', 'tournament', 'teams', 'league', 'plays', 'baseball', 'players', 'matches'] 1.2980982760679716 33
+['worry', 'trouble', 'mistake', 'worse', 'fear', 'fault', 'doubt', 'putting', 'blame', 'letting', 'sooner', 'mistakes', 'chances', 'hurting', 'troubles', 'worrying', 'doubts', 'difficulties', 'error', 'difficulty'] 1.295330403934483 25
+['possible', 'danger', 'due', 'strike', 'spread', 'threat', 'growing', 'concern', 'alarm', 'scare', 'warning', 'failure', 'signs', 'crisis', 'panic', 'mass', 'possibility', 'recent', 'alert', 'consequences'] 1.2223868468555925 174
+['friend', 'friends', 'girlfriend', 'boyfriend', 'partner', 'ex', 'fellow', 'lover', 'neighbors', 'neighbor', 'roommate', 'colleagues', 'colleague', 'companions', 'companion', 'acquaintance', 'mentor', 'classmates', 'acquaintances'] 1.1718563031503182 19
+['head', 'office', 'officer', 'director', 'department', 'acting', 'heads', 'staff', 'assistant', 'former', 'inspector', 'senior', 'commissioner', 'affairs', 'deputy', 'principal', 'bureau', 'branch', 'representative', 'superintendent'] 1.1541014160501344 29
+['number', 'date', 'none', 'figure', 'list', 'count', 'present', 'numbers', 'places', 'details', 'results', 'counting', 'unknown', 'figures', 'dates', 'register', 'scores', 'timeline', 'toll', 'estimate'] 1.1388781193159465 41
+['attention', 'experience', 'strength', 'focus', 'genius', 'talent', 'lesson', 'knowledge', 'advantage', 'success', 'skills', 'detail', 'performance', 'vision', 'reputation', 'background', 'quality', 'ability', 'personality', 'lifetime'] 1.1132921793502832 146
+['love', 'loves', 'romantic', 'lovers'] 1.0974275463900431 4
+['rip', 'fetch', 'stare', 'beep', 'screwing', 'limo', 'nap', 'crawling', 'crawl', 'fade', 'pops', 'creep', 'hush', 'whisper', 'wakes', 'wandering', 'smiles', 'banging', 'footsteps', 'cue'] 1.0635379900239137 917
+['school', 'high', 'class', 'middle', 'college', 'teacher', 'student', 'students', 'grade', 'junior', 'schools', 'boarding', 'classes', 'teachers', 'prep', 'graduation', 'grades', 'kindergarten', 'secondary', 'pupils'] 1.0542892465534761 25
+['name', 'word', 'words', 'names', 'phrase', 'nickname', 'surname', 'epithet'] 1.0412937493413645 8
+['line', 'road', 'train', 'station', 'track', 'bus', 'bridge', 'lines', 'traffic', 'section', 'route', 'exit', 'express', 'tunnel', 'tracks', 'terminal', 'passenger', 'highway', 'lane', 'roads'] 1.0372432047557718 71
+['army', 'lieutenant', 'force', 'colonel', 'command', 'soldiers', 'military', 'base', 'commander', 'guard', 'operation', 'unit', 'forces', 'guards', 'troops', 'units', 'division', 'garrison', 'combat', 'personnel'] 1.034610350775136 60
+['trust', 'sense', 'calm', 'quiet', 'respect', 'self', 'spirit', 'responsibility', 'silence', 'confidence', 'comfort', 'friendship', 'loyalty', 'patience', 'dignity', 'commitment', 'integrity', 'honesty', 'preserve', 'utmost'] 1.0144251369235968 34
+['white', 'black', 'red', 'dark', 'blue', 'green', 'brown', 'color', 'gray', 'yellow', 'pink', 'orange', 'colors', 'grey', 'pale', 'colour', 'purple', 'colored', 'crimson', 'stripes'] 1.0121298283250935 21
+['world', 'country', 'american', 'america', 'states', 'nation', 'europe', 'international', 'canada'] 1.010205819646937 9
+['found', 'body', 'lie', 'lying', 'lay', 'bodies', 'remains', 'unconscious', 'corpses'] 0.99859425850157 9
+['story', 'book', 'movie', 'film', 'books', 'stories', 'movies', 'character', 'films', 'drama', 'version', 'script', 'adventure', 'tale', 'romance', 'fantasy', 'comic', 'characters', 'horror', 'documentary'] 0.9945774684541902 43
+['miss', 'mrs', 'sarah', 'rachel', 'grace', 'lily', 'sue', 'helen', 'penny', 'amelia', 'sally', 'lucy', 'elizabeth', 'daisy', 'actress', 'anne', 'dame', 'contestant', 'headmistress'] 0.9896493058750516 19
+['feel', 'feeling', 'felt', 'feels'] 0.9619030754637384 4
+['hit', 'catch', 'pass', 'throw', 'ball', 'kick', 'double', 'score', 'hitting', 'hits', 'yards', 'passes', 'pitch', 'foul', 'throws', 'pinch', 'catches', 'tying', 'homer', 'outs'] 0.9437093793667825 32
+['whole', 'part', 'rest', 'entire', 'parts', 'portion', 'remainder', 'portions'] 0.9415153343829195 8
+['sent', 'asking', 'e', 'message', 'letter', 'file', 'note', 'sending', 'mail', 'letters', 'messages', 'instructions', 'incoming', 'mails', 'memo', 'reply', 'fax', 'telegram', 'email', 'emails'] 0.9282498008651018 33
+['mr'] 0.9212626114549536 1
+['deal', 'plan', 'sign', 'offer', 'plans', 'contract', 'agreement', 'package', 'bid', 'signing', 'proposal', 'deals', 'draft', 'pact', 'treaty', 'compromise', 'contracts', 'swap', 'proposals', 'deadline'] 0.8997272160748833 31
+['box', 'machine', 'keys', 'lock', 'pack', 'clock', 'device', 'switch', 'button', 'flash', 'chip', 'chips', 'sets', 'boxes', 'drives', 'gear', 'tag', 'battery', 'machines', 'plug'] 0.8882844276205825 81
+['guest', 'tour', 'opening', 'regular', 'schedule', 'guests', 'chat', 'friendly', 'host', 'interviews', 'gather', 'charity', 'poker', 'arrival', 'brief', 'presents', 'reception', 'gathering', 'occasion', 'farewell'] 0.8858541008692267 179
+['town', 'south', 'north', 'area', 'miles', 'village', 'west', 'lies', 'east', 'zone', 'mile', 'district', 'western', 'areas', 'northern', 'region', 'villages', 'towns', 'kilometers', 'northeast'] 0.871002104055385 37
+['sweetheart', 'pal', 'freak', 'stranger', 'missy', 'lad', 'paranoid', 'comrade', 'buddies', 'prom', 'porn', 'groom', 'clown', 'hacker', 'scrooge', 'landlady', 'addict', 'fling', 'gal', 'pervert'] 0.8658376597087537 361
+['sir', 'baronet'] 0.8480827726085703 2
+['phone', 'touch', 'smart', 'personal', 'computer', 'internet', 'telephone', 'phones', 'mobile', 'cable', 'computers', 'communications', 'laptop', 'conversations', 'dial', 'caller', 'pager', 'cellphone', 'wireless', 'landline'] 0.8249271593942626 29
+['bitches', 'hail', 'idiots', 'asses', 'dope', 'feds', 'fascists', 'sherpas', 'girlfriends', 'freaks', 'fellows', 'dudes', 'morons', 'lads', 'mates', 'japs', 'whores', 'boyfriends', 'eighty', 'cowards'] 0.8199989968151243 1112
+['buy', 'company', 'sell', 'selling', 'firm', 'buying', 'giant', 'brand', 'stake', 'sale', 'parent', 'offering', 'dealer', 'customers', 'customer', 'operator', 'corporation', 'companies', 'maker', 'purchase'] 0.817399897372702 83
+['drink', 'honey', 'coffee', 'tea', 'beer', 'bottle', 'drinks', 'cigarette', 'liquor', 'cigarettes', 'coke', 'soda', 'bottles', 'tobacco', 'sip', 'cigar', 'beverage', 'cola', 'pepsi', 'beverages'] 0.816285997611664 23
+['car', 'truck', 'driving', 'cars', 'driver', 'drove', 'cab', 'vehicle', 'taxi', 'motorcycle', 'ford', 'trucks', 'motor', 'auto', 'vehicles', 'drivers', 'speeding', 'pickup', 'suv', 'automobile'] 0.808859999204743 29
+['teach', 'program', 'project', 'planning', 'social', 'study', 'research', 'society', 'community', 'technology', 'education', 'learning', 'tech', 'teaching', 'development', 'environment', 'communication', 'organization', 'active', 'chapter'] 0.8086912265136768 112
+['stop', 'stopping', 'stops', 'halt'] 0.7994424830432391 4
+['building', 'wall', 'gate', 'glass', 'stone', 'block', 'roof', 'tower', 'walls', 'tall', 'houses', 'wood', 'entrance', 'ceiling', 'frame', 'blocks', 'floors', 'brick', 'buildings', 'concrete'] 0.7902274941110143 46
+['ls', 'sm', 'cos', 'lf', 'rani', 'ta', 'ka', 'si', 'gi', 'ne', 'mi', 'gran', 'nd', 'sis', 'fr', 'pa', 'kin', 'ew', 'mo', 'ru'] 0.7836116046212123 452
+['evil', 'magic', 'sword', 'devil', 'angel', 'shadow', 'ghost', 'witch', 'demon', 'wizard', 'warrior', 'alien', 'curse', 'mortal', 'vampire', 'vampires', 'swords', 'zombie', 'spirits', 'knights'] 0.7763543789053579 69
+['bet', 'bother', 'cares', 'folks', 'pretend', 'hurts', 'wise', 'hates', 'tricks', 'loser', 'odds', 'pretending', 'shy', 'meantime', 'rumor', 'lame', 'bosses', 'habit', 'buzz', 'guessing'] 0.7703460711033946 66
+['thanks', 'poor', 'rich', 'boom', 'fortunes', 'advances'] 0.7675106898934795 6
+['living', 'lives', 'hundred', 'thousand', 'thousands', 'families', 'americans', 'ordinary', 'hundreds', 'homes', 'starving', 'citizen', 'homeless', 'citizens', 'persons', 'population', 'residents', 'dozens', 'poverty', 'individuals'] 0.7665655628235076 47
+['cut', 'save', 'raise', 'cost', 'extra', 'plus', 'saving', 'cutting', 'spending', 'budget', 'costs', 'raising', 'cuts', 'trim', 'slash', 'reducing', 'reduction', 'trimming', 'reductions'] 0.7592408280312267 19
+['air', 'fly', 'accident', 'plane', 'flight', 'flying', 'airport', 'crash', 'bound', 'pilot', 'landing', 'helicopter', 'planes', 'jet', 'runway', 'passengers', 'flights', 'aircraft', 'airplane', 'pilots'] 0.7561016559773919 36
+['elevator', 'garage', 'stairs', 'barn', 'yard', 'deck', 'cabin', 'gym', 'cage', 'alley', 'log', 'lobby', 'tables', 'dorm', 'ledge', 'floating', 'precinct', 'picnic', 'lounge', 'porch'] 0.7539076109935291 285
+['city', 'outside', 'main', 'mayor', 'neighborhood', 'streets', 'central', 'square', 'palace', 'capital', 'downtown', 'headquarters', 'cities', 'centre', 'offices', 'neighbourhood', 'suburbs', 'metropolis', 'consulate', 'metropolitan'] 0.7384480324918485 26
+['music', 'rock', 'soul', 'song', 'records', 'pop', 'band', 'studio', 'punk', 'hop', 'songs', 'dj', 'jazz', 'chart', 'folk', 'singer', 'hip', 'jam', 'recording', 'tune'] 0.72754531664896 62
+['minute', 'minutes', 'hour', 'seconds', 'penalty'] 0.7269377349611212 5
+['show', 'tv', 'radio', 'shows', 'television', 'channel', 'fox', 'broadcast', 'commercials', 'daytime', 'viewers', 'broadcasting', 'abc', 'airs', 'airing', 'cbc', 'broadcaster', 'pbs', 'newscast'] 0.7267689622700548 19
+['feelings', 'shame', 'regret', 'joy', 'anger', 'pride', 'pity', 'desire', 'happiness', 'passion', 'guilt', 'tragedy', 'misery', 'rage', 'sadness', 'grief', 'emotions', 'kindness', 'despair', 'appetite'] 0.7210306907737978 139
+['tonight', 'tomorrow', 'till', 'pm'] 0.7176214824142568 4
+['bow', 'brace', 'float', 'dummy', 'dynamite', 'mirrors', 'flashlight', 'slit', 'sights', 'handcuffs', 'microphone', 'arrows', 'pad', 'jacks', 'strap', 'warp', 'zoom', 'lenses', 'wires', 'leash'] 0.7160687736564462 764
+['hello', 'goodbye', 'kiss', 'dolly'] 0.6909891517639818 4
+['money', 'cash', 'funds', 'donations'] 0.676710982099766 4
+['cool', 'cold', 'ice', 'wind', 'heat', 'dry', 'weather', 'wet', 'winter', 'chill', 'freezing', 'temperature', 'winters', 'cooler', 'breeze', 'climate', 'chilly', 'melting', 'temperatures', 'damp'] 0.6746857098069693 31
+['hi', 'ha', 'ho'] 0.6689811928489255 3
+['enemy', 'enemies', 'movement', 'surrender', 'traitor', 'ira', 'struggle', 'pro', 'crush', 'alliance', 'revolution', 'anti', 'ally', 'fighters', 'armies', 'resistance', 'homeland', 'allies', 'groups', 'independence'] 0.6632091668144554 170
+['piece', 'paper', 'copy', 'papers', 'page', 'pieces', 'mirror', 'notes', 'print', 'prints', 'pen', 'document', 'pages', 'signature', 'stamp', 'copies', 'blank', 'articles', 'diary', 'notebook'] 0.65439923234079 67
+['meet', 'meeting', 'visit', 'discuss', 'conference', 'meetings', 'summit', 'meets', 'ministers', 'delegation', 'counterpart', 'consultations'] 0.6468382157810163 12
+['view', 'ideas', 'policy', 'approach', 'politics', 'forth', 'understanding', 'facts', 'interests', 'engagement', 'strategy', 'intentions', 'argument', 'relations', 'broad', 'circles', 'contrary', 'embrace', 'discussion', 'perspective'] 0.6465681794753101 178
+['couple', 'sex', 'relationship', 'marriage', 'gay', 'affair', 'divorce', 'wives', 'couples', 'lesbian', 'relationships', 'pregnancy', 'abortion', 'husbands', 'intercourse', 'marriages', 'homosexual', 'gays', 'homosexuality', 'homosexuals'] 0.643158971115769 31
+['victim', 'innocent', 'suspect', 'witness', 'fate', 'ill', 'victims', 'incident', 'prisoner', 'prisoners', 'witnesses', 'hostage', 'accused', 'punishment', 'criminals', 'civilians', 'autopsy', 'torture', 'relatives', 'suspects'] 0.6419100532018779 73
+['murder', 'crime', 'gang', 'revenge', 'connection', 'rape', 'violence', 'assault', 'motive', 'crimes', 'murders', 'acts', 'robbery', 'conspiracy', 'homicide', 'treason', 'counts', 'kidnapping', 'assassination', 'abduction'] 0.6384670903041236 73
+['use', 'system', 'using', 'code', 'systems', 'uses', 'codes', 'usage'] 0.6340114912599711 8
+['motherfucker', 'sweetie', 'thou', 'piss', 'monsieur', 'sucks', 'amen', 'fella', 'fellas', 'pussy', 'damned', 'blah', 'moron', 'auntie', 'fucker', 'bugger', 'boobs', 'sakes', 'motherfuckers', 'chap'] 0.6337077004160516 136
+['house', 'bill'] 0.6324250279639472 2
+['care', 'sick', 'health', 'caring', 'nursing', 'healthcare', 'maternity'] 0.6291508377572593 7
+['men', 'women', 'male', 'female'] 0.622028630194258 4
+['eating', 'chicken', 'cook', 'bread', 'delicious', 'ate', 'meal', 'pizza', 'soup', 'cooking', 'sandwich', 'chef', 'dish', 'tastes', 'eats', 'dishes', 'burger', 'supper', 'menu', 'steak'] 0.6137587683320053 55
+['food', 'bar', 'store', 'shop', 'restaurant', 'shopping', 'mall', 'bars', 'chain', 'warehouse', 'cafe', 'grocery', 'stores', 'pub', 'restaurants', 'chains', 'specialty', 'groceries', 'bakery', 'pharmacy'] 0.6115984778863556 40
+['police', 'detective', 'cops', 'cop', 'sheriff', 'officers', 'policeman', 'detectives', 'policemen'] 0.6112271779660096 9
+['butt', 'hook', 'punch', 'tuck', 'axe', 'prick', 'kissing', 'kicking', 'smash', 'touching', 'bump', 'hammer', 'hack', 'sack', 'whip', 'fist', 'shave', 'slap', 'needle', 'blows'] 0.6104508235871043 119
+['pay', 'million', 'worth', 'dollars', 'millions', 'billion', 'billions', 'francs', 'euros', 'rupees', 'costing', 'lire', 'rubles', 'pesetas', 'pesos', 'trillion', 'nt', 'dinars', 'kroner', 'yuan'] 0.6100120145903316 24
+['hurry', 'dare', 'cry', 'crying', 'tears', 'bang', 'hug', 'screaming', 'begging', 'smiling', 'scream', 'yelling', 'shaking', 'shout', 'yell', 'strangers', 'shouting', 'cries', 'kneel', 'screams'] 0.6076829514536155 28
+['information', 'search', 'location', 'access', 'map', 'data', 'site', 'tracking', 'guide', 'network', 'link', 'monitor', 'database', 'web', 'gps', 'website', 'connections', 'update', 'monitoring', 'info'] 0.6021472071866382 65
+['account', 'amount', 'insurance', 'clients', 'collect', 'accounts', 'tax', 'bills', 'pays', 'sum', 'fund', 'payment', 'deposit', 'taxes', 'benefit', 'employees', 'asset', 'salary', 'income', 'savings'] 0.6013370982695195 167
+['hand', 'hands', 'arms', 'shook'] 0.596982762840007 4
+['check', 'card', 'fake', 'cards', 'id', 'identity', 'passport', 'checks', 'paperwork', 'fingerprints', 'identification', 'signatures', 'phony', 'cheque', 'passports', 'ids', 'envelopes', 'debit', 'fingerprint', 'counterfeit'] 0.5847298654685877 23
+['legs', 'skin', 'nose', 'teeth', 'finger', 'ears', 'tongue', 'tooth', 'fingers', 'ear', 'lips', 'tail', 'belly', 'toes', 'lip', 'forehead', 'breasts', 'cheek', 'cheeks', 'jaw'] 0.577945203287719 56
+['isn'] 0.572071913638609 1
+['works', 'art', 'hall', 'original', 'style', 'library', 'artist', 'painting', 'collection', 'design', 'arts', 'museum', 'artists', 'gallery', 'architect', 'display', 'designer', 'classical', 'workshop', 'designs'] 0.5624856247860384 64
+['fine'] 0.561337970486787 1
+['ranger', 'chopper', 'alpha', 'elf', 'hawk', 'echo', 'scout', 'balloon', 'clone', 'hercules', 'thor', 'rainbow', 'scouts', 'arrow', 'rendezvous', 'wraith', 'ss', 'phantom', 'dc', 'rogue'] 0.5565448260605018 269
+['picture', 'camera', 'pictures', 'video', 'photo', 'showing', 'screen', 'photos', 'cameras', 'image', 'photograph', 'images', 'photographer', 'photographs', 'videos', 'viewing', 'photographers', 'screens', 'editing', 'graphic'] 0.5524605269366953 22
+['goodness', 'jew', 'destiny', 'worthy', 'noble', 'beings', 'existence', 'absolute', 'beloved', 'conscience', 'eternity', 'humanity', 'realm', 'consciousness', 'moral', 'wisdom', 'myth', 'quest', 'respects', 'ultimate'] 0.5509753272553112 134
+['york', 'bucks', 'center', 'washington', 'louis', 'chicago', 'charlotte', 'miami', 'jersey', 'dallas', 'boston', 'baltimore', 'manhattan', 'brooklyn', 'cleveland', 'philadelphia', 'queens', 'atlanta', 'rochester', 'houston'] 0.5468572735932915 48
+['deep', 'mouth', 'feet', 'above', 'bottom', 'rough', 'stretch', 'thick', 'upper', 'plain', 'narrow', 'meters', 'shallow', 'depths', 'stretching', 'stretches'] 0.5380810936578396 16
+['foot', 'neck', 'arm', 'leg', 'throat', 'chest', 'stomach', 'knees', 'surgery', 'shoulder', 'knee', 'shoulders', 'toe', 'injury', 'sore', 'ribs', 'thumb', 'ankle', 'wrist', 'spine'] 0.5375410210464271 47
+['run', 'running', 'runs'] 0.5341318126868863 3
+['secret', 'agent', 'nixon', 'client', 'fbi', 'agents', 'secrets', 'files', 'documents', 'classified', 'informant', 'dea', 'interpol', 'revealing', 'identities', 'atf', 'affidavit', 'informer', 'memos'] 0.5288323501874018 19
+['business', 'private', 'trade', 'services', 'industry', 'commercial', 'investment', 'economy', 'entertainment', 'domestic', 'industries', 'sector', 'enterprise', 'businesses', 'enterprises', 'businessmen', 'retail', 'firms', 'commerce', 'tourism'] 0.5277184504263637 24
+['wedding', 'birthday', 'christmas', 'funeral', 'bride', 'eve', 'holiday', 'thanksgiving', 'anniversary', 'holidays', 'halloween', 'parade', 'easter', 'celebration', 'feast', 'bash', 'homecoming', 'mourning', 'birthdays', 'weddings'] 0.5267395688181786 28
+['ma', 'min', 'ri', 'dong', 'tao', 'jong', 'li', 'nan', 'chi', 'han', 'chin', 'sung', 'jung', 'tang', 'ji', 'ding', 'chang', 'mao', 'wu', 'yi'] 0.5253556327514345 79
+['franklin', 'roosevelt', 'truman', 'lincoln', 'virginia', 'bend', 'liberty', 'hudson', 'hawaii', 'madison', 'fort', 'chester', 'serves', 'ohio', 'jefferson', 'churchill', 'georgia', 'pennsylvania', 'nassau', 'monroe'] 0.5237016603789838 219
+['nurse', 'servant', 'hire', 'maid', 'nanny', 'employee', 'worker', 'bartender', 'servants', 'dentist', 'therapist', 'waiter', 'waitress', 'counselor', 'psychiatrist', 'resident', 'bodyguard', 'volunteer', 'tutor', 'prostitute'] 0.5227227787707988 202
+['violet', 'chick', 'amber', 'dragonfly', 'flies', 'bee', 'worm', 'rot', 'paradise', 'hive', 'dot', 'feeds', 'bark', 'swamp', 'sleeps', 'bees', 'laurel', 'flock', 'birch', 'iris'] 0.5223177243122396 407
+['president', 'general', 'chief', 'secretary', 'vice', 'executive', 'chairman', 'presidents'] 0.5044953281356296 8
+['dog', 'bear', 'cat', 'wild', 'dogs', 'cats', 'pet', 'puppy', 'pets', 'stray', 'breed', 'hound', 'puppies', 'canine', 'kennel', 'breeds', 'terrier'] 0.5011873833907284 17
+['hair', 'wear', 'clothes', 'dress', 'glasses', 'fashion', 'costume', 'makeup', 'wears', 'beard', 'wardrobe', 'costumes', 'attire'] 0.5004447835500363 13
+['baby', 'birth', 'babies', 'infant', 'newborn'] 0.49801445679868045 5
+['vote', 'opinion', 'senator', 'campaign', 'cast', 'election', 'contest', 'clinton', 'senate', 'congress', 'votes', 'presidency', 'candidate', 'reagan', 'primary', 'politicians', 'congressman', 'politician', 'bush', 'debate'] 0.4940651758277271 101
+['king', 'queen', 'prince', 'royal', 'crown', 'duke', 'kingdom', 'ii', 'kings', 'monarch', 'iii', 'iv', 'coronation', 'regent', 'vi'] 0.4916686036145844 15
+['spare', 'construction', 'equipment', 'facility', 'transport', 'electric', 'delivery', 'storage', 'handling', 'sub', 'capacity', 'engineer', 'repair', 'grid', 'maintenance', 'haul', 'replacement', 'clearance', 'shipment', 'repairs'] 0.49021715847141356 170
+['ride', 'horse', 'race', 'bike', 'horses', 'riding', 'bull', 'lap', 'riders', 'rider', 'cart', 'racing', 'rides', 'bikes', 'colt', 'wagon', 'saddle', 'races', 'trainer', 'stakes'] 0.49008214031856046 53
+['cover', 'roll', 'fill', 'plate', 'aside', 'add', 'remove', 'bowl', 'wrap', 'rolling', 'covering', 'wipe', 'smooth', 'plates', 'filling', 'sheet', 'fold', 'covers', 'rolls', 'edges'] 0.48485018689550263 20
+['suit', 'pants', 'shirt', 'hat', 'coat', 'jacket', 'suits', 'gloves', 'sweat', 'outfit', 'boots', 'underwear', 'cap', 'socks', 'shirts', 'sweater', 'cowboy', 'sunglasses', 'vest', 'shorts'] 0.4827911600644928 36
+['feed', 'milk', 'meat', 'pig', 'goat', 'farm', 'rice', 'beef', 'farmers', 'corn', 'cow', 'pigs', 'raw', 'sheep', 'farmer', 'crops', 'grain', 'cattle', 'hog', 'cotton'] 0.472934834906216 60
+['master', 'table', 'favorite', 'draw', 'fan', 'masters', 'drawing', 'drew', 'favourite', 'martial', 'draws', 'favorites'] 0.4703019809255805 12
+['jesus', 'christ', 'church', 'holy', 'priest', 'virgin', 'saint', 'pastor', 'saints', 'trinity', 'cathedral', 'apostle', 'apostles', 'crucifixion', 'nativity'] 0.46820919955635737 15
+['ship', 'boat', 'crew', 'navy', 'ships', 'fleet', 'pirate', 'port', 'pirates', 'merchant', 'sail', 'rig', 'cargo', 'crews', 'vessel', 'cruise', 'sailing', 'boats', 'craft', 'yacht'] 0.46635269995462714 48
+['th', 'ms', 'madam', 'doc', 'er', 'papa', 'mister', 'gee', 'excellency', 'strikeout'] 0.4630447552097261 10
+['earth', 'space', 'mission', 'moon', 'satellite', 'mars', 'launch', 'discovery', 'shuttle', 'spaceship', 'atlantis', 'astronaut', 'orbit', 'missions', 'apollo', 'capsule', 'satellites', 'module', 'payload', 'exploration'] 0.4608507102258631 32
+['shot', 'shoot', 'shooting', 'shots', 'shooter', 'shoots', 'shootout'] 0.45707020194597614 7
+['heart', 'blood'] 0.45146694860257225 2
+['eyes', 'eye', 'smile', 'gaze', 'grin'] 0.4400916692246981 5
+['dig', 'trap', 'dirt', 'rocks', 'stones', 'digging', 'cave', 'ashes', 'underground', 'sand', 'pile', 'pit', 'clay', 'wreck', 'laying', 'mud', 'dug', 'caves', 'logs', 'ditch'] 0.43631116094481115 105
+['y', 'la', 'de', 'se', 'en', 'con', 'es', 'el', 'para', 'mas', 'sus'] 0.4331719888909764 11
+['speed', 'size', 'range', 'weight', 'distance', 'load', 'surface', 'scale', 'degrees', 'angle', 'gravity', 'beam', 'relative', 'length', 'height', 'altitude', 'reaches', 'medium', 'minimum', 'maximum'] 0.4310116984453267 67
+['pain', 'cause', 'risk', 'harm', 'damage', 'suffering', 'stress', 'trauma', 'effects', 'causing', 'extreme', 'disorder', 'distress', 'depression', 'causes', 'affects', 'exposure', 'damages', 'discomfort', 'impairment'] 0.42848010807933096 21
+['clean', 'burn', 'waste', 'cleaning', 'burning', 'trash', 'dump', 'garbage', 'rubbish', 'cleaner', 'disposal', 'dumping', 'litter', 'sewer', 'firewood', 'discharge', 'sewage', 'dumps', 'cleanup', 'recycling'] 0.4277712627768522 26
+['seat', 'board', 'chair', 'members', 'member', 'seats', 'council', 'committee', 'serving', 'cabinet', 'chairs', 'speaker', 'chamber', 'panel', 'directors', 'parliament', 'assembly', 'boards', 'representatives', 'mp'] 0.42351819096197935 44
+['half', 'total', 'period', 'points', 'percent', 'gross', 'average', 'quarter', 'goal', 'quarters', 'net', 'percentage', 'goals', 'margin', 'deficit', 'doubling', 'thirds'] 0.417003565086817 17
+['lab', 'professor', 'science', 'university', 'expert', 'degree', 'academy', 'studying', 'studies', 'scientist', 'engineering', 'bachelor', 'associate', 'chemistry', 'institute', 'graduate', 'yale', 'scientists', 'specialist', 'harvard'] 0.41578840171113907 128
+['fight', 'fighting', 'battle', 'fights', 'battles', 'bout'] 0.4141344293386885 6
+['screw', 'engine', 'trunk', 'pipe', 'blade', 'wheel', 'blades', 'spinning', 'tube', 'pump', 'wheels', 'cam', 'rear', 'tire', 'generator', 'twin', 'bolt', 'steam', 'brakes', 'shaft'] 0.40998262113845546 107
+['attack', 'bomb', 'suicide', 'terrorist', 'explosion', 'blast', 'wounded', 'attacks', 'explosives', 'bombing', 'bombs', 'targets', 'explosive', 'raid', 'casualties', 'bomber', 'ambush', 'explosions', 'grenade', 'raids'] 0.4087674577627776 33
+['fridge', 'chowder', 'sweets', 'jelly', 'truffle', 'donut', 'pancakes', 'doughnuts', 'mug', 'popcorn', 'cereal', 'snack', 'bakers', 'lemonade', 'deli', 'doggy', 'snacks', 'cupcake', 'treats', 'biscuits'] 0.4048181767918243 336
+['summer', 'pool', 'event', 'sports', 'competition', 'swim', 'events', 'swimming', 'sport', 'tennis', 'boxing', 'marathon', 'champ', 'amateur', 'downhill', 'chess', 'olympics', 'wrestling', 'wheelchair', 'relay'] 0.3901687072072624 103
+['max', 'van', 'wolf', 'munch', 'jacob', 'leo', 'albert', 'gus', 'herr', 'hans', 'alfred', 'xavier', 'bart', 'jan', 'schmidt', 'marcel', 'mayer', 'conrad', 'grimm', 'abraham'] 0.38203386349786256 102
+['turtle', 'duck', 'seal', 'elephant', 'snake', 'rabbit', 'frog', 'tiger', 'toad', 'eagle', 'zoo', 'shark', 'squirrel', 'donkey', 'octopus', 'whale', 'pigeon', 'heron', 'turtles', 'goose'] 0.38159505450109016 117
+['times', 'article', 'newspaper', 'daily', 'magazine', 'reporter', 'editor', 'guardian', 'column', 'newspapers', 'journal', 'globe', 'weekly', 'headline', 'herald', 'syndicate', 'editorial', 'correspondent', 'tribune', 'columnist'] 0.3762618374633923 23
+['fire', 'heavy', 'tank', 'tanks', 'fires', 'firing', 'rocket', 'flames', 'artillery', 'blaze', 'gunfire', 'rockets', 'blazes', 'mortars', 'shelling', 'mortar', 'firefighters'] 0.37362898348275675 17
+['doctor', 'medical', 'medicine', 'doctors', 'surgeon', 'dental', 'physician', 'physicians'] 0.3630638130220013 8
+['gift', 'fortune', 'fancy', 'basket', 'doll', 'gifts', 'jewelry', 'toys', 'furniture', 'toy', 'item', 'perfume', 'household', 'items', 'custom', 'watches', 'dolls', 'vintage', 'collecting', 'baskets'] 0.35877698666891517 64
+['coach', 'backup', 'bears', 'offense', 'twins', 'bench', 'angels', 'rangers', 'lightning', 'lions', 'offensive', 'seasons', 'rays', 'defensive', 'giants', 'saves', 'rookie', 'overtime', 'sharks', 'starters'] 0.3560428690736398 167
+['bitch', 'bastard', 'whore', 'liar', 'bastards', 'slut'] 0.35567156915329373 6
+['slave', 'tribe', 'slaves', 'hmong', 'gypsy', 'maya', 'cousins', 'indians', 'ancestors', 'aryan', 'native', 'clan', 'inheritance', 'royalty', 'nobles', 'colonies', 'lordship', 'peoples', 'tribes', 'origin'] 0.3556040600768672 284
+['investigation', 'sec', 'fraud', 'breach', 'investigating', 'abuse', 'counsel', 'claims', 'complaint', 'commission', 'lawsuit', 'scandal', 'obstruction', 'complaints', 'corruption', 'investigator', 'violation', 'investigations', 'ethics', 'investigators'] 0.35334250601657763 95
+['star', 'hero', 'stars', 'classic', 'actor', 'heroes', 'ace', 'hollywood', 'legend', 'fame', 'legends', 'idol', 'superstar', 'icon', 'greats'] 0.33909809089057497 15
+['wire', 'tear', 'blowing', 'gates', 'perimeter', 'shell', 'fence', 'armour', 'tore', 'shield', 'cannon', 'flank', 'blocking', 'shields', 'nightfall', 'armor', 'burst', 'marching', 'chased', 'razor'] 0.3369715549831386 89
+['mountain', 'hill', 'mountains', 'trail', 'climb', 'valley', 'cliff', 'mount', 'hills', 'climbing', 'everest', 'paths', 'ski', 'peak', 'ridge', 'volcano', 'lookout', 'scenery', 'cliffs', 'bluff'] 0.335925164298527 62
+['sea', 'beach', 'fishing', 'ocean', 'marine', 'coast', 'palm', 'pearl', 'shore', 'waters', 'atlantic', 'pacific', 'harbor', 'caribbean', 'seas', 'surf', 'gulf', 'isle', 'reef', 'arctic'] 0.33389989200573045 48
+['camp', 'castle', 'desert', 'retreat', 'jungle', 'shelter', 'remote', 'tent', 'cottage', 'fortress', 'residence', 'compound', 'ranch', 'lodge', 'sanctuary', 'mansion', 'hut', 'hostel', 'refuge', 'countryside'] 0.33379862839109065 65
+['sun', 'sky', 'darkness', 'dawn', 'shine', 'shadows', 'sunshine', 'heavens', 'shining', 'sunset', 'sunrise', 'daylight', 'skies', 'twilight', 'sunlight', 'moonlight', 'autumn', 'mist', 'shines', 'horizon'] 0.33025440187869654 26
+['haven', 'havens'] 0.32495493937921216 2
+['penis', 'lungs', 'tissue', 'breast', 'scar', 'liver', 'organs', 'lung', 'limb', 'kidney', 'vagina', 'tumor', 'donor', 'womb', 'testicles', 'implants', 'veins', 'ultrasound', 'complications', 'cadaver'] 0.3197904950325809 264
+['bite', 'suck', 'flesh', 'guts', 'scratch', 'spit', 'gut', 'bug', 'stink', 'swallow', 'tick', 'lick', 'vomit', 'sucking', 'mouths', 'chew', 'licking', 'bubble', 'bubbles', 'bites'] 0.317360168281225 42
+['sounds', 'sound', 'noise', 'noises', 'sounding'] 0.3155036686794948 5
+['rope', 'couch', 'carpet', 'glove', 'silk', 'pillow', 'cloth', 'fabric', 'sofa', 'sheets', 'blanket', 'thread', 'straw', 'mattress', 'diaper', 'ribbon', 'curtain', 'curtains', 'rug', 'feather'] 0.3148285779152292 120
+['party', 'leader', 'parties', 'labour', 'opposition', 'socialist', 'coalition'] 0.31442352345666996 7
+['breath', 'breathing', 'bleeding', 'wasting', 'heartbeat', 'fever', 'headache', 'coma', 'pulse', 'symptoms', 'sweating', 'sickness', 'cough', 'sensation', 'rash', 'swelling', 'pains', 'vomiting', 'trembling', 'headaches'] 0.3142885053038168 91
+['read', 'reading', 'text', 'bible', 'reads', 'paragraph'] 0.31408597807453714 6
+['dream', 'dreams', 'thoughts', 'hearts', 'glory', 'dreaming', 'waking', 'nightmares', 'fantasies', 'visions', 'aspirations'] 0.31077803332963605 11
+['bust', 'mask', 'corpse', 'mummy', 'tattoo', 'bearing', 'statue', 'fountain', 'coffin', 'coin', 'hangs', 'bore', 'poster', 'altar', 'coins', 'rests', 'marker', 'pharaoh', 'busts', 'marble'] 0.30888777918969257 137
+['tree', 'trees', 'leaves', 'garden', 'plant', 'grass', 'lawn', 'plants', 'oak', 'pine', 'seeds', 'shade', 'leaf', 'forests', 'gardens', 'planting', 'bushes', 'maple', 'woodland', 'evergreen'] 0.30696377051153584 35
+['excuse', 'excuses', 'pretext', 'justification'] 0.30595113436513754 4
+['taste', 'sugar', 'juice', 'salt', 'mix', 'ginger', 'sauce', 'lemon', 'dressing', 'mint', 'flavor', 'lime', 'cups', 'syrup', 'pepper', 'chili', 'sour', 'stir', 'flour', 'olive'] 0.3058161162122845 51
+['coward', 'beckett', 'dylan', 'quote', 'plato', 'romeo', 'godfather', 'houdini', 'masterpiece', 'columbo', 'shakespeare', 'collaborator', 'kissinger', 'elvis', 'jfk', 'hendrix', 'dante', 'interviewer', 'jagger', 'eliot'] 0.3050397618333791 391
+['trace', 'material', 'sample', 'content', 'soil', 'chemical', 'samples', 'produce', 'radiation', 'batch', 'concentration', 'liquid', 'traces', 'fluid', 'mercury', 'experiments', 'layer', 'beta', 'materials', 'organic'] 0.30456719829839324 77
+['blonde', 'thongs', 'blond', 'skinny', 'panties', 'mop', 'wig', 'veil', 'tummy', 'mustache', 'haircut', 'cloak', 'pajamas', 'beards', 'slippers', 'robe', 'chaps', 'tattoos', 'breeches', 'freckles'] 0.30260943508202315 299
+['sweet', 'lovely', 'pleasure', 'bittersweet', 'sweetness'] 0.3010229717859992 5
+['wash', 'shower', 'toilet', 'bath', 'sink', 'laundry', 'bucket', 'soap', 'towel', 'washing', 'tub', 'towels', 'bathing', 'refrigerator', 'flush', 'shampoo', 'toothbrush', 'diapers', 'hygiene', 'toilets'] 0.3004491446363735 51
+['land', 'property', 'rent', 'owner', 'estate', 'lands', 'landlord', 'owners', 'housing', 'properties', 'lease', 'parcel', 'tenant', 'ownership', 'tenants', 'estates', 'rents', 'landlords', 'developers', 'developer'] 0.2970736908150458 26
+['mercy', 'sacrifice', 'confession', 'souls', 'prayers', 'blessing', 'prayer', 'forgiveness', 'worship', 'divine', 'spiritual', 'salvation', 'faithful', 'ritual', 'priests', 'sacrifices', 'revelation', 'sermon', 'blessings', 'holiness'] 0.29565600021008825 96
+['energy', 'gas', 'natural', 'oil', 'fuel', 'supply', 'production', 'resources', 'supplies', 'electricity', 'gasoline', 'petrol', 'pipeline', 'crude', 'heating', 'refinery', 'barrels', 'reserves', 'consumption', 'output'] 0.293428200688012 28
+['dinner', 'lunch', 'breakfast', 'banquet', 'brunch', 'buffet', 'dinners', 'luncheon', 'lunches'] 0.29329318253515896 9
+['war', 'wars', 'conflict'] 0.29325942799694565 3
+['pressure', 'lift', 'freeze', 'ease', 'burden', 'squeeze', 'limit', 'shrink', 'grip', 'pressing', 'leverage', 'partial', 'measures', 'isolation', 'freezes', 'adjustment', 'closure', 'curb', 'cope', 'quota'] 0.29130166478057556 68
+['torus', 'coordinates', 'equals', 'infinite', 'sequence', 'axes', 'probability', 'bundle', 'imaginary', 'triangle', 'dots', 'angles', 'nodes', 'quantum', 'dimension', 'calculations', 'equation', 'input', 'variables', 'hash'] 0.2910316284748694 362
+['history', 'dating', 'ancient', 'century', 'modern', 'culture', 'tradition', 'generations', 'era', 'decades', 'civilization', 'centuries', 'roots', 'colonial', 'cultures', 'heritage', 'artifacts', 'historians', 'traditions', 'periods'] 0.28961393786991174 33
+['paint', 'plastic', 'nail', 'powder', 'nails', 'sticks', 'spray', 'gum', 'patch', 'brush', 'pencil', 'ink', 'glue', 'lipstick', 'stain', 'comb', 'plastics', 'cans', 'shaving', 'wax'] 0.2894114106406321 109
+['steal', 'stole', 'stealing', 'thief', 'cheat', 'cheating', 'theft', 'thieves', 'petty', 'scam', 'robbers', 'bribe', 'steals', 'burglars', 'hackers', 'heist', 'thefts', 'valuables', 'gunpoint', 'loot'] 0.2887700744145798 20
+['pot', 'inch', 'chop', 'rub', 'spoon', 'pan', 'drain', 'tender', 'bits', 'oven', 'dice', 'fry', 'dip', 'melt', 'grill', 'slice', 'boil', 'rack', 'jar', 'grease'] 0.28819624726495413 94
+['test', 'training', 'tests', 'procedure', 'testing', 'routine', 'exercise', 'drill', 'conduct', 'inspection', 'polygraph', 'examination', 'preparation', 'procedures', 'conducting', 'exercises', 'assessment', 'drills', 'fitness', 'screening'] 0.28758866557711515 29
+['stage', 'theater', 'cinema', 'opera', 'broadway', 'concert', 'circus', 'festival', 'premiere', 'musical', 'audition', 'actors', 'comedy', 'performing', 'theatre', 'performer', 'rehearsals', 'roles', 'audiences', 'studios'] 0.28556339328431857 55
+['mexico', 'carlos', 'hugo', 'bravo', 'mexican', 'latin', 'hector', 'vega', 'gabriel', 'rico', 'peruvian', 'leon', 'franco', 'sanchez', 'brazil', 'rio', 'santos', 'peru', 'morales', 'cali'] 0.2849895661346929 127
+['hotel', 'vegas', 'casino', 'motel', 'gambling', 'las', 'suite', 'condo', 'inn', 'resort', 'luxury', 'spa', 'gaming', 'trump', 'hotels', 'nightclub', 'sands', 'marina', 'ritz', 'disneyland'] 0.28222169400120417 39
+['gun', 'guns', 'rifle', 'ammunition', 'pistol', 'rifles', 'caliber', 'firearms', 'pistols', 'firearm', 'handgun', 'handguns', 'semiautomatic'] 0.2798588763262749 13
+['sleep', 'sleeping'] 0.27729353142206586 2
+['ticket', 'license', 'tickets', 'parking', 'entry', 'visa', 'certificate', 'reservation', 'fee', 'lottery', 'fees', 'receipt', 'registration', 'fare', 'rental', 'receipts', 'licence', 'admission', 'refund', 'promotions'] 0.26274532545214363 53
+['mm', 'x', 'inches', 'cm'] 0.26200272561145166 4
+['bag', 'pocket', 'bags', 'purse', 'wallet', 'pockets', 'suitcase', 'luggage', 'drawer', 'briefcase', 'stash', 'backpack', 'belongings', 'baggage', 'suitcases', 'wallets', 'purses', 'handbag', 'duffel', 'tote'] 0.25967366247473556 22
+['english', 'london', 'british', 'england', 'sydney', 'irish', 'australia', 'ireland', 'britain', 'canadian', 'scotland', 'uk', 'wales', 'australian', 'scottish', 'oxford', 'zealand', 'welsh', 'dublin', 'belfast'] 0.2563994722680477 26
+['animals', 'bird', 'animal', 'humans', 'birds', 'feeding', 'species', 'prey', 'wildlife', 'elephants', 'geese', 'dinosaurs', 'breeding', 'insects', 'predators', 'habitat', 'insect', 'extinction', 'mammals', 'whales'] 0.2555893633509291 32
+['trip', 'travel', 'journey', 'vacation', 'traveling', 'honeymoon', 'destination', 'camping', 'trips', 'travels', 'tourists', 'expedition', 'getaway', 'travelling', 'travelers', 'tourist', 'tours', 'leisure', 'itinerary', 'journeys'] 0.25531932704522287 36
+['babe', 'hank', 'billy', 'joel', 'benny', 'aaron', 'mickey', 'ruth', 'butch', 'whitey', 'yankee', 'goldberg', 'mantle', 'mays', 'maris', 'slugger', 'dimaggio', 'rodgers', 'gehrig'] 0.24623935626585156 19
+['hide', 'hiding', 'escape', 'capture', 'disguise', 'whereabouts', 'fugitive', 'hides', 'escapes', 'concealing', 'fugitives'] 0.24185126629812562 11
+['gentlemen', 'ladies', 'gentleman'] 0.23925216685570333 3
+['lord', 'earl', 'lords', 'baron', 'viscount'] 0.237868230788959 5
+['mine', 'coal', 'mines', 'mining', 'miners', 'miner'] 0.2373956672539731 6
+['bye', 'byes'] 0.2357079403433093 2
+['state', 'california', 'county', 'texas', 'governor', 'florida', 'arizona', 'counties'] 0.23354764989765964 8
+['cake', 'cream', 'candy', 'chocolate', 'pie', 'dessert', 'cookie', 'cookies', 'cakes', 'vanilla', 'pudding', 'pastry', 'caramel', 'frosting', 'custard', 'meringue'] 0.2334126317448065 16
+['horn', 'piano', 'guitar', 'bach', 'bass', 'strings', 'string', 'flute', 'brass', 'banjo', 'violin', 'solo', 'cello', 'choir', 'instrument', 'organ', 'orchestra', 'chorus', 'soprano', 'pianist'] 0.232501259213048 125
+['water'] 0.23175865937235596 1
+['light', 'lights', 'lighter'] 0.22774186932497606 3
+['human', 'rights', 'freedom', 'democracy', 'liberties', 'freedoms'] 0.22669547864036452 6
+['rome', 'empire', 'roman', 'ad', 'napoleon', 'consul', 'bishop', 'pope', 'archbishop', 'caesar', 'romans', 'bonaparte', 'cardinal', 'chancellor', 'reign', 'babylon', 'conquest', 'vatican', 'jesuit', 'monsignor'] 0.22396136104508912 88
+['dance', 'dancing', 'singing', 'sang', 'dancer', 'ballet', 'tango', 'dances', 'dancers', 'choreography', 'choreographer', 'routines', 'ballroom', 'flamenco', 'ailey'] 0.22379258835402271 15
+['virus', 'disease', 'cancer', 'plague', 'illness', 'flu', 'infection', 'aids', 'syndrome', 'strain', 'poisoning', 'quarantine', 'vaccine', 'immune', 'swine', 'pneumonia', 'diseases', 'acute', 'epidemic', 'rabies'] 0.2195732710773632 74
+['knife', 'bullet', 'wound', 'wounds', 'bullets', 'gunshot', 'shotgun', 'knives', 'stab', 'grenades', 'sniper', 'scars', 'shrapnel', 'gunshots', 'revolver', 'assailant', 'machetes', 'machete'] 0.21643409902352848 18
+['monster', 'dragon', 'lion', 'beast', 'creatures', 'creature', 'spider', 'monsters', 'robot', 'hulk', 'ninja', 'beasts', 'zombies', 'dragons', 'serpent', 'robots', 'marvel', 'frankenstein', 'humanoid', 'mutant'] 0.21589402641211605 20
+['hate', 'hatred', 'racist', 'racism', 'semitic', 'incitement'] 0.21383499958110616 6
+['emergency', 'rescue', 'disaster', 'relief', 'aid', 'assistance', 'assist', 'recovery', 'survivors', 'flood', 'earthquake', 'dispatch', 'quake', 'humanitarian', 'evacuation', 'standby', 'chernobyl', 'contingency', 'emergencies', 'reconstruction'] 0.2115396909826034 29
+['river', 'lake', 'flow', 'dam', 'stream', 'glacier', 'rivers', 'creek', 'pond', 'fork', 'flowing', 'flows', 'marshes', 'canal', 'waterfall', 'basin', 'westward', 'nile', 'lakes', 'brook'] 0.20478878333994813 53
+['prescription', 'dose', 'medicines', 'ingredient', 'potion', 'aspirin', 'tonic', 'condom', 'pcp', 'vitamin', 'asthma', 'morphine', 'vitamins', 'antibiotics', 'steroids', 'herbal', 'anesthetic', 'condoms', 'hormones', 'oral'] 0.20431621980496226 246
+['ass'] 0.19938805722582387 1
+['hang', 'hanging'] 0.19739653947124053 2
+['drugs', 'drug', 'crack', 'cartel', 'cocaine', 'narcotics', 'heroin', 'meth', 'marijuana', 'ecstasy', 'smuggling', 'addiction', 'addicts', 'prostitution', 'opium', 'cartels', 'smugglers', 'contraband', 'traffickers', 'trafficker'] 0.19614762155734936 24
+['paris', 'french', 'france', 'jean', 'le', 'pierre', 'les', 'des', 'frenchman'] 0.18389472418593 9
+['majesty', 'hm', 'highness'] 0.1805867794410289 3
+['chinese', 'japanese', 'china', 'japan', 'korean', 'tokyo', 'beijing', 'mainland', 'shanghai', 'taiwan', 'taiwanese', 'guangdong', 'guangzhou'] 0.1804517612881758 13
+['cheers', 'crowd', 'audience', 'cheer', 'roar', 'fans', 'laughter', 'cheering', 'applause', 'delight', 'crowds', 'roaring', 'throng', 'chanting', 'spectators', 'clapping', 'sellout', 'mourners', 'roars', 'onlookers'] 0.18028298859710942 26
+['news'] 0.17859526168644557 1
+['boo', 'ur', 'pee', 'yay', 'wee', 'nay', 'ee', 'dah', 'dy', 'goo', 'loo', 'moo', 'hel', 'zee', 'doh', 'ky', 'dray', 'wy', 'ohs', 'moos'] 0.17687378023756847 21
+['al', 'bin', 'jordan', 'terror', 'terrorists', 'egypt', 'egyptian', 'iraq', 'arab', 'afghanistan', 'terrorism', 'yemen', 'arabs', 'arabia', 'jihad', 'iran', 'iranian', 'qaeda', 'baghdad', 'dubai'] 0.17636746216436935 52
+['leeds', 'ham', 'villa', 'shay', 'torino', 'birmingham', 'vale', 'keeper', 'substitute', 'hooker', 'fa', 'consolation', 'lyon', 'hull', 'sheffield', 'derby', 'liege', 'prop', 'thistle', 'bristol'] 0.17636746216436935 144
+['spy', 'intelligence', 'surveillance', 'cia', 'spies', 'spying', 'drone', 'nsa', 'interrogation', 'covert', 'operative', 'drones', 'operatives', 'kgb', 'informants', 'espionage', 'wiretap', 'fsb', 'interrogations', 'mossad'] 0.17187810858200356 26
+['drunk', 'drinking', 'smoking', 'alcohol', 'alcoholic', 'binge', 'smokers'] 0.17059543612989908 7
+['oxygen', 'acid', 'fatty', 'bind', 'carbon', 'nitrate', 'bacteria', 'cyanide', 'serum', 'helium', 'cesium', 'fertilizer', 'sodium', 'ph', 'crystals', 'methane', 'iodine', 'potassium', 'plasma', 'arsenic'] 0.169852836289207 251
+['beans', 'potatoes', 'potato', 'bean', 'onions', 'vegetables', 'carrot', 'tomato', 'mushrooms', 'onion', 'vegetable', 'squash', 'lemons', 'carrots', 'herbs', 'peas', 'pea', 'tomatoes', 'garlic', 'basil'] 0.1696840635981406 109
+['hole', 'woods', 'golf', 'holes', 'stroke', 'bunker', 'par', 'birdie', 'toms', 'pebble', 'strokes', 'tee', 'bogey', 'birdies', 'fairway', 'golfer', 'putt', 'augusta', 'pars', 'els'] 0.16934651821600785 22
+['fruit', 'apple', 'cherry', 'banana', 'strawberry', 'blossom', 'pumpkin', 'fruits', 'peach', 'bananas', 'apples', 'orchard', 'tangerine', 'cranberry', 'cane', 'pineapple', 'melon', 'mushroom', 'tart', 'fig'] 0.16853640929888922 64
+['hospital', 'ambulance', 'clinic', 'hospitals', 'infirmary', 'morgue', 'nhs'] 0.1674562640760644 7
+['faith', 'christian', 'religious', 'religion', 'belief', 'muslim', 'catholic', 'christians', 'beliefs', 'muslims', 'islam', 'christianity', 'churches', 'missionary', 'religions', 'mormon', 'catholics', 'baptist', 'secular', 'clergy'] 0.16495842824828189 39
+['patient', 'treat', 'treatment', 'therapy', 'patients', 'medication', 'diagnosis', 'diabetes', 'clinics', 'treatments', 'outpatient', 'therapists', 'disorders', 'chemotherapy'] 0.16323694679940484 14
+['shoes', 'factory', 'shoe', 'leather', 'clothing', 'goods', 'rubber', 'garment', 'garments', 'nike', 'soles', 'footwear', 'sneaker', 'textile', 'apparel', 'handbags', 'textiles'] 0.16293315595548533 17
+['killer', 'murderer', 'serial', 'killers', 'murderers', 'assassin', 'rapist'] 0.16276438326441894 7
+['cell', 'dna', 'cells', 'gene', 'sperm', 'protein', 'genes', 'stem', 'embryos', 'mutation', 'replication', 'genome', 'mutations', 'cloning', 'proteins', 'chromosome', 'chromosomes', 'rna'] 0.15871383867882577 18
+['park', 'forest', 'parks'] 0.1569586026917354 3
+['brain', 'brains', 'muscle', 'nerve', 'nerves', 'muscles', 'cord', 'spinal', 'neurons', 'cortex', 'stimulation', 'hippocampus'] 0.1528405490297157 12
+['polish', 'european', 'republic', 'swiss', 'dutch', 'swedish', 'switzerland', 'hungarian', 'norway', 'poland', 'vienna', 'geneva', 'cologne', 'prague', 'italians', 'norwegian', 'brussels', 'scandinavian', 'austria', 'eu'] 0.15078152219870583 116
+['africa', 'african', 'un', 'ambassador', 'nations', 'au', 'chad', 'guinea', 'ivory', 'observer', 'diplomat', 'continent', 'mediation', 'liberia', 'envoy', 'mediator', 'haiti', 'kenya', 'congo', 'angola'] 0.1496338678994544 90
+['writing', 'writer', 'poetry', 'journalist', 'author', 'writers', 'poem', 'verse', 'literature', 'scholar', 'poet', 'poems', 'filmmaker', 'essay', 'critic', 'philosopher', 'freelance', 'novelist', 'poets', 'biography'] 0.1487900044441225 31
+['wearing', 'uniform', 'badge', 'uniforms', 'helmet', 'masks', 'helmets', 'badges', 'vests', 'camouflage', 'beret', 'jerseys', 'fatigues', 'armbands'] 0.14858747721484283 14
+['german', 'germans', 'germany', 'berlin', 'munich'] 0.1483511954473499 5
+['weapon', 'weapons', 'destruction', 'missile', 'missiles', 'weaponry', 'wmd', 'munitions', 'warheads', 'warhead', 'scud'] 0.1450432507024488 11
+['jump', 'jumper', 'jumping', 'triple', 'leap', 'jumps', 'jumpers', 'quadruple', 'hurdles'] 0.14355805102106464 9
+['hitler', 'nazi', 'goebbels', 'jews', 'nazis', 'mussolini', 'stalin', 'reich', 'gestapo', 'fascist', 'khrushchev', 'fascism', 'ghetto', 'himmler', 'holocaust', 'wartime', 'nazism', 'vichy', 'extermination', 'buchenwald'] 0.14197158772504068 22
+['mess', 'nightmare', 'leak', 'watergate', 'spill', 'quagmire', 'fiasco', 'debacle'] 0.14197158772504065 8
+['temple', 'monk', 'guru', 'buddhist', 'yoga', 'followers', 'karma', 'cult', 'lama', 'buddha', 'shrine', 'monks', 'monastery', 'tibet', 'nun', 'gong', 'temples', 'zen', 'baba', 'nuns'] 0.14180281503397427 71
+['dude'] 0.13967627912653788 1
+['peace', 'talks', 'cease', 'negotiations', 'truce', 'accords', 'reconciliation', 'disarmament', 'mideast'] 0.1353556982352385 9
+['diamond', 'diamonds', 'jewel', 'crystal', 'bracelet', 'necklace', 'jewels', 'emerald', 'earrings', 'pearls', 'pendant', 'gem', 'sapphire', 'bracelets', 'emeralds', 'gems', 'jade', 'necklaces', 'sapphires', 'carat'] 0.13481562562382607 29
+['border', 'territory', 'strip', 'settlement', 'borders', 'heights', 'israel', 'boundaries', 'israeli', 'withdrawal', 'frontier', 'palestinian', 'territorial', 'incursion', 'territories', 'boundary', 'sinai', 'jerusalem', 'lebanese', 'sovereignty'] 0.1338704985538543 44
+['smell', 'smells', 'scent', 'smelling', 'stench', 'odor', 'aroma', 'odour', 'scents', 'odors'] 0.13343168955708173 10
+['bank', 'credit', 'banks', 'banking', 'bankers', 'securities', 'suisse'] 0.13221652618140378 7
+['vietnam', 'korea', 'turkey', 'countries', 'asian', 'seoul', 'cambodia', 'asia', 'vietnamese', 'thailand', 'koreans', 'singapore', 'thai', 'bangkok', 'oman', 'myanmar', 'nepal', 'philippines', 'maldives', 'provinces'] 0.1307650810382329 40
+['street', 'avenue'] 0.1306975719618063 2
+['scotch', 'whiskey', 'beers', 'vodka', 'cocktail', 'tequila', 'gin', 'rum', 'brandy', 'sherry', 'ale', 'martini', 'schnapps', 'whisky', 'cocktails', 'bourbon', 'cigars', 'cognac', 'brew', 'cider'] 0.1306638174235931 50
+['ring', 'rings'] 0.12958367220076822 2
+['language', 'manners', 'accent', 'texts', 'translation', 'interpreter', 'hebrew', 'languages', 'references', 'spelling', 'feminine', 'masculine', 'persian', 'accents', 'mandarin', 'speakers', 'rhyme', 'dialect', 'slang', 'arabic'] 0.12934739043327526 70
+['winner', 'prize', 'award', 'oscar', 'awards', 'winners', 'honors', 'trophy', 'nominees', 'category', 'trophies', 'nobel', 'cannes', 'prizes', 'emmy', 'nominations', 'honours', 'finalists', 'oscars', 'finalist'] 0.12684955460549283 29
+['nuts', 'toast', 'butter', 'nut', 'peanut', 'crackers', 'peanuts', 'walnuts', 'almonds', 'pistachio', 'raisins', 'cashew', 'macadamia', 'betel', 'pistachios', 'breadcrumbs', 'cashews', 'hazelnuts', 'pecans'] 0.12678204552906625 19
+['island', 'bay', 'colony', 'cape', 'islands', 'sumatra', 'peninsula', 'archipelago', 'borneo', 'strait'] 0.1263432365322937 10
+['tape', 'tapes', 'reel', 'clip', 'cd', 'vinyl', 'dvd', 'recorder', 'transcript', 'cds', 'disc', 'discs', 'demo', 'videotape', 'vcr', 'stereo', 'recordings', 'transcripts', 'audio', 'dvds'] 0.12546561853874846 31
+['hobbits', 'monkey', 'hobbit', 'dwarf', 'elves', 'dwarves', 'monkeys', 'trolls', 'ape', 'homo', 'dwarfs', 'apes', 'goblins', 'rhesus', 'orangutans', 'tolkien', 'baboons', 'tyrannosaurus', 'lemur', 'howler'] 0.12533060038589539 24
+['grandpa', 'grandma', 'granny', 'bunny', 'aunts', 'snoopy'] 0.12462175508341658 6
+['sergeant', 'soldier', 'platoon', 'corporal', 'medic', 'gunnery', 'gunner', 'cadet', 'adjutant', 'quartermaster', 'sergeants', 'airman', 'serviceman', 'paratrooper', 'reservist'] 0.12425045516307053 15
+['gold', 'silver', 'platinum', 'bullion'] 0.12313655540203243 4
+['scene', 'footage', 'filming', 'scenes'] 0.12252897371419345 4
+['planet', 'treasure', 'universe', 'worlds'] 0.12232644648491378 4
+['rat', 'rats', 'mouse', 'bugs', 'worms', 'mole', 'mice', 'snakes', 'rabbits', 'spiders', 'squirrels', 'cockroaches', 'fleas', 'lizards', 'rodent', 'frogs', 'rodents', 'roaches', 'raccoons'] 0.121010019494596 19
+['bullshit', 'asshole'] 0.11746579298220197 2
+['mac', 'windows', 'macintosh', 'hardware', 'software', 'processor', 'android', 'os', 'server', 'console', 'interface', 'dos', 'servers', 'vista', 'pc', 'mainframe', 'firewall', 'ipod', 'versions', 'rom'] 0.11523799346012573 46
+['smoke', 'dust', 'clouds', 'ash', 'cloud', 'fumes', 'haze', 'smog', 'soot', 'pall', 'plume', 'plumes'] 0.11304394847626276 12
+['hunt', 'hunting', 'wolves', 'hunters', 'reindeer', 'deer', 'boar', 'bounty', 'hunts', 'elk', 'bison', 'hounds', 'foxes', 'poachers', 'moose', 'poaching', 'caribou'] 0.11105243072167945 17
+['da', 'italian', 'italy', 'milan', 'leonardo'] 0.10858834943211026 5
+['signal', 'transmission', 'frequency', 'radar', 'signals', 'beacon', 'transmitter', 'frequencies', 'antenna', 'transmitting', 'fm', 'transmissions', 'signaling', 'analog', 'transmitters', 'antennas', 'analogue', 'vhf'] 0.10794701320605803 18
+['memory', 'memories'] 0.10629304083360747 2
+['lit', 'candles', 'fireworks', 'flame', 'candle', 'lamp', 'bulb', 'lighting', 'torch', 'glow', 'glowing', 'lantern', 'bonfire', 'balloons', 'bulbs', 'procession', 'incense', 'lamps', 'kerosene', 'flares'] 0.10524665014899591 37
+['indian', 'india', 'agra', 'goa', 'raj', 'mumbai', 'pakistan', 'delhi', 'lucknow', 'pakistani', 'bombay', 'punjab', 'bollywood', 'madras', 'gandhi', 'kashmir', 'mysore', 'calcutta', 'bengal', 'shiv'] 0.10089231471948326 36
+['balls', 'bat', 'toss', 'bowling', 'fours', 'bats', 'batting', 'sixes', 'bowlers', 'stumps', 'pitches', 'indies', 'bowler', 'pathan', 'spinner', 'crease', 'waugh', 'spinners', 'wicket', 'scoreboard'] 0.10048726026092394 27
+['rain', 'snow', 'fog', 'showers', 'rains', 'monsoon', 'snows', 'snowfall', 'blizzard', 'precipitation', 'snowstorm', 'thunderstorms', 'rainfall', 'downpour', 'rainstorms', 'sleet', 'landslides', 'downpours'] 0.09923834234703272 18
+['fix', 'fixing', 'repeating', 'slug', 'subs', 'fixes', 'typo', 'dateline'] 0.09812444258599458 8
+['russian', 'soviet', 'russia', 'russians', 'moscow', 'tbilisi', 'siberia', 'ukraine', 'ukrainian', 'crimea', 'kiev', 'kremlin', 'caucasus', 'chechnya', 'chechen', 'kazakhstan', 'ivanov', 'republics', 'leningrad', 'putin'] 0.09795566989492821 23
+['flowers', 'flower', 'bloom', 'carnations', 'blossoms', 'jasmine', 'roses', 'bouquet', 'petals', 'lavender', 'buds', 'tulips', 'lilies', 'blooming', 'daffodils', 'wreaths', 'garlands', 'blooms', 'stamens', 'bouquets'] 0.09488400691752003 20
+['pounds', 'pound', 'ton', 'tons', 'gallons', 'weighing', 'kilos', 'ounce', 'shillings', 'kg', 'lbs', 'bushels', 'ounces', 'liters', 'kilo', 'lb', 'kilograms', 'metric', 'litres', 'tonnes'] 0.094512706997174 22
+['beauty', 'madame', 'massage', 'playboy', 'nude', 'erotic', 'salon', 'fragrance', 'pageant', 'elegance', 'parlour', 'vogue', 'glamour', 'pageants', 'parlours', 'spas', 'parlors', 'cosmopolitan'] 0.094512706997174 18
+['princess', 'diana', 'mistress', 'countess', 'duchess', 'consort', 'isabella', 'princesses', 'dowager', 'heiress'] 0.09431017976789437 10
+['escort', 'patrol', 'convoy', 'helicopters', 'carriers', 'destroyers', 'intercept', 'auxiliary', 'squadron', 'departed', 'cruiser', 'commandos', 'tankers', 'torpedoes', 'battleship', 'marshals', 'reconnaissance', 'warships', 'destroyer', 'patrols'] 0.09191360755475173 54
+['skirt', 'dresses', 'waist', 'bra', 'tops', 'gown', 'lingerie', 'chic', 'blouse', 'lace', 'outfits', 'skirts', 'chiffon', 'bridal', 'bodice', 'satin', 'sweaters', 'bikini', 'bras', 'dior'] 0.09144104401976587 62
+['flag', 'symbol', 'motto', 'symbols', 'waving', 'flags', 'banner', 'colours', 'bearer', 'swastika', 'banners', 'emblem', 'logo', 'slogan', 'anthem', 'slogans', 'placards', 'insignia', 'bearers', 'emblems'] 0.09106974409941981 21
+['fish', 'salmon', 'trout'] 0.09039465333515428 3
+['anna', 'maria'] 0.08890945365377012 2
+['brave', 'courage', 'bold', 'bravery', 'valor', 'heroic', 'daring', 'gallant', 'heroism', 'perseverance', 'fortitude', 'tenacity', 'valour', 'gallantry'] 0.08874068096270374 14
+['galaxy', 'telescope', 'planets', 'jupiter', 'saturn', 'meteor', 'asteroid', 'martian', 'comet', 'infrared', 'venus', 'continents', 'extraterrestrial', 'observatory', 'meteorite', 'cosmos', 'asteroids', 'pulsar', 'meteorites', 'crater'] 0.08755927212523906 71
+['mood', 'attitude', 'tone', 'atmosphere', 'cautious', 'sentiment', 'moods', 'demeanor', 'upbeat', 'downbeat'] 0.08732299035774611 10
+['pills', 'poison', 'pill', 'diet'] 0.08701919951382663 4
+['blind', 'deaf', 'mute', 'retarded', 'disabled', 'handicapped', 'disabilities'] 0.08637786328777437 7
+['ammo', 'bum', 'chit', 'booze', 'poop', 'pong', 'hustle', 'booty', 'bong', 'bling', 'boozing', 'spiel', 'ammunitions'] 0.0847913999917504 13
+['fat', 'fats', 'calories', 'grams', 'cholesterol', 'milligrams'] 0.08340746392500606 6
+['grave', 'cemetery', 'memorial', 'burial', 'graveyard', 'tomb', 'tombs', 'graves', 'monument', 'crypt', 'cremation', 'mausoleum', 'cemeteries', 'churchyard', 'headstone', 'headstones'] 0.08303616400466002 16
+['miracle', 'cure', 'rebirth', 'healing', 'miracles', 'hangover', 'remedy', 'elixir', 'cures', 'curing', 'sainthood', 'ills'] 0.08225980962575466 12
+['iron', 'steel', 'metal', 'copper', 'nickel', 'aluminum', 'titanium', 'ore', 'metals', 'alloy', 'zinc', 'aluminium', 'alloys', 'stainless'] 0.0817872460907688 14
+['bones', 'bone', 'skull', 'skeleton', 'skulls', 'fragments', 'fossils', 'femur', 'vertebrae'] 0.08101089171186342 9
+['debt', 'loan', 'debts', 'bankrupt', 'mortgage', 'collateral', 'loans', 'borrowing', 'lending', 'financing', 'creditors', 'debtor', 'bankruptcy', 'default', 'mortgages', 'debtors', 'homeowners', 'borrowers', 'foreclosure', 'repayment'] 0.077905474196242 33
+['minister', 'prime', 'premier'] 0.07628525636200473 3
+['emperor', 'imperial', 'throne', 'empress', 'emperors', 'hirohito'] 0.07604897459451179 6
+['math', 'homework', 'exam', 'exams', 'calculus', 'semester', 'textbooks', 'proficiency', 'graders', 'aptitude', 'scholastic', 'civics', 'elective', 'coursework'] 0.07598146551808524 14
+['shrimp', 'crab', 'tuna', 'lobster', 'veal', 'oysters', 'crabs', 'fisherman', 'caviar', 'clams', 'mackerel', 'sashimi', 'oyster', 'fishes', 'cod', 'mussels', 'seafood', 'swordfish', 'seaweed', 'halibut'] 0.07483381121883384 57
+['lied', 'oath', 'libby', 'perjury'] 0.07375366599600901 4
+['speech', 'ceremony', 'speeches', 'swearing', 'marking', 'inauguration', 'remarks', 'ceremonies', 'keynote', 'commencement'] 0.07247099354390449 10
+['jingle', 'bells', 'whistle', 'ringing', 'horns', 'sleigh', 'doorbell', 'mayday', 'rung', 'sirens', 'alarms', 'siren', 'whistles', 'chime', 'tones', 'buzzer', 'trumpets', 'chimes', 'bugler', 'bugle'] 0.07213344816177171 28
+['eggs', 'egg', 'nest', 'chicks', 'females', 'nests', 'yolk', 'incubation', 'hatching'] 0.07149211193571949 9
+['pardon', 'apology', 'apologies', 'pardons', 'clemency', 'amnesty', 'leniency', 'commutations'] 0.07047947578932118 8
+['idiot'] 0.07041196671289462 1
+['ali', 'muhammad', 'prophet', 'khan', 'sheikh', 'amir', 'malik', 'mosque', 'ayatollah', 'shah', 'nasser', 'imam', 'mohammed', 'agha', 'salah', 'khomeini', 'cleric', 'sheik', 'haji', 'mohammad'] 0.06426864075807831 22
+['sake'] 0.06109571416603033 1
+['storm', 'ike', 'winds', 'hurricane', 'storms', 'flooding', 'tornado', 'typhoon', 'hurricanes', 'floods', 'thunderstorm', 'cyclone', 'kph', 'cyclones', 'mph', 'landfall', 'tornadoes', 'typhoons', 'gusts'] 0.06045437793997808 19
+['mystery', 'clue', 'puzzle', 'clues', 'mysteries', 'crossword', 'puzzles', 'suspense', 'whodunit'] 0.05910419641144703 9
+['wing', 'wings', 'fighter'] 0.05704516958043717 3
+['ba', 'airlines', 'delta', 'airline', 'airways'] 0.0564375878925982 5
+['series', 'episode', 'cartoon', 'finale', 'showtime', 'cartoons', 'episodes', 'simpsons', 'sitcoms', 'reruns', 'installment', 'sitcom', 'storyline', 'anime', 'wb'] 0.05640383335438491 15
+['minor', 'slight', 'injuries', 'bruises', 'concussion', 'scratches', 'fractures', 'scrapes', 'lacerations', 'abrasions', 'concussions', 'sprains'] 0.055796251666545935 12
+['wine', 'tasting', 'wines', 'wineries'] 0.052015743386658965 4
+['notice', 'notices', 'notification'] 0.05066556185812793 3
+['santa', 'ana', 'rosa', 'fe'] 0.04826898964498529 4
+['sherlock', 'holmes'] 0.04712133534573389 2
+['gods', 'goddess', 'goddesses', 'mythology', 'zeus', 'deities', 'deity'] 0.046311226428615265 7
+['spanish', 'spain', 'barcelona', 'madrid', 'eta', 'spaniard', 'portuguese', 'tenerife', 'spaniards', 'valencia', 'basque', 'malaga', 'moroccan', 'zaragoza', 'seville', 'catalan'] 0.04600743558469577 16
+['cheese', 'cheddar', 'parmesan', 'cheeses', 'mozzarella'] 0.04391465421547264 5
+['yogi', 'berra'] 0.038041364566362534 2
+['wave', 'waves', 'tide', 'currents', 'tides', 'tsunamis'] 0.03702872841996425 6
+['junk', 'notch', 'ratings', 'aa', 'bb', 'fitch', 'rating', 'sovereign', 'moody', 'aaa', 'downgrade', 'notches', 'issuer'] 0.03696121934353768 13
+['jerk', 'snatch', 'kgs'] 0.03503721066538094 3
+['champagne', 'chateau', 'sparkling', 'merlot', 'cabernet', 'blanc', 'pinot', 'chardonnay', 'burgundy', 'corks', 'winery', 'beaujolais', 'chianti', 'napa', 'vineyards'] 0.03385580182791626 15
+['plot', 'surprises', 'twist', 'plots', 'twists', 'endings', 'synopsis', 'storylines'] 0.03321446560186401 8
+['belt', 'belts', 'conveyor', 'wbc'] 0.03206681130261261 4
+['fairy'] 0.031054175156214312 1
+['sin', 'sins'] 0.02943395732197705 2
+['password', 'encryption', 'algorithm', 'passwords', 'cipher', 'router', 'cryptography', 'decryption', 'algorithms', 'authentication', 'identifier', 'ciphers'] 0.029163921016270834 12
+['beth'] 0.027813739487739776 1
+['shang', 'dynasty', 'qing', 'qin', 'dynasties'] 0.027712475873099947 5
+['cock', 'crows', 'vultures', 'rooster', 'cocks', 'roosters'] 0.027172403261687527 6
+['iwo', 'normandy', 'saipan', 'cherbourg', 'guam', 'guadalcanal', 'tarawa', 'okinawa', 'landings', 'nagasaki', 'beachhead', 'marianas', 'anzio', 'pusan', 'kwajalein', 'inchon', 'atoll', 'somme', 'corregidor', 'bataan'] 0.024809585586758175 20
+['mina', 'pilgrim', 'mecca', 'medina', 'pilgrimage', 'pilgrims', 'fatima', 'stampede', 'benghazi', 'hajj', 'kaaba', 'stoning', 'luxor', 'karbala', 'jiddah', 'pilgrimages', 'shrines', 'masjid', 'haj', 'tripoli'] 0.024472040204625414 20
+['weed', 'nuisance', 'pest', 'weeds', 'pests'] 0.022986840523241247 5
+['finn', 'sawyer', 'hannibal', 'huck', 'huckleberry', 'twain'] 0.021535395380070363 6
+['collar', 'cuffs', 'sleeves', 'collars'] 0.02136662268900398 4
+['bey', 'sultan', 'ruler', 'nawab', 'emir', 'vassal', 'ottoman', 'khanate', 'maharaja', 'gaddafi', 'pasha', 'sultans', 'ottomans', 'suzerainty', 'raja', 'begum', 'vizier', 'caliph'] 0.02126535907436415 18
+['na', 'gen'] 0.019408859472633946 2
+['po', 'tusk', 'pis', 'tael'] 0.019408859472633946 4
+['subtitles', 'nudity', 'sexuality', 'profanity', 'sensuality'] 0.018429977864448933 5
+['medal', 'golds', 'bronze', 'medals', 'medalist', 'silvers', 'medallist', 'medalists'] 0.017923659791249782 8
+['greek', 'greece', 'turkish', 'athens'] 0.017046041797704595 4
+['pole'] 0.016809760030211663 1
+['salad'] 0.015729614807386817 1
+['wilderness', 'canyon', 'yellowstone', 'yosemite', 'denali'] 0.015189542195974392 5
+['drum', 'drums', 'drummers', 'cymbals', 'drumming', 'snare'] 0.01350181528531057 6
+['piggy', 'teller', 'atm', 'tellers', 'atms'] 0.013434306208884018 5
+['sneak', 'peek', 'peeks'] 0.013164269903177808 3
+['tits', 'limpet'] 0.012455424600699002 2
+['herb', 'centimeters', 'rhizome', 'stems', 'perennial', 'shrub'] 0.011577806607153816 6
+['buster', 'busters'] 0.011138997610381222 2
+['muffin', 'muffins'] 0.010160116002196205 2
+['mustard', 'sarin', 'dijon'] 0.009248743470437741 3
+['cutter', 'cutters'] 0.008911198088304977 2
+['lancelot', 'guinevere', 'gawain'] 0.008674916320812043 3
+['calendar', 'calendars'] 0.007290980254067709 2
+['marbles', 'parthenon'] 0.006885925795508392 2
+['tit', 'tat'] 0.0068521712572951156 2
+['sieve', 'rinse', 'colander', 'strainer'] 0.006750907642655285 4
+['den'] 0.006379607722309245 1
+['jacobi', 'euler', 'gauss'] 0.006008307801963205 3
+['tin'] 0.005907044187323375 1
+['racket', 'backhand', 'rackets', 'forehand', 'racquet'] 0.005839535110896823 5
+['acres', 'acre', 'farmland', 'hectares', 'hectare', 'parkland'] 0.005265707961271123 6
+['pedals', 'accelerator', 'pedal', 'accelerators'] 0.004590617197005596 4
+['eater', 'eaters'] 0.004556862658792318 2
+['mans', 'endurance', 'sled', 'iditarod'] 0.004151808200233002 4
+['neutron', 'fission'] 0.0037467537416736836 2
+['ordinance', 'zoning', 'ordinances', 'bylaw'] 0.0036792446652471303 4
+['cuddle', 'snuggle', 'cuddling'] 0.0035104719741807485 3
+['maths', 'elocution', 'gcse'] 0.003409208359540919 3
+['partisan', 'partisanship', 'nonpartisan'] 0.0031391720538347084 3
+['strut', 'struts', 'cantilever', 'truss', 'wishbone', 'torsion', 'fuselage', 'trusses', 'undercarriage'] 0.0028353812099152203 9
+['longitude', 'latitude'] 0.0027678721334886674 2
+['azure', 'argent', 'portico', 'ionic', 'sable', 'doric', 'fess', 'colonnades', 'corinthian', 'pediment', 'mullets'] 0.002666608518848838 11
+['kebab', 'falafel', 'hummus', 'chickpea', 'tahini', 'kebabs', 'pita'] 0.0026666085188488376 7
+['czar', 'tsar'] 0.002531590365995732 2
+['chamomile', 'aloe', 'camomile'] 0.0019240086781567563 3
+['nitwits', 'ingrates', 'dolts'] 0.0018564996017302034 3
+['greens'] 0.0018227450635169274 1
+['porta', 'potties'] 0.0018227450635169274 2
+['hrt', 'estrogen'] 0.0017889905253036507 2
+['hypertensive'] 0.0017552359870903742 1
+['commune', 'auvergne', 'limousin', 'communes', 'bourgogne', 'alsace', 'aquitaine'] 0.0017214814488770982 7
+['seasoning', 'seasonings'] 0.0016877269106638215 2
+['creeper', 'jackal'] 0.0016202178342372686 2
+['toothpicks', 'toothpick', 'skewer', 'skewers'] 0.001552708757810716 4
+['summary', 'summaries'] 0.0015189542195974395 2
+['procyon', 'canis'] 0.0013839360667443337 2
+['nook', 'cranny'] 0.0013164269903177806 2
+['avenger', 'marauder'] 0.0011476542992513985 2
+['newsflash'] 0.0006750907642655286 1
+['oder'] 0.0006413362260522522 1
+['surety', 'guaranty', 'indemnity'] 0.0006413362260522522 3
+['goldbergs', 'townies', 'dressers'] 0.0005738271496256993 3
+['pt'] 0.0005400726114124229 1
+['sacs'] 0.0005063180731991465 1
+['hin'] 0.0003712999203460407 1
+['maries'] 0.0003712999203460407 1
+['foots'] 0.0003712999203460407 1
+['brummies', 'striders'] 0.0003712999203460407 2
+['cuirass', 'cuirasses'] 0.0003375453821327643 2
+['seraph'] 0.00030379084391948786 1
+['comptroller'] 0.00027003630570621146 1
+['quadrangle'] 0.00027003630570621146 1
+['fluctuation'] 0.000236281767492935 1
+['basset'] 0.000236281767492935 1
+['polisher'] 0.000236281767492935 1
+['prophylactics'] 0.000236281767492935 1
+['intercostal'] 0.00020252722927965858 1
+['leaker', 'leakers'] 0.00020252722927965858 2
+['fille'] 0.00020252722927965858 1
+['stakeouts'] 0.00016877269106638215 1
+['darkies', 'hymie'] 0.00016877269106638215 2
+['bravos'] 0.00016877269106638215 1
+['pinchbeck', 'foreland'] 0.00016877269106638215 2
+['parisienne'] 0.00013501815285310573 1
+['wrongdoers'] 0.00013501815285310573 1
+['munchausen'] 0.00013501815285310573 1
+['harpers'] 0.00010126361463982929 1
+['transposes'] 0.00010126361463982929 1
+['repairer', 'repairers'] 0.00010126361463982929 2
+['submergence'] 0.00010126361463982929 1
+['ilia'] 6.750907642655286e-05 1
+['crunches'] 6.750907642655286e-05 1
+['dard'] 6.750907642655286e-05 1
+['moolah'] 6.750907642655286e-05 1
+['afterworld'] 6.750907642655286e-05 1
+['panellist'] 6.750907642655286e-05 1
+['crosscheck'] 6.750907642655286e-05 1
+['meddlers'] 3.375453821327643e-05 1
+['counterrevolutionary'] 3.375453821327643e-05 1
+['broil'] 3.375453821327643e-05 1
+['slovenija'] 3.375453821327643e-05 1
+['butterfields'] 3.375453821327643e-05 1
+['redeye'] 3.375453821327643e-05 1

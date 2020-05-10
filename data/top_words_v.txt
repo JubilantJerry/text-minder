@@ -1,0 +1,500 @@
+['have', 'are', 'be', 'can', 'well', 'will', 'still'] 46.73697111755766 7
+['do', 'know', 'go', 'want', 'see', 'let', 'going', 'tell'] 42.032270912306416 8
+['out', 'up', 'got', 'back', 'time', 'off', 'put', 'last', 'coming', 'came', 'saw', 'went', 'took', 'gone', 'gave', 'turned', 'handed'] 30.987817245940583 17
+['get', 'come', 'take', 'need', 'make', 'people', 'give', 'even', 'find', 'better', 'getting', 'expect'] 27.419439214374357 12
+['was', 'were', 'been', 'had', 'being'] 18.387494048856745 5
+['think', 'did', 'say', 'thought', 'done', 'believe', 'happened', 'wrong', 'understand', 'knew', 'happen', 'reason'] 16.997849895352193 12
+['like', 'look', 'doing', 'guys', 'guy', 'lot', 'looking', 'looks', 'stuff', 'kid', 'kids', 'smart', 'bunch', 'lots'] 16.97982611891384 14
+['is'] 15.684861742248566 1
+['right', 'man', 'left'] 9.352911257518883 3
+['don'] 9.05826647318216 1
+['place', 'course', 'open', 'second', 'point', 'perfect', 'top', 'finish', 'lead', 'missed', 'finished', 'round', 'seconds', 'track', 'double', 'hole', 'spot', 'stage', 'race', 'tie'] 5.210519906821473 41
+['wait', 'leave', 'stay', 'ready', 'watch', 'sit', 'waiting', 'staying', 'stayed', 'waited', 'await'] 5.201288216450609 11
+['long', 'own', 'run', 'end', 'part', 'set', 'running', 'state', 'middle', 'ran', 'short', 'single', 'campaign', 'ending', 'extended'] 4.889498864282281 15
+['brought', 'taken', 'date', 'given', 'meant', 'changed', 'act', 'except', 'present', 'further', 'following', 'mention', 'experience', 'places', 'view', 'rule', 'condition', 'followed', 'suggest', 'including'] 4.509625795628839 129
+['thanks', 'miss', 'hope', 'chance', 'wish', 'welcome', 'touch', 'return', 'fair', 'surprise', 'gift', 'hoping', 'spirit', 'grace', 'chances', 'wishes', 'hoped', 'hopes', 'substitute', 'welcomed'] 3.97138527668475 21
+['call', 'move', 'called', 'saying', 'free', 'calling', 'calls', 'comments', 'remarks'] 3.838844579217355 9
+['turn', 'supposed', 'rest', 'pick', 'lose', 'become', 'follow', 'leaving', 'join', 'quit', 'reach', 'picked', 'fit', 'allowed', 'mate', 'serve', 'survive', 'enter', 'failed', 'forced'] 3.8358222996316558 45
+['okay'] 3.7740029444696237 1
+['mean', 'seen', 'true', 'change', 'means', 'imply'] 3.6539909696484005 6
+['listen', 'hear', 'heard', 'speak', 'sounds', 'sound', 'voice', 'listening', 'hearing', 'noise', 'voices', 'sounded', 'listened', 'echo', 'hears', 'echoed'] 3.5626631756223595 16
+['has', 'made', 'having'] 3.543595338963492 3
+['taking', 'making', 'moving', 'step', 'fast', 'giving', 'key', 'forward', 'major', 'involved', 'interested', 'putting', 'action', 'focus', 'finding', 'turning', 'bringing', 'process', 'moves', 'dealing'] 3.4408927835876373 65
+['father', 'mother', 'married', 'husband', 'couple', 'parents', 'marry', 'born', 'age', 'birth', 'divorce', 'divorced', 'wives', 'mothers', 'fathers', 'marrying', 'deceased', 'aged', 'widow', 'widowed'] 3.4323204996718357 24
+['mind', 'guess', 'thinking', 'sort', 'seems', 'seem', 'happening', 'wonder', 'suppose', 'imagine', 'figured', 'wondering', 'knowing', 'minds', 'fits', 'guessing'] 3.392701161830213 16
+['am', 'love'] 3.3146164474433273 2
+['keep', 'bring', 'needs', 'needed', 'kept', 'protect', 'carry', 'keeping', 'continue', 'remain', 'spare', 'prevent'] 2.9789785618169375 12
+['fuck', 'shit', 'damn', 'wow', 'bitch', 'crap', 'bullshit', 'whore', 'damned', 'darn'] 2.80681852650792 10
+['said', 'told', 'quoted'] 2.7992353522747107 3
+['makes', 'comes', 'goes', 'gets', 'happens', 'takes', 'turns', 'gives', 'tells', 'keeps', 'ends', 'sees', 'brings', 'dies', 'finds', 'leads', 'begins', 'stays', 'becomes', 'puts'] 2.789673958676316 67
+['talk', 'talking', 'telling', 'talked', 'speaking', 'spoke', 'interview', 'discussing'] 2.78126652637428 8
+['matter', 'clear', 'question', 'answer', 'questions', 'explain', 'handle', 'contact', 'address', 'understood', 'matters', 'fate', 'complicated', 'subject', 'answers', 'answering', 'comment', 'answered', 'handled', 'regarding'] 2.714116969033833 32
+['does', 'wants', 'says', 'knows', 'thinks', 'believes', 'refuses', 'agrees', 'insists'] 2.6165248136847064 9
+['home', 'live', 'living', 'lives', 'lived', 'homes'] 2.3958434533907336 6
+['moved', 'position', 'board', 'partner', 'united', 'became', 'acting', 'states', 'french', 'march', 'headed', 'led', 'hired', 'returned', 'becoming', 'leading', 'served', 'helm', 'partners', 'entered'] 2.319736958369033 121
+['wanted', 'ask', 'asked', 'asking', 'decided', 'refused', 'wished', 'replied'] 2.2980314958899197 8
+['down'] 2.274677517273152 1
+['times', 'picture', 'piece', 'cover', 'box', 'paper', 'press', 'copy', 'pictures', 'note', 'post', 'papers', 'page', 'pieces', 'mirror', 'photograph', 'notes', 'article', 'pages', 'dated'] 2.1224095766918274 35
+['scared', 'looked', 'watching', 'seeing', 'tired', 'liked', 'upset', 'gotten', 'surprised', 'seemed', 'noticed', 'excited', 'confused', 'pleased', 'frightened', 'bored', 'impressed', 'disappointed', 'shy', 'wondered'] 2.1212006648575485 55
+['work', 'working', 'worked', 'works'] 2.0968575765581883 4
+['feel', 'bit', 'feeling', 'felt', 'feels'] 2.062128836591607 5
+['pay', 'service', 'offer', 'spend', 'paid', 'cash', 'raise', 'cost', 'paying', 'afford', 'ticket', 'offered', 'tickets', 'services', 'receive', 'collect', 'pays', 'costs', 'reward', 'offering'] 2.0142119675237926 62
+['won', 'lost', 'win', 'losing', 'winning', 'wins', 'streak', 'defeating', 'clinched'] 2.012563451386139 9
+['fall', 'drop', 'wall', 'slow', 'price', 'pressure', 'interest', 'falling', 'expected', 'market', 'expecting', 'japan', 'lower', 'rise', 'fallen', 'falls', 'chip', 'chips', 'gain', 'fed'] 1.9591515285261432 98
+['killed', 'fire', 'shot', 'died', 'missing', 'fired', 'soldier', 'trapped', 'wounded', 'survived', 'injured', 'perished', 'clashes'] 1.9486010252451562 13
+['number', 'figure', 'report', 'list', 'according', 'showed', 'account', 'numbers', 'release', 'based', 'total', 'showing', 'results', 'reports', 'reached', 'gross', 'released', 'accounts', 'reported', 'figures'] 1.9250821950146235 49
+['trying', 'try', 'tried', 'attempt', 'tries', 'attempting', 'attempts'] 1.8912326636547911 7
+['please'] 1.8894742464412932 1
+['agree', 'accept', 'decide', 'choose', 'allow', 'consider', 'admit', 'agreed', 'willing', 'letting', 'assume', 'settle', 'prefer', 'fail', 'invite', 'ignore', 'seek', 'refuse', 'wanting', 'hire'] 1.8749673044299364 74
+['help', 'helping', 'helped', 'helps', 'aid', 'assist'] 1.8057296266484613 6
+['form', 'type', 'purpose', 'exist', 'model', 'style', 'created', 'depends', 'parts', 'alien', 'shape', 'represent', 'motion', 'culture', 'invented', 'tools', 'sets', 'beings', 'describe', 'frame'] 1.777210297467044 198
+['play', 'game', 'team', 'playing', 'club', 'played', 'match', 'season', 'games', 'teams', 'league', 'plays', 'matches', 'clubs', 'debut', 'cricket', 'scored', 'leagues', 'scoring'] 1.7753419791777023 19
+['thank', 'congratulate', 'thanking', 'thanked'] 1.7689127662408515 4
+['show', 'best', 'star', 'stars', 'shows', 'shown', 'featured'] 1.7337444219708957 7
+['house', 'room', 'floor', 'rooms'] 1.7202265896421312 4
+['remember', 'forget', 'learn', 'loved', 'learned', 'forgotten', 'remind', 'remembered', 'remembers', 'remembering', 'recalls'] 1.7012137035211867 11
+['jack', 'frank', 'nick', 'james', 'jimmy', 'bob', 'ray', 'bell', 'harry', 'rick', 'josh', 'cooper', 'pat', 'chuck', 'knight', 'rob', 'carol', 'bud', 'foster', 'hayes'] 1.6907731013160434 45
+['meet', 'met', 'meeting', 'visit', 'arrived', 'discuss', 'minister', 'invited', 'prime', 'talks', 'attend', 'visiting', 'meetings', 'summit', 'discussed', 'visited', 'meets', 'ministers', 'briefed', 'premier'] 1.68549784967555 22
+['worry', 'hate', 'sense', 'worried', 'fear', 'doubt', 'concerned', 'concern', 'worrying', 'complain', 'fears', 'worries', 'concerns', 'doubts', 'feared', 'prospect', 'fearing', 'cautioned'] 1.6795082410420734 18
+['head', 'hand', 'hands', 'arm', 'heads'] 1.621205720307037 5
+['start', 'started', 'spent', 'starting', 'begin', 'beginning', 'summer', 'spring', 'starts', 'began', 'begun', 'lasted', 'commenced'] 1.6003245158967512 13
+['eat', 'drink', 'honey', 'eating', 'taste', 'wine', 'drinks', 'ate', 'eaten', 'tastes', 'diet', 'tasted', 'snack', 'snacks', 'consume', 'habits', 'consumed', 'tasting', 'wines', 'diets'] 1.5814764813895714 20
+['tuck', 'munch', 'cock', 'skip', 'bravo', 'fetch', 'hawk', 'hack', 'sack', 'whip', 'jingle', 'nap', 'hector', 'shepherd', 'butcher', 'rendezvous', 'countess', 'jared', 'pops', 'fling'] 1.5075130573468207 488
+['found', 'body', 'evidence', 'bodies', 'buried', 'grave', 'remains', 'discovered', 'recovered', 'graves', 'uncovered', 'exhumed', 'unearthed'] 1.4960833454590852 13
+['drive', 'pull', 'grab', 'stuck', 'push', 'roll', 'pulled', 'loose', 'pushed', 'pulling', 'slip', 'stretch', 'drag', 'drives', 'loaded', 'sweep', 'ups', 'backs', 'reverse', 'bounce'] 1.4811917496822762 32
+['side', 'front', 'cross', 'foot', 'bottom', 'corner', 'flag', 'plate', 'circle', 'row', 'wing', 'edge', 'wings', 'crossed', 'sides', 'placed', 'corners', 'flank', 'rear', 'arch'] 1.4395392419375472 25
+['care', 'doctor', 'sick', 'doctors', 'nurse', 'caring', 'nursing', 'nurses'] 1.4308021064079801 8
+['stop', 'stopped', 'stopping', 'stops'] 1.4132728848109242 4
+['name', 'known', 'names', 'named', 'nickname', 'refer'] 1.3915674223318106 6
+['read', 'book', 'write', 'books', 'wrote', 'reading', 'writing', 'written', 'published', 'entitled', 'author', 'reads', 'articles', 'writes', 'publishing', 'publish', 'essay', 'edited', 'essays', 'authors'] 1.3591466049579455 23
+['dog', 'catch', 'bear', 'fish', 'cat', 'bite', 'pack', 'wolf', 'trap', 'duck', 'cats', 'pet', 'catching', 'bull', 'shark', 'bait', 'whale', 'catches', 'pets', 'stray'] 1.3573332372065254 25
+['case', 'sex', 'murder', 'charge', 'jail', 'cases', 'charges', 'rape', 'sentence', 'charged', 'abuse', 'convicted', 'involving', 'misconduct', 'sentencing', 'prosecuted', 'pleaded', 'acquitted', 'aggravated'] 1.3077129014631348 19
+['used', 'use', 'using', 'uses'] 1.2815564454123556 4
+['hanging', 'fake', 'pocket', 'silver', 'pair', 'fancy', 'belt', 'wrap', 'seal', 'mask', 'badge', 'cage', 'bow', 'purse', 'attached', 'tag', 'cap', 'pockets', 'tattoo', 'brace'] 1.2529821656930165 96
+['war', 'fight', 'fighting', 'battle', 'fought', 'struggle', 'wars', 'conflict', 'fights', 'battles', 'waging', 'waged'] 1.2457836452252595 12
+['buy', 'company', 'sell', 'bought', 'sold', 'selling', 'firm', 'buying', 'brand', 'stake', 'owns', 'owned', 'companies', 'purchase', 'sells', 'auction', 'bankrupt', 'acquired', 'broker', 'venture'] 1.2068786643766212 38
+['wear', 'wearing', 'dress', 'pants', 'shirt', 'hat', 'glasses', 'dressed', 'coat', 'jacket', 'uniform', 'outfit', 'costume', 'wore', 'wears', 'worn', 'shirts', 'skirt', 'uniforms', 'beard'] 1.1801727029466236 52
+['class', 'low', 'target', 'level', 'speed', 'range', 'grade', 'fixed', 'value', 'distance', 'rate', 'zero', 'average', 'limit', 'scale', 'levels', 'equal', 'compared', 'sub', 'operating'] 1.1657756620111108 58
+['rights', 'sue', 'defend', 'claim', 'committed', 'deny', 'protecting', 'threatened', 'commit', 'actions', 'warned', 'accused', 'punished', 'threatening', 'punish', 'demands', 'claimed', 'denied', 'claims', 'questioning'] 1.158247438315823 124
+['close', 'share', 'fell', 'dropped', 'rose', 'ended', 'points', 'stock', 'closing', 'jumped', 'exchange', 'slipped', 'shed', 'shares', 'trading', 'gained', 'climbed', 'index', 'declined', 'traded'] 1.157752883474527 32
+['ground', 'rough', 'covered', 'laid', 'iron', 'removed', 'rocks', 'thin', 'deck', 'surface', 'cleared', 'rolling', 'covering', 'plain', 'blocks', 'sand', 'twisted', 'holes', 'pile', 'exposed'] 1.1556647630334984 98
+['bitches', 'prick', 'bugger', 'boobs', 'hush', 'chap', 'freaks', 'whores', 'hunch', 'smack', 'tickle', 'trolls', 'fart', 'farts', 'fag', 'stammer', 'compliments', 'clowns', 'riddles', 'beggar'] 1.0997251154291001 831
+['white', 'light', 'black', 'brown', 'color', 'gray', 'grey', 'pale', 'colour', 'colored', 'coloured'] 1.0841741131972291 11
+['behave', 'reckon', 'undo', 'presume', 'tease', 'kneel', 'rehearse', 'perish', 'manifest', 'dedicate', 'bind', 'amends', 'adore', 'deport', 'invent', 'despise', 'untie', 'pleases', 'beseech', 'advertise'] 1.075931532508958 995
+['kill', 'shoot', 'kills'] 1.0593914205944943 3
+['douche', 'burl', 'pisses', 'famished', 'peed', 'congee', 'dwells', 'messes', 'hollows', 'butters', 'fags', 'tickles', 'debriefing', 'resets', 'primping', 'frightens', 'relaxes', 'cloaks', 'calms', 'tinkle'] 1.0543359711056886 2669
+['test', 'teach', 'program', 'taught', 'medicine', 'study', 'research', 'practice', 'tests', 'learning', 'teaching', 'testing', 'studying', 'studied', 'studies', 'classes', 'experiment', 'tested', 'advanced', 'engineering'] 1.0504344829132402 46
+['create', 'secure', 'introduce', 'manage', 'guarantee', 'assure', 'understanding', 'provide', 'concentrate', 'balance', 'interests', 'tap', 'maintain', 'achieve', 'aim', 'stable', 'encourage', 'improve', 'establish', 'rely'] 1.0482914119342897 153
+['pain', 'cause', 'brain', 'treat', 'caused', 'damage', 'stomach', 'suffer', 'bleeding', 'cure', 'suffering', 'treated', 'stress', 'muscle', 'effects', 'stroke', 'treating', 'causing', 'disorder', 'causes'] 1.0085072224789022 32
+['messing', 'scaring', 'ruining', 'quitting', 'robbing', 'practicing', 'liking', 'forgetting', 'hacking', 'fooling', 'behaving', 'interrupting', 'imagining', 'sneaking', 'collecting', 'apologizing', 'observing', 'hating', 'implying', 'figuring'] 1.0061443493482645 877
+['rip', 'shave', 'shove', 'whack', 'bent', 'slit', 'choke', 'cuff', 'thumbs', 'scissors', 'straighten', 'gutter', 'shovel', 'claw', 'heel', 'poke', 'strap', 'grind', 'lump', 'cuffs'] 0.9877908696823816 543
+['captain', 'ship', 'boat', 'fishing', 'carrying', 'coast', 'escort', 'bay', 'pearl', 'pirate', 'port', 'pirates', 'sail', 'harbor', 'cruise', 'sailing', 'boats', 'craft', 'yacht', 'dock'] 0.9489957899095867 51
+['walk', 'park', 'walking', 'beach', 'walked', 'runs', 'trail', 'walks', 'promenade', 'parks', 'stroll', 'trails'] 0.9471824221581671 12
+['busy', 'near', 'gate', 'locked', 'heading', 'opened', 'exit', 'gates', 'surrounded', 'entrance', 'packed', 'boarding', 'entering', 'crossing', 'sealed', 'arriving', 'approaching', 'crowded', 'guarded', 'exits'] 0.9321809253055141 28
+['air', 'space', 'plane', 'flight', 'crew', 'crash', 'pilot', 'landing', 'cabin', 'crashed', 'jet', 'shuttle', 'flights', 'crews', 'pilots', 'crashes', 'manned', 'landings', 'endeavour', 'refueling'] 0.9316314199262961 20
+['fine'] 0.9138274456396308 1
+['wedding', 'evening', 'lunch', 'weekend', 'breakfast', 'dawn', 'celebrate', 'holiday', 'occasion', 'celebrating', 'holidays', 'attending', 'banquet', 'feast', 'weekends', 'celebrated', 'brunch', 'buffet', 'evenings', 'lunches'] 0.9082774413095286 28
+['honor', 'appreciate', 'respect', 'deserve', 'recognize', 'pride', 'sacrifice', 'honour', 'honored', 'deserves', 'admire', 'deserved', 'praise', 'gesture', 'respected', 'respects', 'recognise', 'compliment', 'sacrifices', 'esteem'] 0.9066838757097961 39
+['guessed', 'dreamt', 'learnt', 'mattered', 'bailed', 'realised', 'schooled', 'bitten', 'swallowed', 'sinned', 'forsaken', 'tiring', 'whacked', 'ditched', 'licked', 'bled', 'dusted', 'stalked', 'pegged', 'faked'] 0.8981665423319163 1204
+['excuse', 'mistake', 'blame', 'apologize', 'mistakes', 'apologise', 'excuses', 'justify'] 0.89371554876025 8
+['hold', 'holding', 'held', 'holds'] 0.8779996949146136 4
+['prove', 'challenge', 'proof', 'brave', 'convinced', 'wasted', 'defeat', 'determined', 'assuming', 'satisfied', 'aliens', 'proved', 'succeed', 'assured', 'spite', 'slim', 'accomplished', 'proven', 'convincing', 'minded'] 0.8656358238822072 68
+['trouble', 'wake', 'worst', 'spell', 'repeat', 'avoid', 'troubles', 'troubled', 'experienced', 'struggling', 'experiencing', 'avoided', 'spells', 'devastating', 'encountered', 'prevented', 'battling', 'struggled', 'sparked', 'struggles'] 0.8549754195253767 22
+['plan', 'bill', 'plans', 'spending', 'package', 'tax', 'bills', 'budget', 'measure', 'approve', 'approved', 'draft', 'bush', 'finance', 'proposed', 'reform', 'measures', 'funding', 'proposing', 'sweeping'] 0.8460734323820442 34
+['hated', 'betrayed', 'trusted', 'deaf', 'cared', 'mistaken', 'obsessed', 'compromised', 'cured', 'humiliated', 'fooled', 'believing', 'disturbed', 'trusting', 'spoiled', 'tricked', 'cursed', 'sacrificed', 'distracted', 'disgrace'] 0.8150813289941458 208
+['temper', 'creep', 'hint', 'envy', 'spark', 'linger', 'stall', 'doom', 'awaits', 'sway', 'omen', 'anticipate', 'drift', 'blur', 'pause', 'creeps', 'flare', 'grudge', 'unleash', 'decay'] 0.8122788515601337 651
+['stand', 'sitting', 'standing', 'sat', 'stood', 'stands', 'bench', 'seated', 'sits', 'idle', 'benches'] 0.8113996429533847 11
+['planning', 'prepared', 'prepare', 'deliver', 'planned', 'mass', 'advance', 'arrive', 'joint', 'gather', 'launch', 'bid', 'delivered', 'gathering', 'preparing', 'arrange', 'announce', 'batch', 'organized', 'briefing'] 0.8073333031471711 64
+['building', 'build', 'built', 'project', 'bridge', 'tower', 'site', 'houses', 'designed', 'design', 'structure', 'buildings', 'projects', 'towers', 'bridges', 'rebuilt', 'structures', 'constructed', 'construct', 'renovated'] 0.8070585504575621 26
+['nail', 'nails', 'carpet', 'bucket', 'towel', 'pillow', 'sheet', 'towels', 'sheets', 'thread', 'straw', 'mop', 'bark', 'brush', 'fashioned', 'copper', 'marbles', 'glue', 'curtain', 'curtains'] 0.7972773547074807 272
+['sleep', 'bed', 'sleeping', 'slept', 'beds', 'bunk'] 0.7764511008351164 6
+['mouth', 'neck', 'nose', 'finger', 'tongue', 'fingers', 'tip', 'shoulder', 'tail', 'bend', 'toes', 'shoulders', 'toe', 'ribs', 'thumb', 'cheek', 'severed', 'jaw', 'swollen', 'noses'] 0.7595812856931219 22
+['touched', 'staring', 'dumped', 'grabbed', 'dragged', 'sneak', 'booked', 'crawl', 'nailed', 'spilled', 'popped', 'rolled', 'jammed', 'punched', 'rushed', 'tipped', 'panicked', 'shook', 'stumbled', 'snuck'] 0.7552401931972992 245
+['baby', 'babies'] 0.7460634533643576 2
+['break', 'broke', 'broken', 'breaking', 'breaks'] 0.7460085028264359 5
+['notice', 'access', 'license', 'documents', 'document', 'protected', 'classified', 'required', 'apply', 'operate', 'require', 'requires', 'register', 'forbidden', 'certificate', 'permit', 'privilege', 'issued', 'consent', 'allows'] 0.7355679006212927 94
+['cook', 'pot', 'rice', 'soup', 'cooking', 'chop', 'ginger', 'beans', 'dish', 'sauce', 'fried', 'dishes', 'cooked', 'lamb', 'tender', 'smoked', 'ham', 'bean', 'roast', 'fry'] 0.7283693801535362 104
+['land', 'steal', 'stole', 'belong', 'stolen', 'stealing', 'belongs', 'lands', 'thieves', 'seize', 'belonged', 'steals', 'inherited', 'belonging', 'parcel', 'donated', 'smuggled', 'confiscated', 'loot', 'parcels'] 0.715950558583208 20
+['job', 'jobs', 'hiring'] 0.7093564940325914 3
+['disgusting', 'charming', 'touching', 'annoying', 'gentle', 'charm', 'humble', 'sober', 'humor', 'surprises', 'twist', 'confusing', 'touches', 'thrill', 'blunt', 'dull', 'shocking', 'disturbing', 'frightening', 'depressing'] 0.6993554961308228 186
+['fat', 'waste', 'size', 'weight', 'pounds', 'load', 'amount', 'trash', 'dump', 'pound', 'junk', 'lean', 'loads', 'lighter', 'sized', 'weigh', 'weighs', 'amounts', 'fats', 'weighing'] 0.6816614229200013 31
+['word', 'words', 'meaning', 'spoken', 'phrase'] 0.6769906271966478 5
+['picking', 'bump', 'shaking', 'crawling', 'raining', 'packing', 'wandering', 'sweating', 'banging', 'licking', 'dragging', 'pouring', 'barking', 'tearing', 'biting', 'racket', 'clinging', 'grabbing', 'crashing', 'pounding'] 0.6751772594452282 244
+['keys', 'lock', 'screw', 'switch', 'button', 'flip', 'wheel', 'spin', 'gear', 'angle', 'spinning', 'locks', 'wheels', 'tire', 'switched', 'buttons', 'bolt', 'brakes', 'shaft', 'brake'] 0.6742431003005575 45
+['hit', 'caught', 'hitting', 'hits', 'struck'] 0.6701218099564221 5
+['power', 'control', 'powers', 'controlled', 'controls'] 0.6605604163580278 5
+['truck', 'driving', 'bike', 'drove', 'riding', 'cab', 'taxi', 'motorcycle', 'driven', 'ford', 'parked', 'trucks', 'rode', 'cart', 'racing', 'motor', 'bikes', 'tires', 'bicycle', 'speeding'] 0.6580326916136247 35
+['general', 'officer', 'command', 'base', 'staff', 'headquarters', 'rank', 'commanding'] 0.6520980335180696 8
+['line', 'lines', 'section', 'route', 'connected', 'link', 'tunnel', 'connect', 'branch', 'loop', 'connecting', 'routes', 'canal', 'linking', 'connects', 'electrified', 'interchange'] 0.6519881324422261 17
+['send', 'sent', 'sending', 'sends', 'dispatch', 'dispatched'] 0.6489658528565269 6
+['full', 'master', 'complete', 'completed', 'bachelor', 'completing'] 0.6479217926360125 6
+['received', 'sports', 'prize', 'earned', 'fashion', 'host', 'presents', 'sport', 'contest', 'award', 'premiere', 'attracted', 'offers', 'dedicated', 'awards', 'receiving', 'lecture', 'advertising', 'presented', 'honors'] 0.6419871345404575 77
+['fucking'] 0.6402836678648816 1
+['dream', 'realize', 'dreams', 'realized', 'glory', 'dreaming', 'imagined', 'realise', 'dreamed', 'ambition', 'quest', 'fantasies', 'ambitions', 'realizing', 'cherished', 'envisioned'] 0.636711882899964 16
+['brains', 'suck', 'sucks', 'wasting', 'sweat', 'guts', 'spit', 'busted', 'habit', 'rubbish', 'stink', 'sucked', 'booze', 'bleed', 'hooked', 'swallow', 'rot', 'lick', 'vomit', 'mouths'] 0.6356678226794498 71
+['eyes', 'eye', 'eyed', 'gaze'] 0.6351732678381535 4
+['destroy', 'rid', 'dig', 'bury', 'crush', 'wipe', 'scratch', 'recover', 'root', 'spoil', 'discover', 'erase', 'expose', 'avenge', 'invade', 'eliminate', 'confront', 'flush', 'rebuild', 'conquer'] 0.625392072088072 43
+['cool', 'warm', 'heat', 'dry', 'wet', 'chill', 'winters', 'breeze', 'damp', 'summers', 'cooled', 'overcast', 'breezes'] 0.6195123645304388 13
+['die', 'dying'] 0.6154460247242253 2
+['sight', 'ruin', 'ruined', 'shadow', 'bust', 'cave', 'ashes', 'torn', 'wreck', 'cloud', 'dot', 'twin', 'ruins', 'collapsed', 'deserted', 'sights', 'wrecked', 'collapse', 'verge', 'surrounding'] 0.6096212677045137 63
+['face', 'faces', 'faced', 'facing'] 0.6074781967255634 4
+['likes', 'loves', 'cares', 'hates', 'loving', 'reminds', 'speaks', 'understands', 'eats', 'explains', 'waits', 'sleeps', 'wonders', 'spends', 'listens', 'treats', 'forgets', 'realizes', 'appreciates', 'marries'] 0.5814865922885493 44
+['check', 'checked', 'checking', 'checks'] 0.580167779378426 4
+['cop', 'blind', 'pal', 'freak', 'bum', 'ace', 'dj', 'gi', 'con', 'clown', 'waitress', 'addict', 'prostitute', 'pimp', 'vet', 'crooked', 'bully', 'orphan', 'pals', 'apprentice'] 0.5776400546340227 27
+['force', 'soldiers', 'guard', 'forces', 'armed', 'guards', 'troops', 'patrol', 'rebel', 'convoy', 'rebels', 'stationed', 'deployed', 'armored', 'guarding', 'troop', 'patrolling', 'patrols', 'patrolled', 'uniformed'] 0.5762662911859776 22
+['ice', 'wind', 'rain', 'snow', 'weather', 'frost', 'winter', 'dust', 'hail', 'clouds', 'fog', 'showers', 'melting', 'rains', 'flooding', 'plains', 'snows', 'floods', 'avalanches', 'sleet'] 0.5728044072969039 20
+['group', 'arms', 'drugs', 'gang', 'drug', 'crack', 'counter', 'groups', 'aids', 'gangs', 'linked', 'smuggling', 'trafficking', 'outlawed'] 0.5720900503039203 14
+['request', 'inform', 'informed', 'advised', 'counsel', 'obey', 'requested', 'advise', 'resign', 'petition', 'requests', 'contacted', 'reply', 'plead', 'instructed', 'forfeit', 'summoned', 'requesting', 'intern', 'obliged'] 0.5697271771732828 137
+['add', 'sugar', 'remove', 'salt', 'mix', 'powder', 'pour', 'rub', 'spoon', 'dressing', 'pan', 'drain', 'fold', 'pinch', 'cups', 'lime', 'melt', 'boil', 'fork', 'desired'] 0.5663751943600526 85
+['clean', 'dirty', 'wash', 'shower', 'cleaning', 'closet', 'cleaned', 'washed', 'washing', 'bathing', 'scrubbing'] 0.5662103427462871 11
+['train', 'station', 'bus', 'traffic', 'express', 'tracks', 'transport', 'railroad', 'trains', 'transit', 'rail', 'freight', 'operated', 'buses', 'operates', 'railroads', 'derailed', 'mainline'] 0.5649464803740856 18
+['bag', 'clothes', 'shoes', 'bags', 'shoe', 'boots', 'leather', 'clothing', 'socks', 'blankets', 'backpack', 'garment', 'garments', 'purses', 'backpacks'] 0.564561826608633 15
+['gun', 'machine', 'guns', 'firing', 'rifle', 'cannon', 'rifles', 'mortars'] 0.5613197448712464 8
+['dare', 'bother', 'pretend', 'pity', 'pretending', 'betray', 'stare', 'insult', 'disappoint', 'fuss', 'wander', 'utter', 'hesitate', 'pretended', 'blink', 'dares', 'beware', 'disrespect', 'dwell', 'tempted'] 0.5473623082391078 32
+['phone', 'telephone', 'phones', 'telephones'] 0.5387900243233062 4
+['lie', 'lying', 'lies', 'lay'] 0.5332949705311255 4
+['deal', 'trade', 'deals', 'negotiating', 'accord', 'negotiated'] 0.5179088199130198 6
+['pool', 'swim', 'flow', 'swimming', 'sink', 'shore', 'waters', 'waves', 'floating', 'drown', 'float', 'dam', 'stream', 'drowned', 'dive', 'spill', 'flood', 'drowning', 'tide', 'flowing'] 0.5151612930169296 64
+['blow', 'bomb', 'blew', 'blowing', 'blown', 'blast', 'ripped', 'bombs', 'blows', 'explode', 'tore', 'dynamite', 'exploded', 'rigged', 'detonate', 'detonated', 'rocked', 'explodes', 'improvised', 'blasts'] 0.5098310908385145 22
+['school', 'schools', 'grades'] 0.5083474263146257 3
+['burn', 'smoke', 'destroyed', 'burning', 'burned', 'burns', 'fires', 'burnt', 'ash', 'destroying', 'damaged', 'flames', 'blaze', 'fumes', 'haze', 'scorched', 'blazes', 'extinguished', 'charred', 'blackened'] 0.5069736628665806 24
+['senses', 'stack', 'wired', 'communicate', 'unlock', 'dial', 'programmed', 'reset', 'activated', 'delete', 'warp', 'filter', 'circuits', 'loops', 'commands', 'nodes', 'disable', 'activate', 'overload', 'surround'] 0.5034018779016631 246
+['ooh', 'boo', 'aah', 'pee', 'gee', 'wee', 'moo', 'seel'] 0.5010939553089473 8
+['shut', 'closed', 'shutting', 'closure', 'reopen', 'shuts', 'reopened', 'shuttered'] 0.4985112800266224 8
+['throw', 'balls', 'threw', 'throwing', 'bat', 'toss', 'thrown', 'pitch', 'throws', 'bowling', 'tossed', 'bats', 'batting', 'outs', 'bowled', 'pitches', 'bunt', 'batted'] 0.48274047564306416 18
+['save', 'saved', 'saving', 'saves'] 0.4747176971064805 4
+['earth', 'sun', 'moon', 'mars', 'orbit', 'moons', 'orbits', 'orbiting'] 0.4741132411893407 8
+['cops', 'dogs', 'chase', 'hunt', 'hunting', 'chasing', 'spotted', 'hunted', 'roaming', 'hunts', 'roam', 'chases', 'hounds'] 0.4726295766654519 13
+['pass', 'passed', 'block', 'passing', 'passes', 'blocked', 'blocking', 'rushing'] 0.4655959078114607 8
+['promise', 'promised', 'promises', 'promising', 'vow', 'vows', 'pledge', 'pledged', 'reneged', 'pledges', 'pledging'] 0.46087016155018545 11
+['feed', 'pig', 'farm', 'beef', 'corn', 'cow', 'pigs', 'crops', 'grain', 'hog', 'cotton', 'crop', 'slaughtered', 'harvest', 'slaughter', 'herd', 'processed', 'cows', 'farms', 'shipped'] 0.45900184326084403 46
+['police', 'officers'] 0.4544409486133342 2
+['feelings', 'shame', 'regret', 'anger', 'desire', 'rage', 'despair', 'sorrow', 'desires', 'regrets', 'dislike', 'expressed', 'outrage', 'longing', 'provoked', 'disgust', 'yearning', 'expressing', 'discontent', 'prejudice'] 0.4521879765585402 29
+['lights', 'sky', 'shine', 'shadows', 'lit', 'shining', 'beam', 'candles', 'flame', 'candle', 'mirrors', 'skies', 'faint', 'telescope', 'lighting', 'mist', 'torch', 'beacon', 'glow', 'flashing'] 0.45130876795179115 51
+['order', 'orders', 'ordered', 'ordering', 'restraining'] 0.4499899550416679 5
+['fan', 'cheers', 'watched', 'crowd', 'cheer', 'fans', 'gathered', 'greet', 'rally', 'parade', 'cheering', 'marching', 'salute', 'delight', 'crowds', 'waving', 'greeting', 'flags', 'welcoming', 'waved'] 0.4499350045037461 38
+['cut', 'cutting', 'cuts', 'trim', 'slash', 'slashed', 'trimmed', 'slashing'] 0.44691272491804673 8
+['fool', 'joke', 'trick', 'tricks', 'fools', 'jokes', 'lame', 'prank', 'stunt', 'gag', 'stunts', 'hoax', 'pun', 'pranks', 'gags'] 0.4466379722284377 15
+['card', 'bank', 'credit', 'cards', 'banks', 'deposit', 'banking', 'debit'] 0.44053846251911727 8
+['hurry', 'forgot', 'rush'] 0.44015380875366467 3
+['cake', 'cream', 'cheese', 'bread', 'toast', 'butter', 'sandwich', 'sandwiches', 'baked', 'bake', 'cakes', 'fudge', 'baking', 'loaf', 'crust', 'frosting', 'crumbs', 'waffles', 'toasted', 'buttered'] 0.4380107377747142 25
+['nuts', 'bottle', 'candy', 'nut', 'coke', 'scotch', 'jam', 'bottles', 'gum', 'gin', 'jelly', 'mint', 'sip', 'mug', 'jar', 'cans', 'packs', 'peach', 'cane', 'brew'] 0.43163647537578465 37
+['hurt', 'hurting'] 0.42982310762436515 2
+['attack', 'strike', 'assault', 'attacks', 'bombing', 'strikes', 'targets', 'attacking', 'rocket', 'raid', 'ambush', 'targeting', 'targeted', 'rockets', 'raids', 'bombings', 'shelling', 'barrage', 'mortar', 'assaults'] 0.4243280538321845 20
+['dance', 'sing', 'dancing', 'singing', 'danced', 'tango', 'dances'] 0.42004191187428375 7
+['identify', 'review', 'monitor', 'determine', 'investigating', 'investigate', 'handling', 'commission', 'judging', 'conduct', 'examine', 'monitoring', 'observe', 'panel', 'examined', 'recommended', 'verify', 'conducting', 'investigated', 'reviewing'] 0.4167448795989753 70
+['tank', 'pipe', 'tanks', 'leak', 'plug', 'tube', 'repair', 'pump', 'rig', 'steam', 'hose', 'repairs', 'wiring', 'loading', 'engineers', 'powered', 'leaked', 'vent', 'plumbing', 'installed'] 0.41207408387562183 59
+['blue', 'green', 'yellow', 'pink', 'colors', 'purple', 'colours', 'crimson', 'stripes', 'maroon'] 0.4105354688138113 10
+['party', 'parties'] 0.40976616128290605 2
+['harm', 'interrupt', 'affect', 'threaten', 'disturb', 'interfere', 'distract', 'embarrass', 'offend', 'manipulate', 'tolerate', 'alter', 'frighten', 'interfering', 'harmed', 'deceive', 'risked', 'undermine', 'provoke', 'humiliate'] 0.40597457416630145 111
+['store', 'shop', 'shopping', 'chain', 'warehouse', 'toys', 'toy', 'stores', 'chains', 'shops', 'merchandise', 'shelves', 'retail', 'sears', 'stocked', 'warehouses', 'apparel', 'retailing'] 0.4013037784429479 18
+['amazing', 'interesting', 'exciting', 'fascinating', 'surprising', 'stunning', 'astonishing', 'thrilling', 'intriguing', 'astounding'] 0.3970725870229689 10
+['trust', 'trusts'] 0.39185228592039734 2
+['sang', 'horn', 'perform', 'arranged', 'concert', 'bach', 'sung', 'audition', 'strings', 'string', 'chamber', 'flute', 'tune', 'performed', 'performing', 'drum', 'sings', 'solo', 'choir', 'instrument'] 0.3848186170664061 43
+['leaves', 'flowers', 'garden', 'plant', 'fruit', 'flower', 'plants', 'blossom', 'bloom', 'seed', 'fruits', 'blossoms', 'seeds', 'shade', 'leaf', 'gardens', 'berries', 'buds', 'blooming', 'stalks'] 0.3827854471632994 26
+['camp', 'zone', 'border', 'abandoned', 'strip', 'shelter', 'tent', 'borders', 'isolated', 'confined', 'evacuate', 'camps', 'zones', 'barracks', 'quake', 'transported', 'swat', 'evacuated', 'bases', 'stranded'] 0.3823458428599249 36
+['mine', 'coal', 'mines', 'mining'] 0.3819062385565505 4
+['water'] 0.3772903933711188 1
+['relax', 'shake', 'lift', 'ease', 'grip', 'relaxed', 'lifted', 'loosen', 'lifting', 'relaxing', 'tighten', 'lifts', 'soften', 'tightening', 'imposed', 'embargo', 'curbs', 'toughen', 'loosening', 'eased'] 0.3706963288205021 24
+['rat', 'monkey', 'rats', 'plague', 'snake', 'mouse', 'rabbit', 'frog', 'bug', 'worm', 'tick', 'bugs', 'worms', 'swamp', 'monkeys', 'snakes', 'ape', 'rabbits', 'infested', 'beetle'] 0.36987207075167494 24
+['rock', 'pop', 'band', 'hop', 'jazz', 'bands', 'rap', 'blues', 'disco', 'funk'] 0.36311315458729293 10
+['smile', 'laugh', 'joy', 'tears', 'smiling', 'laughed', 'laughs', 'smiles', 'smiled', 'grin', 'grinning', 'chuckle', 'beaming'] 0.3617393911392477 13
+['hide', 'hiding', 'hidden', 'hid', 'disguise', 'stash', 'hides', 'conceal', 'disguised', 'concealed', 'stashed', 'evade', 'concealing'] 0.3598710728499064 13
+['film', 'screen', 'cast', 'films', 'script', 'filming', 'directed', 'filmed', 'starring', 'remake', 'grossing', 'starred', 'premiered', 'screened'] 0.3597611717740627 14
+['turtle', 'birds', 'nest', 'feeding', 'eagle', 'bald', 'feeds', 'prey', 'bees', 'crows', 'turtles', 'flock', 'goose', 'endangered', 'butterfly', 'feathers', 'crabs', 'ducks', 'snails', 'seals'] 0.35844235886393944 61
+['trip', 'travel', 'tour', 'journey', 'traveling', 'trips', 'travels', 'traveled', 'travelling', 'visits', 'tours', 'travelled', 'journeys', 'touring', 'sightseeing'] 0.35811265563640854 15
+['fly', 'flying', 'landed', 'flew', 'planes', 'flies', 'grounded', 'flown', 'jets'] 0.3558596835816145 9
+['stick', 'knife', 'axe', 'hammer', 'sticking', 'sticks', 'ax', 'axes', 'wielding'] 0.3539913652922731 9
+['calm', 'quiet'] 0.35019977817566855 2
+['court', 'judge', 'district', 'judges', 'appeal', 'circuit', 'ruled', 'courts', 'ruling', 'appeals', 'overturned', 'presiding', 'upheld', 'rulings'] 0.346078487831533 14
+['lord', 'lords'] 0.34245175232869396 2
+['knock', 'butt', 'hook', 'punch', 'knocked', 'gut', 'slap', 'jab', 'punches', 'knocking', 'dunk', 'knocks', 'jabs', 'floored', 'mistimed'] 0.3414076921081795 15
+['favor', 'support', 'favour', 'opposed', 'favors', 'supporting', 'backed', 'supported', 'backing', 'oppose', 'supports', 'leaning', 'advocate', 'opposing', 'favored', 'favoring', 'campaigned', 'favoured', 'opposes', 'endorsed'] 0.34047353296350885 22
+['tree', 'trees', 'forest', 'palm', 'planted', 'pine', 'birch', 'forests', 'pines', 'canopy', 'spruce'] 0.33162649635809816 11
+['cry', 'crying', 'laughing', 'silence', 'cried', 'cries', 'weeping', 'wept', 'wailing', 'sobs', 'sobbing', 'sobbed', 'wailed'] 0.3287141178482424 13
+['glass', 'roof', 'walls', 'steel', 'metal', 'floors', 'concrete', 'beams', 'panels', 'tiles', 'tile', 'roofs', 'arches'] 0.32761510708980635 13
+['rules', 'code', 'limits', 'breach', 'breached', 'codes', 'provisions', 'violated', 'violating', 'violate', 'enforce', 'enforced', 'breaching', 'violates', 'governing', 'zoning', 'breaches', 'enforcing'] 0.31920767478777 18
+['message', 'signal', 'tone', 'greetings', 'signals', 'convey', 'conveyed'] 0.3159655930503835 7
+['blood'] 0.30865717150678335 1
+['boss', 'bosses'] 0.30750321021042537 2
+['radio', 'satellite', 'channel', 'network', 'fox', 'cable', 'stations', 'broadcast', 'networks', 'channels', 'programming', 'broadcasting', 'airs', 'broadcasts', 'airing', 'syndicated', 'aired', 'programing', 'affiliates'] 0.30744825967250367 19
+['bang', 'scream', 'shout', 'yell', 'roar', 'whistle', 'whisper', 'noises', 'thunder', 'clap', 'whoops', 'mouthed', 'holler', 'rattle', 'whispering', 'whoop', 'squeal', 'whispers', 'hum', 'howling'] 0.30722845752081634 72
+['wound', 'wounds', 'suffered', 'heal', 'bruises', 'stab', 'scar', 'sustained', 'healing', 'recovering', 'scars', 'discharged', 'stitches', 'elbow', 'healed', 'bruising', 'bruise', 'scratches', 'fractured', 'puncture'] 0.3066789521415983 48
+['table', 'chair', 'couch', 'tables', 'chairs', 'dining'] 0.29893092629462364 6
+['arrest', 'suspect', 'warrant', 'suspected', 'suspects', 'arresting', 'warrants', 'alleged', 'detain', 'arrests', 'indicted', 'extradite'] 0.29755716284657857 12
+['attacked', 'raped', 'smashed', 'beaten', 'robbed', 'stabbed', 'stoned', 'mob', 'hacked', 'assaulted', 'chased', 'ambushed', 'drugged', 'strangled', 'confronted', 'bombed', 'hijacked', 'assaulting', 'raided', 'harassed'] 0.29530419079178455 53
+['map', 'guide', 'sync', 'lets', 'log', 'coordinates', 'click', 'tips', 'maps', 'calendar', 'google', 'compass', 'viewing', 'guides', 'mapping', 'outline', 'navigate', 'mapped', 'updated', 'diagrams'] 0.29442498218503554 28
+['cup', 'title', 'bowl', 'masters', 'champion', 'boxing', 'defending', 'champ', 'titles', 'wrestling', 'slam', 'skating', 'doubles', 'champions', 'champs', 'reigning', 'qualifying', 'berth', 'standings', 'competed'] 0.28860022516532424 21
+['boom', 'depressed', 'squeeze', 'wave', 'shrink', 'burst', 'bubble', 'slack', 'spike', 'swell', 'bubbles', 'curb', 'craze', 'swings', 'bursting', 'exploding', 'offs', 'booming', 'soaring', 'spurt'] 0.28173140792509843 41
+['jump', 'pole', 'jumping', 'vault', 'meters', 'triple', 'leap', 'relay', 'jumps', 'meter', 'clocked', 'quadruple', 'sprint'] 0.28112695200795856 13
+['rent', 'square', 'parking', 'garage', 'rented', 'premises', 'housing', 'loft', 'lease', 'seating', 'tenant', 'spaces', 'terrace', 'tenants', 'converted', 'renting', 'catering', 'dwelling', 'accommodate', 'suites'] 0.28107200147003675 35
+['arrested', 'murdered', 'kidnapped', 'kidnapping', 'tortured', 'confessed', 'abducted', 'sentenced', 'hanged', 'murdering', 'torturing', 'freed', 'expelled', 'slain', 'imprisoned', 'raping', 'deported', 'arraigned', 'detained', 'abducting'] 0.2800279412495225 27
+['hang', 'hung'] 0.2792586337186172 2
+['grow', 'grown', 'growing', 'grew', 'grows', 'mature'] 0.2785442767256337 6
+['spread', 'split', 'separated', 'circles', 'narrow', 'gap', 'divided', 'spreading', 'divide', 'portion', 'sections', 'forming', 'branches', 'splitting', 'widen', 'span', 'spreads', 'narrowed', 'stretching', 'halves'] 0.2784343756497901 49
+['forgive', 'confess', 'sin', 'sins', 'forgiven', 'forgiving', 'forgave', 'repent', 'forgives', 'wrongs', 'atone'] 0.2733239756230621 11
+['draw', 'paint', 'painting', 'drawn', 'drawing', 'drew', 'painted', 'paintings', 'draws', 'sculpture', 'landscapes', 'sculptures', 'parallels'] 0.2727195197059223 13
+['kiss', 'kissed', 'hug', 'kissing', 'kisses', 'hugs'] 0.27145565733372073 6
+['empty', 'fill', 'filled', 'boxes', 'filling', 'void', 'fills', 'overflowing'] 0.26909278420308314 8
+['vote', 'swing', 'counting', 'votes', 'elected', 'voted', 'polls', 'counted', 'voting', 'gore', 'polling', 'poll', 'elect', 'districts', 'ballot', 'delegates', 'campaigning', 'canvassing', 'nominating', 'reelected'] 0.2664551583828364 27
+['alarm', 'warning', 'panic', 'warn', 'alert', 'trigger', 'distress', 'triggered', 'caution', 'alarms', 'warnings', 'alerted', 'heightened', 'triggering', 'impending', 'alerts', 'warns', 'prompting', 'prompted'] 0.26205911534909193 19
+['killing', 'shooting', 'unarmed', 'injuring', 'wounding'] 0.2604655497493596 5
+['pray', 'bless', 'blessed', 'blessing', 'praying', 'worship', 'divine', 'prayed', 'blessings', 'shrine', 'mourning', 'mourn', 'martyr', 'prays', 'devotees', 'ordained', 'worshipped', 'worshipping', 'fasting', 'consecrated'] 0.25865218199794 25
+['beat', 'beating', 'beats', 'defeated', 'seeded'] 0.25777297339119115 5
+['ally', 'neighbors', 'neighbor', 'bitter', 'contacts', 'ties', 'allies', 'tense', 'rival', 'neighbour', 'peoples', 'neighbours', 'quarrel', 'dispute', 'feud', 'heated', 'spat', 'sparring', 'conflicts', 'clash'] 0.25211306798524513 41
+['sign', 'signs'] 0.24881603570993677 2
+['fix', 'correct', 'fixing', 'update', 'repeating', 'slug', 'updates', 'subs', 'correcting', 'fixes', 'corrects', 'dateline'] 0.2432660313798344 12
+['bar', 'smoking', 'bars', 'lobby', 'lounge'] 0.2432660313798344 5
+['surrender', 'capture', 'garrison', 'captured', 'knights', 'occupied', 'seized', 'allied', 'conquered', 'liberated', 'rouge', 'generals', 'surrendered', 'overrun', 'outnumbered', 'invaded', 'commanded', 'capturing', 'occupy', 'regained'] 0.24315613030399078 48
+['horse', 'horses', 'sire', 'stud', 'bred', 'stakes', 'jockey', 'handicap', 'stables', 'gelding', 'sired'] 0.23579275822246878 11
+['skin', 'bones', 'bone', 'flesh', 'tissue', 'tissues'] 0.23370463778144016 6
+['bet', 'bets', 'wager'] 0.23062740765781903 3
+['fucked', 'screwed', 'pissed', 'messed', 'screwing', 'jacked', 'shacked', 'stunk', 'jazzed', 'blowed', 'lathered'] 0.22870413883055582 11
+['mail', 'messages', 'chat', 'web', 'mails', 'fax', 'email', 'emails', 'addresses', 'blog', 'bulletin', 'spam', 'mailing', 'twitter', 'blogs', 'messaging', 'chats', 'postings', 'faxes'] 0.22782493022380695 19
+['subtitles', 'translate', 'quote', 'readings', 'verse', 'lyrics', 'edit', 'fragment', 'insert', 'references', 'translated', 'quoting', 'hymn', 'repeats', 'memorize', 'deleted', 'mentions', 'obscure', 'quotes', 'paragraph'] 0.22386849149343693 125
+['drunk', 'drinking', 'drank', 'intoxicated', 'binge'] 0.2235937388038279 5
+['record', 'records', 'recorded', 'recording'] 0.22183532159033012 4
+['hill', 'castle', 'mount', 'hills', 'fort', 'located', 'springs', 'mill', 'ridge', 'bluff', 'crest', 'overlooking', 'castles', 'situated', 'bluffs', 'canton', 'interred', 'overlooks'] 0.21914274523216162 18
+['gas', 'oil', 'fuel', 'supply', 'supplies', 'heating', 'barrels', 'reserves', 'gases', 'fuels', 'liquefied', 'refining'] 0.21837343770125633 12
+['print', 'prints', 'pen', 'copies', 'blank', 'printed', 'pencil', 'ink', 'autograph', 'sketch', 'cheque', 'drawings', 'printing', 'pens', 'envelopes', 'cartoons', 'sketches', 'engraved', 'negatives', 'engraving'] 0.21710957532905475 30
+['smell', 'smells', 'scent', 'smelling', 'smelled'] 0.21513135596386979 5
+['kidding', 'joking'] 0.21469175166049537 2
+['ring', 'rings'] 0.21095511508181256 2
+['mark', 'marks'] 0.20815263764780048 2
+['till'] 0.20804273657195685 1
+['devil', 'bears', 'twins', 'rays', 'buffalo', 'homer', 'sharks', 'quarterback', 'devils', 'avalanche', 'eagles', 'bulls', 'franchise', 'cubs', 'saints', 'pitching', 'hawks', 'pitched', 'browns', 'ravens'] 0.20584471505508461 27
+['search', 'searching', 'digging', 'searched', 'locate', 'sites', 'combed', 'searches', 'scouring', 'combing', 'scour', 'scoured'] 0.20447095160703946 12
+['swear', 'sworn', 'swore', 'swears', 'swearing'] 0.2035917430002906 5
+['vacation', 'retreat', 'honeymoon', 'picnic', 'ranch', 'lodge', 'resort', 'ski', 'camping', 'skiing', 'hiking', 'canoe', 'secluded', 'vacations', 'picnics', 'lodgings', 'cabins', 'resorts', 'retreats', 'lodges'] 0.20348184192444696 32
+['ride', 'rides'] 0.2030971881589943 2
+['ghost', 'witch', 'curse', 'spirits', 'ghosts', 'haunted', 'witches', 'voodoo'] 0.1989758978148589 8
+['disappeared', 'disappear', 'fade', 'vanished', 'erased', 'wiped', 'disappearing', 'disappears', 'fading', 'faded', 'vanish', 'fades', 'vanishing', 'reappear', 'vanishes', 'evaporated', 'evaporate', 'reappeared', 'dwindled'] 0.19881104620109344 19
+['pardon', 'grant', 'bail', 'granted', 'visa', 'parole', 'pardons', 'grants', 'granting', 'amnesty', 'reprieve', 'pardoned'] 0.19699767844967392 12
+['burden', 'overcome', 'endure', 'expense', 'relieve', 'lighten', 'spared', 'needless', 'cope', 'endured', 'inconvenience', 'cushion', 'withstand', 'crushing', 'reap', 'absorb', 'hassle', 'disadvantage', 'subjected', 'compensate'] 0.19666797522214305 73
+['bloody', 'revenge'] 0.19199717949878956 2
+['kick', 'kicked', 'kicking', 'kicks', 'volley', 'fumble', 'footed', 'deflected', 'equalized', 'punt'] 0.19012886120944814 10
+['bird', 'confirm', 'confirmed', 'autopsy', 'detected', 'strain', 'quarantine', 'contracted', 'confirms', 'confirming', 'quarantined', 'culled', 'culling'] 0.1888100482993248 13
+['character', 'adventure', 'romance', 'inspired', 'fantasy', 'characters', 'theme', 'cartoon', 'trek', 'adventures', 'revolves', 'recurring', 'marvel', 'themes', 'portrayed', 'featuring', 'animated', 'parody', 'adapted', 'themed'] 0.18848034507179398 24
+['enjoy', 'enjoyed', 'enjoying', 'enjoys'] 0.18523826333440746 4
+['mess', 'boring'] 0.18375459881051867 2
+['training', 'trained', 'exercise', 'combat', 'drill', 'exercises', 'recruits', 'drills', 'maneuvers'] 0.18358974719675325 9
+['letter', 'letters', 'mailed'] 0.18331499450714425 3
+['schedule', 'cancel', 'scheduled', 'delay', 'delayed', 'cancelled', 'canceled', 'interrupted', 'postpone', 'recess', 'schedules', 'delaying', 'canceling', 'reschedule', 'deferred', 'delays', 'postponed', 'postponing', 'scheduling', 'finalized'] 0.18007291276975765 27
+['solve', 'corrected', 'solved', 'misunderstanding', 'resolve', 'sorted', 'resolved', 'remedy', 'solving', 'flaws', 'flaw', 'defect', 'arise', 'defects', 'rectify', 'solves', 'glaring', 'arises', 'misunderstandings', 'redress'] 0.1735337987570628 26
+['fault', 'faults', 'faulting'] 0.17095112347473795 3
+['escape', 'escaped', 'fled', 'flee', 'escaping', 'escapes', 'fleeing', 'flees'] 0.17062142024720708 8
+['tape', 'interviews', 'tapes', 'taping', 'taped', 'demo', 'videotape', 'recordings', 'clips', 'videotapes', 'videotaped'] 0.17051151917136345 11
+['gambling', 'betting', 'corrupt', 'scam', 'gaming', 'scheme', 'bribe', 'sham', 'trades', 'pyramid', 'prostitutes', 'laundering', 'bribes', 'syndicate', 'dealings', 'bribed', 'laundered', 'counterfeit', 'misuse', 'schemes'] 0.167818942813195 50
+['wire', 'rope', 'fence', 'razor', 'ropes', 'barricade', 'wires', 'poles', 'fencing', 'cables', 'fences', 'strung', 'barricades', 'ladders', 'barbed', 'picket', 'coils', 'scaffolding'] 0.16759914066150775 18
+['freeze', 'frozen', 'freezing', 'suspended', 'cease', 'halt', 'resume', 'freezes', 'stalled', 'froze', 'suspend', 'dismantling', 'restart', 'halting', 'phased', 'suspending', 'resuming', 'halted', 'thaw', 'sanctions'] 0.16743428904774232 29
+['count', 'counts'] 0.16215903740724896 2
+['beg', 'begging', 'starving', 'starve', 'begged', 'beggars', 'pleading', 'begs'] 0.16095012557296925 8
+['seat', 'seats'] 0.1605654718075166 2
+['hurts', 'scare', 'bothering', 'scares', 'bothers'] 0.1603456696558294 5
+['plot', 'blackmail', 'kidnap', 'attempted', 'sabotage', 'ransom', 'deliberate', 'plotting', 'smear', 'hijacking', 'heist', 'hijack', 'premeditated', 'assassinate', 'slander', 'behead', 'conspiring', 'abduct', 'conspired', 'mastermind'] 0.15501546747741424 45
+['witness', 'witnesses', 'alibi', 'testify', 'eyewitness', 'testified', 'incriminating', 'testifying', 'eyewitnesses', 'testifies', 'recanted'] 0.1539164567189781 11
+['suit', 'suits', 'filed', 'damages', 'filing', 'libel'] 0.1529273470363856 6
+['career', 'coach', 'seasons', 'coaches', 'coaching', 'stint', 'coached', 'quarterbacks'] 0.15127883089873143 8
+['awake', 'woke', 'waking', 'wakes', 'awakened', 'woken', 'slumber', 'awaken', 'awoke', 'jolted', 'awakens', 'awakes'] 0.14122288245904094 12
+['risk', 'risks', 'pose', 'posed', 'hazard', 'poses', 'hazards'] 0.13836545448710708 7
+['stone', 'stones', 'carved', 'marble'] 0.13517832328764232 4
+['weed', 'grass', 'bog', 'scrub', 'planting', 'litter', 'logging', 'bushes', 'manure', 'sod', 'watering', 'gardening', 'watered', 'weeds', 'pastures', 'harvesting', 'forage', 'mowing', 'graze', 'bogs'] 0.13468376844634605 45
+['queen'] 0.13451891683258066 1
+['church', 'saint'] 0.1330352523086919 2
+['field', 'fields'] 0.132156043701943 2
+['file', 'files'] 0.1300129727229926 2
+['breathe', 'breathing', 'sigh', 'breathed', 'breathes'] 0.12951841788169632 5
+['owe', 'owes', 'owed'] 0.1290238630404001 3
+['shock', 'nerve', 'pulse', 'nerves', 'muscles', 'cord', 'shocks', 'vein', 'tremor', 'tremors'] 0.12869415981286925 10
+['convince', 'persuade', 'impress', 'lure', 'seduce', 'entertain', 'inspire', 'persuaded', 'recruit', 'appease', 'educate', 'reassure', 'reconcile', 'pressuring', 'entice', 'motivate', 'enlist', 'convinces', 'unseat', 'coax'] 0.12759514905443312 23
+['fingerprints', 'sample', 'scan', 'samples', 'detect', 'handwriting', 'scanning', 'scans', 'swab', 'scanned', 'imaging', 'analyzed', 'fingerprint', 'analyzing', 'sampling', 'detecting', 'autopsies', 'analysed', 'swabs', 'sequencing'] 0.1252872264617173 22
+['screaming', 'yelling', 'shouting', 'yelled', 'screams', 'screamed', 'insults', 'shouted', 'moaning', 'yells', 'shouts', 'chanting', 'taunts', 'placards', 'hollering', 'chanted', 'slurs'] 0.12479267162042104 17
+['ram', 'zip', 'cache', 'disk', 'download', 'downloaded', 'contents', 'stored', 'copied', 'upload', 'archive', 'dos', 'uploaded', 'accessed', 'streaming', 'archives', 'storing', 'downloading', 'copying', 'accessing'] 0.11973722213161489 37
+['dong', 'chin', 'ding', 'tan', 'wan', 'ping', 'bong', 'shin', 'lam', 'gong', 'ting', 'din', 'yip', 'hock', 'gan'] 0.11808870599396071 15
+['loan', 'bond', 'bonds', 'repay', 'mortgage', 'loans', 'lending', 'financing', 'hedge', 'deposits', 'insured', 'repaid', 'mortgages', 'leveraged', 'maturing', 'refinancing', 'underwriting', 'refinance'] 0.11561593178747945 18
+['rang', 'bells', 'ringing', 'rung', 'tolled'] 0.11446197049112153 5
+['rumor', 'rumors', 'buzz', 'gossip', 'chatter', 'rumours', 'rumour', 'rumored', 'hype', 'buzzing', 'circulating', 'surfaced', 'sightings', 'buzzed', 'circulated', 'mongering', 'swirled'] 0.1142421683394343 17
+['ball'] 0.11396741564982528 1
+['spy', 'spies', 'spying', 'drone', 'drones', 'satellites', 'unmanned'] 0.11100008660204777 7
+['climb', 'climbing', 'ladder', 'peak', 'ascend', 'descending', 'steep', 'slopes', 'descend', 'climbs', 'slope', 'peaks', 'ascending', 'mountaineering'] 0.10484562635480552 14
+['treasure', 'jewel', 'jewels', 'antique', 'treasures', 'treasured', 'antiques', 'jade', 'prized', 'shipwreck', 'sunken', 'hoard'] 0.10094413816235728 12
+['murders', 'torture', 'stabbing', 'massacre', 'killings', 'abuses', 'cleansing', 'shootings', 'riots', 'looting', 'rapes', 'beatings', 'rampage', 'spree', 'hazing', 'slaying', 'rioting', 'lynching', 'perpetrated', 'massacres'] 0.0971525510457527 22
+['signed', 'signing', 'accords', 'inked'] 0.09599858974939478 4
+['needle', 'dose', 'medicines', 'addicts', 'needles', 'transplant', 'overdose', 'administered', 'inject', 'prescribe', 'injected', 'syringe', 'administer', 'ingested', 'inhaled', 'prescribed', 'cures', 'relapse', 'doses', 'ingesting'] 0.09583373813562937 34
+['poison', 'poisoned', 'contaminated', 'poisoning', 'tainted', 'sickened', 'poisons', 'laced'] 0.09314116177746087 8
+['cheat', 'cheating', 'cheated'] 0.09220700263279016 3
+['issue', 'issues'] 0.08978917896423072 2
+['borrow', 'borrowed', 'lend', 'lent', 'borrowing', 'loaned', 'borrows', 'lends', 'borrowings'] 0.08770105852320209 9
+['crown', 'throne', 'consort', 'reign', 'crowned', 'ascended', 'abdicated'] 0.08676689937853141 7
+['center', 'centre', 'centers'] 0.08643719615100057 3
+['quarter', 'net', 'profit', 'profits', 'forecast', 'earnings', 'totaled'] 0.08544808646840807 7
+['lied', 'misled'] 0.08292036172400498 2
+['transfer', 'transferred', 'fee', 'swap', 'transferring', 'transfers'] 0.0813817466621944 6
+['bucks', 'suns', 'spurs'] 0.07989808213830568 3
+['rescue', 'rescued', 'rescuing', 'salvage', 'rescues'] 0.07451292942196872 5
+['ships', 'fleet', 'submarines', 'fleets'] 0.07434807780820328 4
+['clock', 'ticking', 'clocks'] 0.07247975951886189 3
+['eggs', 'egg', 'fertilized'] 0.07138074876042577 3
+['tear', 'shields', 'riot', 'cannons', 'disperse', 'stun', 'dispersed', 'volleys', 'teargas'] 0.06874312294017909 9
+['contract', 'contracts'] 0.06857827132641367 2
+['milk'] 0.06819361756096103 1
+['perfume', 'soap', 'shampoo', 'shaving', 'incense', 'creams', 'scented', 'soaps', 'oils', 'moisturizing', 'scents', 'perfumes', 'shampoos', 'gels'] 0.06709460680252491 14
+['trace', 'traces', 'traced', 'tracing'] 0.0670396562646031 4
+['belly', 'breast', 'breasts', 'implants', 'implant'] 0.06681985411291588 5
+['bath', 'massage', 'baths'] 0.06676490357499407 3
+['inches', 'inch', 'sizes'] 0.06484163474773087 3
+['storm', 'winds', 'storms'] 0.06473173367188725 3
+['labor', 'pension', 'labour', 'wages', 'wage', 'bargaining', 'pensions', 'unionized'] 0.06374262398929477 8
+['accent', 'pronounce', 'spelled', 'pronounced', 'initials', 'spelling', 'accents', 'slang', 'suffix', 'drawl', 'pronouncing', 'spelt', 'accented', 'twang', 'lilting'] 0.06209410785164059 15
+['embarrassing', 'disappointing', 'humiliating', 'defeats', 'humbling'] 0.05863222396256682 5
+['cough', 'pains', 'vomiting', 'ache', 'cramps', 'aches', 'coughing', 'itching', 'aching', 'cramping', 'tingling', 'gangrene', 'cramp', 'sneezing', 'blisters', 'coughs', 'fainting', 'jaundice', 'bloating', 'palsy'] 0.058137669121270566 21
+['freaking', 'freaked', 'blacked', 'bummed', 'tuckered', 'creeped', 'dumbfounded', 'flabbergasted', 'blacking'] 0.05780796589373973 9
+['jerk', 'snatch'] 0.05692875728699084 2
+['dwarf', 'clone', 'clones', 'dwarfs', 'apes', 'cloned', 'cloning'] 0.05626935083192916 7
+['image', 'images'] 0.0556648949147893 2
+['executed', 'execute', 'retarded', 'convict', 'sentences', 'convicts', 'paroled', 'incarcerated', 'executing', 'jails', 'executes'] 0.054291131466744164 11
+['slave', 'slaves', 'enslaved', 'indentured'] 0.05121390134312303 4
+['barbecue', 'grill', 'rack', 'stove', 'charcoal', 'roasting', 'coals', 'grate', 'barbecues', 'grilling', 'barbecuing', 'barbecued', 'sear', 'baste', 'preheated', 'skewers', 'grills', 'marinade', 'broil', 'preheat'] 0.050829247577670385 20
+['tracking', 'tracked'] 0.04984013789507788 2
+['clue', 'puzzle', 'clues', 'puzzles', 'tantalizing'] 0.047147561536909396 5
+['stamp', 'coin', 'coins', 'stamps', 'minted'] 0.045059441095880774 5
+['bugging', 'intercept', 'jamming', 'radios', 'intercepted', 'bugged', 'eavesdropping', 'snooping', 'wiretap', 'eavesdrop', 'intercepting', 'intercepts', 'wiretaps', 'scud', 'eavesdropped'] 0.04472973786834994 15
+['piss'] 0.04346587549614841 1
+['beep', 'horns', 'whistles', 'beeps', 'honk', 'beeping', 'trumpets', 'honked', 'honking', 'blaring', 'blare'] 0.043410924958226606 11
+['desert', 'deserts'] 0.04049854644837089 2
+['woo'] 0.03841042600734227 1
+['exile', 'overthrow', 'mutiny', 'exiled', 'overthrown', 'uprising', 'revolt', 'toppling', 'deposed', 'ousted', 'overthrew', 'topple', 'exiles', 'toppled', 'overthrowing', 'uprisings'] 0.03604755287670462 16
+['comfort', 'comforts', 'solace'] 0.0358277507250174 3
+['flash'] 0.035552998035408366 1
+['chart', 'charts', 'singles', 'peaked', 'peaking', 'charted', 'charting'] 0.03275052060139627 7
+['balloon', 'kite', 'balloons', 'parachute'] 0.031321806615429326 4
+['underestimate', 'underestimated', 'exaggerate', 'exaggerating', 'exaggerated', 'underestimating', 'overestimating', 'overstate', 'overstated', 'downplay', 'exaggerates', 'overestimated', 'overestimate', 'overstating', 'underestimates', 'understating', 'understate'] 0.02917873563647889 17
+['groom', 'cheeks', 'blushing', 'grooms'] 0.02840942810557361 4
+['bin', 'laden'] 0.025167346368187068 2
+['dope', 'cheats', 'doping'] 0.024288137761438178 3
+['fulfill', 'fulfilled', 'fulfilling', 'fulfil', 'fulfills', 'fulfils'] 0.024123286147672757 6
+['smash'] 0.02406833560975095 1
+['kit', 'kits'] 0.02313417646508025 2
+['label', 'labels', 'imprint', 'catalog', 'catalogue', 'reissued'] 0.021925264630800526 6
+['smooth'] 0.02055150118275538 1
+['compound', 'holed', 'walled', 'compounds'] 0.020551501182755377 4
+['infected', 'infect', 'vaccinated', 'infects', 'infecting', 'mutate'] 0.020386649568989963 6
+['couples'] 0.019947045265615512 1
+['spray', 'sprayed', 'sprays', 'spraying'] 0.019177737734710234 4
+['saddle', 'boogie', 'brook', 'saddles'] 0.0188480345071794 4
+['foul', 'rebounds', 'fouled', 'fouls', 'fouling'] 0.01818862805211773 5
+['marshal', 'marshals'] 0.017089617293681608 2
+['paralyzed', 'crippled', 'disrupted', 'crippling', 'blockade', 'paralysed', 'snarled', 'hampered', 'curtailed', 'blockaded', 'paralyzing', 'paralysing', 'blockades', 'paralyzes'] 0.01626535922485452 14
+['ratings', 'rated', 'rating', 'downgrade', 'outperform', 'notches', 'downgraded'] 0.015111397928496601 7
+['reel', 'reels'] 0.014836645238887574 2
+['brigade', 'regiment', 'brigades', 'armoured', 'mechanized', 'regiments', 'dragoons', 'dragoon'] 0.014781694700965768 8
+['pervert', 'perverting'] 0.01472674416304396 2
+['intruding', 'strayed', 'intrude', 'intruded', 'straying', 'trespassed', 'encroached'] 0.013133178563311592 7
+['scum'] 0.012803475335780757 1
+['slop', 'splatter', 'splat', 'quack', 'bobble', 'clunk'] 0.012034167804875475 6
+['factor', 'factors', 'mitigating'] 0.011594563501501029 3
+['faggot'] 0.0103856516672213 1
+['bundle', 'bundles', 'manifold'] 0.010330701129299494 3
+['nuke', 'nukes'] 0.00972624521215963 2
+['tread', 'treads', 'treading'] 0.009506443060472408 3
+['grease', 'greased'] 0.00906683875709796 2
+['shoo'] 0.00906683875709796 1
+['bollocks'] 0.008077729074505456 1
+['contribute', 'contributing', 'contributed'] 0.007857926922818233 3
+['fucks'] 0.007693075309052816 1
+['zoom'] 0.007308421543600174 1
+['courting', 'courted', 'wooed', 'wooing'] 0.007088619391912952 4
+['replay', 'replays', 'referee', 'umpire', 'disallowed', 'refereeing', 'umpires', 'referees'] 0.007088619391912952 8
+['clot', 'clotting', 'clots'] 0.006978718316069339 3
+['veer', 'veering', 'veered', 'veers'] 0.006813866702303922 4
+['chills', 'shiver', 'shudder', 'shivers', 'shudders'] 0.006539114012694892 5
+['scram', 'hearken'] 0.006429212936851282 2
+['foreclosed', 'mortgaged', 'repossess', 'resell', 'refinanced', 'repossessed', 'nationalized', 'appraised', 'mortgaging', 'foreclosing'] 0.006374262398929476 10
+['sorrows', 'joys'] 0.005989608633476835 2
+['overrated', 'hyped', 'overpriced', 'overpaid', 'undervalued', 'underrated', 'overvalued'] 0.005769806481789611 7
+['impound', 'requisition', 'impounded', 'confiscate', 'impounding'] 0.005220301102571554 5
+['dozed', 'flunked', 'overslept', 'goofed', 'slacked', 'snoozed', 'sulked'] 0.0050004989508843295 7
+['blooded'] 0.0050004989508843295 1
+['barf', 'swag'] 0.004725746261275301 2
+['disbarred'] 0.004670795723353495 1
+['default', 'devalued', 'defaulted', 'defaults', 'depreciated', 'swaps', 'devalue', 'defaulting'] 0.004286141957900854 8
+['overdoing', 'overdo', 'overdid', 'trivializing', 'overcook'] 0.004176240882057243 5
+['tram', 'trams'] 0.0036816860407609905 2
+['hex'] 0.00368168604076099 1
+['swallows', 'carp', 'buffaloes', 'blanked'] 0.0036267355028391846 4
+['churches'] 0.0035717849649173784 1
+['knuckles', 'knuckle'] 0.0035717849649173784 2
+['marshaling', 'mobilizing', 'marshalling'] 0.0035168344269955725 3
+['hallowed'] 0.003187131199464738 1
+['reheat', 'defrost', 'refrigerate', 'reheated', 'refrigerated'] 0.0029123785098557086 5
+['chisel', 'beaks'] 0.002912378509855708 2
+['jackknifed', 'rumbled', 'hovered', 'swooped', 'clattered'] 0.0026925763581684852 5
+['trickling', 'trickle', 'trickles'] 0.00236287313063765 3
+['hoot'] 0.0023079225927158447 1
+['balled', 'balling'] 0.002252972054794039 2
+['rustle', 'rustling', 'rustles', 'rustled'] 0.002198021516872233 4
+['snuff'] 0.002198021516872233 1
+['feathered'] 0.002143070978950427 1
+['commune', 'communes'] 0.0019782193651850096 2
+['dishonored'] 0.001923268827263204 1
+['fattening', 'fattened', 'fatten', 'fattens'] 0.001868318289341398 4
+['slay'] 0.0018133677514195923 1
+['glimmer', 'glimmers'] 0.0017584172134977863 2
+['itemized', 'deduct', 'itemize'] 0.001593565599732369 3
+['behooves'] 0.001593565599732369 1
+['hurdle', 'hurdles', 'breaststroke'] 0.001593565599732369 3
+['winded'] 0.001593565599732369 1
+['aced', 'eagled'] 0.0013188129101233397 2
+['bluffed', 'wend', 'wormed', 'wending', 'wended'] 0.001208911834279728 5
+['sonnet', 'sonnets'] 0.001208911834279728 2
+['batten'] 0.0011539612963579224 1
+['ratchet', 'clank'] 0.0011539612963579224 2
+['overworked', 'underpaid'] 0.0010990107584361165 2
+['intubate'] 0.0010440602205143107 1
+['crick'] 0.0009891096825925048 1
+['rejoicing'] 0.000934159144670699 1
+['lows'] 0.000934159144670699 1
+['weighted', 'weighting'] 0.0008242580688270874 2
+['reciprocated', 'reciprocate', 'abided', 'abides'] 0.0008242580688270873 4
+['proofed', 'proofing'] 0.0007693075309052815 2
+['muff'] 0.00065940645506167 1
+['disillusioning', 'traumatizing'] 0.000604455917139864 2
+['stoning'] 0.0005495053792180583 1
+['bugle'] 0.0005495053792180583 1
+['lisp'] 0.0005495053792180583 1
+['yammer'] 0.0004945548412962524 1
+['leaches', 'leaching', 'juts'] 0.0004396043033744466 3
+['reassembles'] 0.00043960430337444656 1
+['jacketed'] 0.00043960430337444656 1
+['headbutted', 'headbutt'] 0.00038465376545264077 2
+['swigged'] 0.00038465376545264077 1
+['whimper'] 0.00038465376545264077 1
+['bur'] 0.000329703227530835 1
+['squishing', 'shimmers', 'clacking'] 0.000329703227530835 3
+['slurred', 'slurring'] 0.000329703227530835 2
+['semaphore'] 0.00027475268960902913 1
+['skunked', 'outvoted'] 0.0002747526896090291 2
+['arbitrate', 'adjudicate'] 0.0002198021516872233 2
+['mosey'] 0.00021980215168722328 1
+['financier', 'financiers'] 0.00021980215168722328 2
+['sugarcoat'] 0.00021980215168722328 1
+['masturbated'] 0.00021980215168722328 1
+['foist'] 0.0001648516137654175 1
+['daze'] 0.0001648516137654175 1
+['clammed'] 0.0001648516137654175 1
+['rehashes'] 0.0001648516137654175 1
+['retch', 'natter'] 0.00016485161376541746 2
+['bungle'] 0.00010990107584361164 1
+['cowered'] 0.00010990107584361164 1
+['costed', 'probated'] 0.00010990107584361164 2
+['tenanted'] 0.00010990107584361164 1
+['hob'] 0.00010990107584361164 1
+['skims'] 0.00010990107584361164 1
+['travail'] 0.00010990107584361164 1
+['distrusting', 'mistrusting'] 0.00010990107584361164 2
+['mewling'] 5.495053792180582e-05 1
+['snowshoe'] 5.495053792180582e-05 1
+['slumbers'] 5.495053792180582e-05 1
+['overplaying'] 5.495053792180582e-05 1
+['withholds'] 5.495053792180582e-05 1
+['burped'] 5.495053792180582e-05 1

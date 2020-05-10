@@ -1,0 +1,1000 @@
+*
+*
+*
+*
+*
+* time_point time_period
+*
+*
+* person
+*
+* quantity
+*
+*
+*
+* time_point
+*
+*
+*
+*
+* location politics
+*
+*
+*
+*
+*
+* body location
+*
+*
+*
+*
+* water
+* animal air
+* time_period
+* person
+* time_period
+*
+*
+*
+*
+*
+*
+* person
+* location
+* alive
+* multiple
+*
+*
+*
+*
+*
+* location
+*
+*
+* house
+*
+*
+*
+* location politics
+*
+*
+*
+* quantity
+*
+*
+* control leader
+* body touch help
+* school
+* piece
+*
+*
+* house
+*
+* quantity
+*
+*
+* thought
+*
+*
+*
+*
+* abstract location say
+* location distance more
+* body
+*
+* school food
+* analysis good
+* question receive emotion
+* group energy artifact plan
+*
+*
+* fight military
+* data legal
+* water
+* energy data artifact entertainment vision
+* time_point give receive
+* politics
+* abstract
+*
+* group
+*
+*
+*
+* location society
+* abstract stability
+*
+*
+* body vision
+* abstract
+*
+* body society
+*
+* emotion thought data more
+*
+*
+*
+* time_point time_period
+*
+*
+*
+* location food
+* artifact situation legal
+* time_period
+*
+* quantity small
+* situation difficult
+*
+* give
+*
+* house location
+* person time_point less
+* 
+*
+* society financial
+* leader politics
+* help
+* control energy
+* location politics
+*
+* abstract
+* say data
+*
+*
+* abstract say entertainment group time_period
+* time_period
+* religion
+*
+*
+* quantity
+* quantity
+* person time_point less
+* expertise give help
+*
+* name
+*
+* act vehicle change
+* change create
+*
+* family
+*
+*
+* society financial group
+* thought
+* group person
+* person
+*
+*
+* religion leader control thought
+* sense
+* time_period
+*
+* change
+* group
+*
+* person time_point less
+* legal
+* substance situation
+*
+* act plan
+* question
+* act
+*
+*
+*
+* abstract military control
+* house analysis
+* act
+* artifact house
+* thought data expertise
+* person
+* analysis create
+* time_point
+* move body
+*
+* vehicle
+* abstract data
+* body touch
+*
+* location
+* quantity
+*
+* plan
+* person female
+* person time_point less
+* body move
+*
+*
+* body
+* entertainment
+*
+* time_point
+*
+* financial value
+* location nature
+*
+*
+*
+* analysis
+*
+*
+* data
+* vision data
+*
+*
+* time_point less analysis science
+* love
+* female person time_point less
+*
+*
+* move act
+* person
+* school
+*
+*
+*
+* vision entertainment
+*
+*
+* dead
+*
+* location vehicle
+* value
+*
+*
+* time_point less
+*
+* time_point
+* control
+* house society expertise
+*
+* situation difficult
+*
+*
+*
+* quantity
+* nature
+*
+*
+*
+*
+* artifact group society
+* change
+*
+* financial value
+* location
+*
+* time_point person
+*
+*
+* abstract good data
+*
+* legal location
+* data analysis
+* level
+* time_period change financial
+* air
+*
+* group help
+*
+* sound entertainment
+*
+* society
+*
+* trait
+*
+* abstract thought
+*
+* nature location
+* group entertainment politics
+* group school
+*
+* give move location
+* group society
+* school thought
+*
+* family female create
+* sound
+* politics society
+* sound say
+* quantity
+* move give
+* family female love
+*
+* location
+*
+* location
+* data vision
+* school person
+*
+*
+*
+* society create
+* artifact effort
+* politics financial resource
+* location
+* event group
+*
+* change quantity less
+*
+*
+* school
+* dead fiction
+* event time_point
+* quantity
+* time_point more
+* location
+*
+* time_period
+* location
+*
+* help medical
+*
+* analysis data
+*
+* quantity
+*
+* vehicle location
+*
+* help give emotion
+* vision
+* hot substance energy
+*
+*
+* time_point
+* artifact data house
+* location
+* situation
+* effort act
+* location
+* abstract say entertainment
+* abstract location
+*
+*
+* location level big
+* abstract good society
+*
+* piece group
+* time_period
+* substance leader
+* school
+* say
+*
+*
+*
+* family create
+* nature location
+* alive
+* time_period
+*
+* location
+*
+*
+*
+*
+*
+* time_period
+* location
+*
+* time_point level change less
+*
+* air abstract effort
+* location
+*
+* person expertise help
+*
+*
+* body vision
+* value
+* group expertise society
+*
+*
+*
+*
+* location abstract science
+* school say data
+* say
+* time_period
+*
+* say
+*
+* quantity
+* question analysis
+*
+*
+* school person
+* rest quantity
+* politics group
+* body biology emotion
+* financial value
+* abstract data
+* vision data
+*
+* time_period
+* financial say
+* effort
+* quantity big
+*
+*
+* effort
+* society financial
+* nature location water
+* artifact house
+* abstract effort
+* abstract location
+* location
+*
+*
+* vision say
+*
+* ownership financial
+* distance
+* quantity change
+*
+* vision trait
+*
+* touch emotion
+* family
+* person good
+*
+*
+*
+* quantity less love
+* thought effort
+* say data
+* analysis change
+* quantity
+* move act
+* substance data
+*
+*
+*
+* entertainment say fiction
+* group leader
+* location
+*
+*
+*
+*
+* control
+*
+*
+* abstract location
+* dead
+*
+* financial damage
+*
+*
+* quantity
+* defense
+*
+*
+* time_point less event
+*
+* water nature
+*
+*
+*
+* value give receive
+* abstract say
+*
+* person good
+* trait
+* control leader
+*
+* financial value
+*
+* food
+* house
+* religion
+* group event plan
+*
+*
+*
+* substance location nature
+*
+*
+*
+*
+*
+* change expertise good
+* location
+* abstract group
+* location level less
+* piece
+*
+*
+* location vehicle
+*
+* location
+*
+*
+*
+* abstract good
+* nature biology
+*
+* group event
+* question receive emotion
+*
+* politics location
+*
+* move vehicle
+* effort distance more
+* society control
+*
+*
+* animal food location
+* emotion bad
+* science question analysis
+*
+* body biology outfit
+* analysis data
+* food financial
+* situation difficult
+*
+* change quantity more
+* location abstract vision
+* event analysis
+*
+*
+* person female
+*
+* person expertise medical analysis
+*
+*
+* abstract alive
+*
+* house location
+*
+* person time_point less
+*
+* 
+* create
+* location
+*
+* thought
+* emotion analysis bad
+* religion
+* data
+* person female time_point less
+*
+* abstract
+* location
+* animal food
+* legal event
+* move body
+*
+* time_period
+* abstract location
+* effort control society
+*
+* thought
+*
+* plan
+* medical plan
+* quantity more
+* distance analysis
+*
+* thought data
+*
+* air level hot cold
+* say data
+* level less
+* entertainment
+*
+* analysis science
+*
+* animal
+* change control
+* distance level big small
+*
+*
+*
+* question say
+* person fiction quality
+* body distance
+*
+*
+* vision data receive
+* family love
+* thought question
+* expertise give help
+*
+*
+*
+* energy data artifact entertainment vision
+* person quantity more
+* quantity analysis
+*
+* time_point nature artifact
+*
+* time_point hot
+* financial give politics
+* quantity big location
+* question
+*
+*
+* military group
+*
+*
+* quantity small
+*
+*
+* time_point
+*
+*
+*
+* person quantity
+*
+* quantity analysis
+*
+*
+* situation trait
+* plan thought
+* ownership financial say
+* time_point effort good
+* effort
+* question receive emotion intense
+* trait body move easy_simple
+* air artifact house
+*
+*
+* school name expertise level
+*
+*
+* financial quantity
+*
+* fight
+*
+* body
+* plan use
+*
+*
+*
+*
+*
+*
+* time_period stability
+* house
+* 
+* entertainment
+*
+* location vehicle
+* change
+* entertainment say
+*
+* ownership say
+* create
+* rest house artifact
+* abstract bad
+*
+* abstract quantity
+* move damage
+* plan
+* give quantity
+* group energy artifact plan
+*
+* leader
+* leader
+*
+* vision plan
+*
+* financial value
+* effort receive good
+* quantity less
+*
+* data good analysis
+* abstract control less
+* act trait
+* quality trait good bad
+* artifact damage
+*
+*
+* abstract financial value
+* move
+* distance
+* plan location
+* damage hot energy
+* data legal
+* group society
+* rest
+*
+* effort
+* covering
+* data value say
+* abstract effort distance
+* medical control act
+*
+*
+*
+* fight
+*
+* biology medical
+* group
+*
+* vehicle say abstract
+* artifact entertainment sound
+* entertainment body move
+* thought emphasis
+* vehicle
+*
+* quantity
+* location distance more
+* thought emotion science
+*
+* say thought
+* move body time_period less
+*
+* food water
+*
+*
+* artifact
+* effort act
+*
+* family quantity person love
+* event entertainment time_period less
+* group vision entertainment
+*
+*
+* time_point love event
+* medical level
+* person
+* analysis thought change more
+* body
+*
+*
+*
+* house medical help
+* water entertainment group
+*
+*
+*
+*
+* water
+*
+* move body plan quantity
+*
+* hot vision air
+*
+*
+*
+*
+* nature location
+* group control expertise artifact
+* religion thought
+* ownership
+* location
+* time_point more
+*
+* time_period nature entertainment
+*
+*
+* expertise change more
+* nature
+* create say touch vision
+* person quantity
+* plan thought
+*
+* time_period
+* artifact time_point time_period
+* event vision situation
+* act entertainment change move
+* create analysis
+* group analysis trait
+* entertainment artifact
+* hot
+*
+* distance more
+* family create
+* data vision say
+*
+*
+*
+* give
+*
+*
+*
+* group
+*
+*
+* person entertainment say
+* quantity
+*
+* quantity
+* air vehicle
+*
+*
+* water food
+*
+* plan
+* abstract question
+* time_period
+* analysis body
+* piece
+*
+* say
+*
+*
+* society thought quantity more
+*
+* level
+* abstract good legal
+* vehicle
+* vision create artifact
+*
+* thought emotion
+*
+* substance water food
+*
+*
+*
+*
+* question receive emotion
+* legal leader analysis
+* quantity small
+* time_period stability
+*
+*
+* entertainment vision covering
+* body say
+* group society military
+* value quantity
+* touch
+* entertainment leader
+* water vehicle big
+* group politics
+* change sense
+* event
+* value
+* alive
+*
+*
+*
+* analysis
+*
+* create artifact
+*
+* medical person receive help
+* control
+* artifact location vehicle water
+* emotion bad touch body sense
+* location military
+* financial
+* location society
+* piece easy_simple
+* leader
+* say analysis group
+*
+*
+* say control group
+* resource substance air
+* piece create situation
+* family love group event
+*
+*
+*
+*
+*
+*
+* quantity less
+*
+* artifact vehicle food
+* abstract
+*
+*
+*
+*
+*
+* say data time_point distance less
+*
+* vision emotion good
+*
+* thought emotion intense
+*
+* damage touch effort
+*
+* quantity
+* control give stability
+*
+*
+* politics say plan
+* financial quantity change
+*
+* bad quantity less
+* say control
+*
+*
+* analysis
+* school analysis
+*
+*
+* act move change
+* person emotion bad
+* body food
+* financial house nature water
+* artifact entertainment
+* abstract distance analysis
+* quantity
+*
+*
+* nature water
+* water food house substance
+*
+*
+* nature biology
+* politics leader
+*
+* substance
+* time_point
+*
+* event
+*
+*
+* animal food
+*
+*
+*
+* vision small quantity more
+*
+*
+* location
+* person question
+*
+* say
+*
+* vision say artifact
+* location politics resource
+*
+* location
+* person quantity big
+* location
+*
+* body say
+*
+* plan use effort
+* time_point
+*
+* vision bad
+* food time_point
+* animal
+* financial resource quantity
+*
+*
+*
+* group quantity more
+*
+* location
+* move change time_period less
+* entertainment sound group
+*
+* leader politics
+* group society
+* outfit distance small good
+* substance
+* vision
+* house ownership financial
+* abstract control change
+*
+* quantity change more
+* leader quality
+*
+*
+* family create
+*
+* person distance less society
+*
+*
+* location food create
+* quantity
+* religion person
+* science distance less bad damage
+*
+* effort change bad
+*
+* politics plan event
+* politics plan event
+* leader politics
+* vision data
+* control leader
+* location distance more
+* time_point
+*

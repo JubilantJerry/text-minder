@@ -1,0 +1,500 @@
+['i'] 67.0101567523363 1
+['no', 'not', 'all', 'but', 'there', 'only', 'any'] 51.370568515940555 7
+['so', 'like', 'now', 'well', 'as', 'way', 'even', 'much', 'still', 'other', 'long', 'made', 'many', 'already', 'most', 'once', 'live', 'few', 'such', 'both'] 49.026087933628396 25
+['just', 'go', 'good', 'going', 'really', 'never', 'sure', 'better', 'always', 'ever', 'done', 'coming', 'looking', 'gone', 'chance'] 37.912153768361115 15
+['then', 'by', 'over', 'again', 'before', 'home', 'after', 'last', 'won', 'old', 'lost', 'ago', 'later', 'set', 'game', 'half', 'past', 'beat', 'turned', 'moved'] 20.760913670726453 25
+['in'] 17.547459563390746 1
+['out', 'up', 'down', 'off'] 17.423044029240458 4
+['yeah', 'okay', 'sorry', 'please', 'ok', 'alright'] 15.501688630305454 6
+['one', 'two', 'every', 'three', 'another', 'five', 'each', 'four', 'least', 'six', 'top', 'seven', 'eight', 'single', 'nine', 'several', 'dozen'] 13.613107017335771 17
+['about', 'some', 'more', 'around'] 12.580888825075379 4
+['on'] 11.981846443888156 1
+['said', 'new', 'wanted', 'course', 'own', 'trying', 'together', 'under', 'working', 'part', 'tried', 'free', 'full', 'special', 'decided', 'cross', 'interior'] 10.50440417257115 17
+['mean', 'nothing', 'maybe', 'kind', 'wrong', 'actually', 'probably', 'thinking', 'perhaps', 'definitely', 'certainly', 'somehow', 'hardly', 'simply', 'surely', 'necessarily'] 9.543164636772811 16
+['here', 'today'] 8.522308023647065 2
+['right'] 6.937867144435636 1
+['too', 'very', 'pretty', 'quite', 'less', 'difficult', 'extremely', 'highly', 'somewhat', 'fairly'] 5.961333175186811 10
+['back', 'away'] 5.12738078145191 2
+['real', 'yet', 'true', 'whatever', 'exactly', 'supposed', 'clear', 'impossible', 'neither', 'indeed', 'truly', 'obvious', 'precisely', 'genuine', 'ultimate'] 4.169262558602651 15
+['same', 'used', 'different', 'either', 'sometimes', 'rather', 'given', 'instead', 'simple', 'certain', 'usually', 'often', 'common', 'meaning', 'model', 'mostly', 'separate', 'designed', 'similar', 'standard'] 4.120382797820075 35
+['left', 'side', 'behind', 'front', 'outside', 'running', 'along', 'sitting', 'standing', 'walking', 'lay', 'opposite', 'struck', 'alongside'] 3.507356934620979 14
+['must', 'enough', 'able', 'needs', 'needed', 'necessary', 'easily', 'collect', 'determined', 'unable', 'required', 'urgently'] 3.353288927454444 12
+['first', 'second', 'straight', 'finished', 'third', 'round', 'double', 'final', 'grand', 'fifth', 'fourth', 'champion', 'seventh', 'sixth', 'triple', 'eighth', 'longest', 'ninth', 'maiden', 'tenth'] 3.164948904107024 28
+['late', 'close', 'between', 'middle', 'early', 'short', 'starting', 'following', 'beginning', 'earlier', 'due', 'ended', 'opening', 'opened', 'closing', 'brief', 'closest', 'previous', 'mid', 'marked'] 2.6856400876464672 21
+['fucking', 'damn', 'crazy', 'u', 'mad', 'goddamn', 'bastard', 'bum', 'rotten', 'damned'] 2.578266922198154 10
+['little'] 2.1840450967294887 1
+['white', 'light', 'black', 'red', 'dark', 'blue', 'green', 'brown', 'bright', 'gray', 'yellow', 'pink', 'orange', 'grey', 'pale', 'purple', 'colored', 'coloured'] 2.1211194276760574 18
+['next', 'ahead', 'possible', 'future', 'forward', 'further', 'expected', 'likely', 'planned', 'potential', 'scheduled', 'preliminary', 'deciding', 'anticipated', 'upcoming', 'awaited', 'projected', 'forthcoming', 'ministerial'] 2.1043891902689946 19
+['anyway', 'anymore', 'somewhere', 'forever', 'anywhere', 'figured', 'everywhere', 'nowhere', 'pretend', 'sooner', 'wherever', 'someday', 'someplace', 'hopefully', 'dreamed', 'nowadays', 'awhile', 'destined', 'outdoors', 'anyplace'] 2.0021974043161515 20
+['hurt', 'living', 'poor', 'sick', 'seriously', 'dying', 'ill', 'badly', 'suffering', 'treated', 'depressed', 'vulnerable', 'affected', 'caring', 'elderly', 'recovering', 'disabled', 'severely', 'unemployed', 'affecting'] 1.8574309097378723 28
+['whole', 'almost', 'absolutely', 'totally', 'entire', 'completely', 'basically', 'entirely'] 1.830213060821904 8
+['longer', 'present', 'within', 'beyond', 'however', 'changing', 'becoming', 'therefore', 'available', 'directly', 'actual', 'particular', 'current', 'connected', 'thus', 'throughout', 'currently', 'unlike', 'drawn', 'assuming'] 1.8042437370855677 88
+['taking', 'taken', 'moving', 'kept', 'giving', 'stopped', 'paying', 'aside', 'saving', 'raising', 'dropping', 'defending', 'attacking', 'accepting', 'releasing', 'lowering', 'precautionary'] 1.7956289133461099 17
+['dead', 'alive', 'missing', 'killing', 'trapped', 'wounded', 'injured', 'rescued'] 1.73114258781814 8
+['telling', 'seeing', 'obviously', 'learned', 'clearly', 'knowing', 'aware', 'lately', 'concerned', 'unfortunately', 'realized', 'confused', 'convinced', 'wanting', 'frankly', 'worrying', 'advised', 'constantly', 'assured', 'complaining'] 1.6723370518574934 24
+['changed', 'paid', 'sold', 'recently', 'firm', 'raised', 'previously', 'officially', 'accepted', 'earned', 'express', 'confirmed', 'assumed', 'ad', 'reported', 'meantime', 'granted', 'registered', 'tested', 'posted'] 1.6120957119402708 103
+['great', 'greatest'] 1.4984799205937984 2
+['found', 'inside', 'buried', 'hidden', 'discovered', 'underground', 'recovered', 'contained'] 1.4723233180805175 8
+['happy', 'glad', 'lucky', 'proud', 'sad', 'grateful', 'fortunate', 'thankful'] 1.4397368108921333 8
+['token', 'gi', 'tanner', 'wee', 'kin', 'elvish', 'nay', 'bonnie', 'cursed', 'sunrise', 'yea', 'forfeit', 'fooling', 'almighty', 'acquainted', 'asap', 'gaga', 'hereby', 'priceless', 'reborn'] 1.4225695896721997 1643
+['general', 'american', 'public', 'private', 'united', 'according', 'national', 'local', 'based', 'official', 'international', 'joint', 'commercial', 'domestic', 'canadian', 'regional', 'ranking', 'municipal', 'nonprofit', 'maritime'] 1.3610797245753452 21
+['soon', 'finally', 'quickly', 'immediately', 'suddenly', 'eventually', 'slowly', 'sometime', 'afterwards', 'shortly', 'rapidly', 'gradually', 'swiftly', 'unexpectedly', 'promptly', 'afterward', 'thereafter', 'abruptly'] 1.270998632864928 18
+['stuck', 'empty', 'checked', 'loose', 'filled', 'rush', 'wound', 'touched', 'tied', 'bound', 'literally', 'forth', 'plastic', 'underneath', 'flip', 'loaded', 'packed', 'thrown', 'halfway', 'sticking'] 1.2632577767512128 44
+['nice', 'funny'] 1.2622589566075073 2
+['minute', 'shot', 'missed', 'saved', 'fired', 'foul', 'substitute', 'overtime', 'fouled', 'footed', 'netted'] 1.2608855789099125 11
+['tonight', 'tomorrow', 'yesterday'] 1.239223667043305 3
+['afraid', 'scared', 'worried', 'wondering', 'nervous', 'ashamed', 'frightened', 'terrified', 'anxious', 'panicked', 'fearful', 'intimidated', 'unsure', 'apprehensive'] 1.2051389296393638 14
+['big', 'bigger', 'giant'] 1.1517644782101144 3
+['best', 'star', 'favorite', 'winning', 'prize', 'favourite', 'outstanding', 'nominated'] 1.145584278570938 8
+['through', 'across'] 1.1339729944003647 2
+['bad', 'worse'] 1.1098140321744938 2
+['fine'] 1.0381486868636425 1
+['l', 'd', 'c', 'k'] 1.0375868505328083 4
+['meet', 'sign', 'agreed', 'signed'] 1.0277235016137187 4
+['shitty', 'obsessed', 'trusting', 'piggy', 'clumsy', 'superstitious', 'cocky', 'horny', 'forgiving', 'nosy', 'grumpy', 'ungrateful', 'frisky', 'insecure', 'tacky', 'famished', 'addicted', 'unkind', 'irritating', 'freaky'] 1.003439686869885 1097
+['boss', 'acting', 'lee', 'hired', 'assistant', 'former', 'randy', 'sec', 'matt', 'pat', 'senior', 'retired', 'principal', 'associate', 'appointed', 'veteran', 'retiring', 'sacked', 'quits', 'longtime'] 0.9978213235615431 23
+['high', 'm', 'low', 'level', 'higher', 'lower', 'highest', 'lowest'] 0.9523750070229542 8
+['world'] 0.9227225340067046 1
+['amazing', 'wonderful', 'fantastic', 'excellent', 'incredible', 'unbelievable', 'impressive', 'terrific', 'fabulous', 'remarkable', 'splendid', 'magnificent', 'glorious', 'marvelous', 'stunning', 'marvellous', 'spectacular', 'astonishing', 'phenomenal', 'breathtaking'] 0.8896990430054498 22
+['alone', 'none', 'barely'] 0.8645412606358739 3
+['liked', 'familiar', 'clever', 'curious', 'awkward', 'shy', 'uncomfortable', 'pleasant', 'touching', 'annoying', 'fond', 'humble', 'polite', 'sober', 'intelligent', 'hilarious', 'delightful', 'thoughtful', 'strangely', 'surprisingly'] 0.864041850564021 85
+['ready', 'willing', 'prepared'] 0.8159112048892246 3
+['camp', 'laid', 'removed', 'landed', 'abandoned', 'crossed', 'settled', 'cleared', 'returning', 'protected', 'temporary', 'placed', 'safely', 'sealed', 'separated', 'blocked', 'compound', 'suspended', 'intact', 'deserted'] 0.8084824800704169 64
+['normal', 'self', 'otherwise', 'usual', 'ordinary', 'normally', 'healthy', 'quality', 'basic', 'routine', 'equal', 'strict', 'strictly', 'merely', 'everyday', 'typical', 'modest', 'lacking', 'reserved', 'functioning'] 0.8072963811497668 27
+['apparently', 'possibly', 'noticed', 'searching', 'incident', 'suspicious', 'unknown', 'planted', 'mysterious', 'undercover', 'exposed', 'anonymous', 'questioning', 'identified', 'suspected', 'accidentally', 'secretly', 'spotted', 'tracked', 'supposedly'] 0.8054235933803194 47
+['cool', 'hot', 'warm', 'dry', 'heated'] 0.7846980753984356 5
+['young', 'older', 'male', 'female', 'younger', 'adult', 'aged', 'teen', 'teenage', 'hispanic'] 0.7798288271978725 10
+['interested', 'besides', 'friendly', 'successful', 'protecting', 'understanding', 'foster', 'focused', 'sharing', 'stable', 'controlling', 'shared', 'promising', 'mutual', 'stressed', 'keen', 'initiative', 'encouraged', 'importantly', 'broker'] 0.7710891509404515 68
+['smart', 'lots', 'super', 'extra', 'plus', 'plenty', 'spare', 'expensive', 'pet', 'handy', 'unlimited', 'premium', 'promotional'] 0.7658453451859991 13
+['heard', 'loud'] 0.7639101311575701 2
+['hard', 'tough'] 0.7555450124540387 2
+['honey', 'sweet', 'fat', 'sour'] 0.7515497318792176 4
+['upset', 'surprised', 'excited', 'pleased', 'impressed', 'disappointed', 'confident', 'embarrassed', 'unhappy', 'satisfied', 'shocked', 'delighted', 'relieved', 'amazed', 'thrilled', 'disturbed', 'frustrated', 'offended', 'annoyed', 'stunned'] 0.7478665825993046 55
+['perfect', 'choice', 'fit', 'perfectly', 'ideal'] 0.7212729962731524 5
+['forced', 'recent', 'threatened', 'urgent', 'latest', 'threatening', 'meanwhile', 'driven', 'troubled', 'reverse', 'continued', 'immediate', 'failing', 'inevitable', 'halt', 'unlikely', 'pressed', 'delayed', 'demanding', 'struggling'] 0.7182765358420367 103
+['split', 'non', 'union', 'loyal', 'pro', 'joined', 'controlled', 'opponent', 'independent', 'opposed', 'dismissed', 'respected', 'ruled', 'formed', 'divided', 'representative', 'supporting', 'rejected', 'umbrella', 'declared'] 0.676513368583361 87
+['catching', 'smash', 'busted', 'backwards', 'sneak', 'raining', 'hooked', 'banging', 'dragging', 'pouring', 'bent', 'slack', 'tearing', 'flush', 'biting', 'tipped', 'stray', 'sneaking', 'hunted', 'tapped'] 0.66540149448464 196
+['strong', 'heavy', 'weak', 'powerful', 'solid', 'steady', 'sharp', 'mixed', 'slight', 'intense', 'sustained', 'strongest', 'moderate', 'weakened', 'weakening', 'robust', 'brisk', 'sluggish'] 0.6579727696658322 18
+['beautiful', 'lovely', 'gorgeous', 'lush'] 0.6578479171478692 4
+['fast', 'quick', 'slow', 'faster', 'slower', 'rapid', 'speedy'] 0.6275087552828222 7
+['lester', 'butcher', 'corky', 'bald', 'sleepy', 'rusty', 'hollow', 'dull', 'hairy', 'faint', 'woody', 'birch', 'canary', 'shaved', 'buff', 'itchy', 'solitary', 'manly', 'pronounced', 'jerky'] 0.6262602301031907 368
+['calm', 'quiet', 'busy', 'tense', 'relaxed', 'serene', 'jittery', 'tranquil'] 0.6182696689535486 8
+['innocent', 'ex', 'suspect', 'guilty', 'committed', 'cheating', 'charged', 'punished', 'unarmed', 'fugitive', 'arresting', 'alleged', 'pleading', 'falsely', 'allegedly', 'exonerated', 'jailed', 'disgraced', 'acquitted', 'implicated'] 0.6177702588816961 20
+['safe', 'clean', 'secure'] 0.6177078326227143 3
+['sent', 'received', 'headed', 'ordered', 'warning', 'alert', 'handed', 'mailed'] 0.6175829801047512 8
+['ten', 'twenty', 'thirty', 'fifty', 'twelve', 'forty', 'fifteen', 'eleven', 'eighty', 'sixteen', 'sixty', 'eighteen', 'fourteen', 'thirteen', 'seventeen', 'nineteen', 'ninety', 'seventy'] 0.6136501257889119 18
+['easy', 'easier', 'comfortable'] 0.6092178614012198 3
+['important', 'key', 'valuable', 'vital', 'essential', 'crucial', 'pivotal'] 0.6053474333443619 7
+['known', 'famous', 'considered', 'popular', 'modern', 'finest', 'studied', 'martial', 'recognized', 'oldest', 'described', 'notorious', 'earliest', 'legendary', 'renowned', 'celebrated', 'widely', 'numerous', 'commonly', 'foremost'] 0.6039116293877859 31
+['dear', 'loved', 'hated', 'loving', 'beloved', 'dearly'] 0.6002284801078726 6
+['mistaken', 'hasty', 'deliberately', 'distracted', 'rash', 'misunderstood', 'interfering', 'tempting', 'understandable', 'sham', 'superficial', 'vague', 'unpredictable', 'indifferent', 'needless', 'corrupted', 'timed', 'inconvenient', 'unnatural', 'unwanted'] 0.5815006024133991 345
+['understood', 'honestly', 'personally', 'trusted', 'fully', 'properly', 'handled', 'informed', 'differently', 'correctly', 'appreciated', 'resolved', 'obliged', 'utmost', 'fulfilled', 'sincerely', 'accountable', 'positively', 'addressed', 'beforehand'] 0.5758822391050572 56
+['decent', 'wasted', 'miserable', 'terribly', 'hopeless', 'lousy', 'incredibly', 'awfully', 'proved', 'vain', 'luckily', 'spoiled', 'fortunately', 'sloppy', 'disappointing', 'respectable', 'alas', 'unfinished', 'doomed', 'wretched'] 0.5688280718401388 98
+['near', 'south', 'north', 'bay', 'korean', 'port', 'interstate'] 0.5688280718401388 7
+['married', 'born', 'divorced'] 0.5605253793955889 3
+['open'] 0.5512862930663154 1
+['german', 'french', 'chinese', 'japanese', 'italian', 'russian', 'greek', 'european', 'swiss', 'dutch', 'swedish', 'norwegian', 'austrian', 'danish', 'belgian', 'taiwanese', 'indonesian'] 0.5509741617714075 17
+['shut', 'closed', 'shuttered'] 0.5436078632115813 3
+['weird', 'strange', 'scary', 'stranger', 'creepy', 'bizarre', 'spooky', 'wacky'] 0.52812615098415 8
+['careful', 'fair', 'wise', 'proper', 'thorough', 'meticulous', 'impartial'] 0.5088364369588424 7
+['hundred', 'thousand', 'nearly', 'total', 'gross', 'average', 'mere', 'approximately', 'roughly', 'fewer', 'apiece', 'cubic', 'exceeding', 'whopping', 'median'] 0.5087740106998608 15
+['million', 'worth', 'billion', 'valued', 'trillion', 'totaled'] 0.5044665988301318 6
+['small', 'large', 'size', 'tiny', 'smaller', 'larger', 'sized', 'smallest'] 0.4952275125008584 8
+['useless', 'practically', 'worthless', 'invisible', 'vanished', 'irrelevant', 'essentially', 'endless', 'altogether', 'bankrupt', 'utterly', 'helpless', 'virtually', 'void', 'unstoppable', 'imaginary', 'pointless', 'immortal', 'invincible', 'countless'] 0.48336652329435853 127
+['covered', 'soft', 'wide', 'flat', 'stretch', 'thin', 'rolling', 'thick', 'plain', 'bare', 'narrow', 'slim', 'blanket', 'stiff', 'tops', 'flowing', 'dense', 'stretched', 'winding', 'steep'] 0.4830543919994507 25
+['cut', 'cutting', 'trim', 'slashed', 'trimmed', 'slashing'] 0.4830543919994506 6
+['alike', 'conscious', 'aggressive', 'eager', 'stubborn', 'minded', 'hostile', 'equally', 'blunt', 'passionate', 'optimistic', 'ambitious', 'supportive', 'sincere', 'affirmative', 'challenging', 'cautious', 'nonetheless', 'inclined', 'impatient'] 0.47600022473453235 147
+['political', 'social', 'expert', 'internal', 'financial', 'corporate', 'moral', 'critical', 'global', 'scientific', 'technical', 'cultural', 'economic', 'intellectual', 'industrial', 'agricultural', 'historical', 'diplomatic', 'environmental', 'humanitarian'] 0.4738153056701771 37
+['destroyed', 'ruined', 'burning', 'burned', 'blown', 'smashed', 'washed', 'burnt', 'damaged', 'crushed', 'wrecked', 'shattered', 'scattered', 'swept', 'ravaged', 'flooded', 'damaging', 'battered', 'scorched', 'overturned'] 0.4691333362465587 37
+['signal', 'flying', 'capable', 'satellite', 'aboard', 'alpha', 'terminal', 'electrical', 'incoming', 'approaching', 'activated', 'remotely', 'airborne', 'submarine', 'guided', 'manned', 'aerial', 'ballistic', 'analog', 'intercontinental'] 0.46882120495165086 22
+['broke', 'broken', 'apart', 'torn', 'cracked', 'severed'] 0.4683217948797982 6
+['darling', 'sweetheart', 'merry', 'mum', 'jolly'] 0.46757267977201933 5
+['fresh', 'chicken', 'salt', 'salmon', 'frozen', 'fried', 'cooked', 'tender', 'smoked', 'roast', 'medium', 'baked', 'lightly', 'dried', 'boiled', 'olive', 'grilled', 'boiling', 'roasted', 'drained'] 0.46701084344118515 39
+['personal', 'subject', 'material', 'sensitive', 'specific', 'related', 'individual', 'classified', 'item', 'content', 'confidential', 'detailed', 'marital', 'ranging'] 0.4610803488379351 14
+['fell', 'rose', 'falling', 'fallen', 'stock', 'rising', 'shed', 'risen', 'dipped', 'soaring', 'unchanged', 'edged', 'decreased', 'eased', 'weighted', 'composite', 'sharply', 'mercantile'] 0.450155753516159 18
+['bloody', 'fighting', 'armed', 'violent', 'brutal', 'deadly', 'fierce', 'separatist', 'chechen', 'sporadic', 'bloodiest', 'insurgent', 'maoist', 'sectarian'] 0.4425397499204065 14
+['answering', 'quietly', 'happily', 'nicely', 'seated', 'freely', 'kindly', 'pretended', 'parted', 'merrily', 'gladly', 'politely', 'smoothly', 'willingly', 'firmly', 'backstage', 'bravely', 'respectfully', 'comfortably', 'seldom'] 0.43916873193540135 237
+['constant', 'manifest', 'desired', 'parallel', 'theoretically', 'purely', 'passive', 'measured', 'defined', 'distinct', 'embedded', 'observed', 'static', 'symbolic', 'experimental', 'textbook', 'degenerate', 'shifting', 'structural', 'continuous'] 0.43136544956270406 336
+['useful', 'helpful', 'reasonable', 'effective', 'appropriate', 'practical', 'alternative', 'sensible', 'suitable', 'convenient', 'accurate', 'relevant', 'objective', 'reliable', 'consistent', 'realistic', 'flexible', 'efficient', 'acceptable', 'meaningful'] 0.4289308254624225 68
+['fancy', 'lean', 'custom', 'neat', 'elegant', 'fashioned', 'sophisticated', 'beautifully', 'matching', 'exotic', 'casual', 'authentic', 'suited', 'shiny', 'exterior', 'funky', 'retro', 'antique', 'chic', 'glamorous'] 0.4195668866151858 127
+['wearing', 'dress', 'dressed', 'uniform', 'worn', 'clad', 'baggy', 'khaki', 'sleeveless'] 0.4182559351765727 9
+['evil', 'magic', 'wizard', 'alien', 'mortal', 'wicked', 'magical', 'possessed', 'demonic'] 0.41788137762268324 9
+['original', 'silent', 'classic', 'serial', 'hollywood', 'premiere', 'inspired', 'comic', 'documentary', 'directed', 'sunset', 'phantom', 'novel', 'twilight', 'universal', 'filmed', 'starring', 'paramount', 'directing', 'theatrical'] 0.41756924632777537 33
+['stupid', 'dumb', 'foolish'] 0.4141982283427701 3
+['ain'] 0.3990286474102467 1
+['virgin', 'blessed', 'caroline', 'elder', 'deceased', 'julian', 'dedicated', 'reverend', 'resident', 'youngest', 'il', 'alias', 'cardinal', 'norman', 'inherited', 'pauline', 'secondly', 'eldest', 'surviving', 'marian'] 0.3889155934552311 62
+['center', 'square', 'surrounded', 'nearby', 'capital', 'downtown', 'gathered', 'located', 'urban', 'nearest', 'surrounding', 'historic', 'elementary', 'rural', 'outdoor', 'residential', 'adjacent', 'pedestrian', 'suburban', 'metropolitan'] 0.3759933578460443 27
+['welcome', 'welcoming', 'warmly'] 0.37530666899724696 3
+['waiting', 'anxiously'] 0.37268476612002077 2
+['major', 'main', 'biggest', 'leading', 'largest'] 0.37043742079668396 5
+['west', 'east', 'central', 'western', 'northern', 'eastern', 'southern', 'southeast', 'northeast', 'northwest', 'southwest', 'northwestern', 'neighboring', 'southwestern', 'northeastern', 'southeastern'] 0.36925132187603393 16
+['attached', 'rubber', 'protective', 'rear', 'motor', 'dummy', 'twin', 'bolt', 'powered', 'crank', 'rigged', 'mechanic', 'overhead', 'automatic', 'starboard', 'armored', 'auxiliary', 'modified', 'sonic', 'bulletproof'] 0.36762823914251297 111
+['sleeping', 'asleep', 'breathing', 'awake', 'waking', 'unconscious', 'awakened'] 0.36488148374732343 7
+['serious', 'grave', 'minor', 'severe'] 0.3640075161215814 4
+['stark', 'haunted', 'grim', 'shocking', 'utter', 'disturbing', 'frightening', 'depressing', 'terrifying', 'troubling', 'inspiring', 'hideous', 'unbearable', 'sheer', 'profound', 'horrid', 'dread', 'haunting', 'sensational', 'thrilling'] 0.3630086959778761 148
+['terrible', 'awful', 'horrible', 'dreadful', 'horrendous', 'horrific'] 0.35027373914563426 6
+['hungry', 'lonely', 'desperate', 'starving', 'homeless', 'thirsty', 'desperately', 'scarce', 'insatiable', 'needy', 'orphaned', 'destitute', 'marooned', 'impoverished', 'chronically', 'malnourished'] 0.3462160323118316 16
+['professional', 'junior', 'trained', 'talented', 'qualified', 'accomplished', 'educated', 'experienced', 'graduate', 'volunteer', 'amateur', 'elite', 'gifted', 'graduated', 'skilled', 'freshman', 'attended', 'athletic', 'freelance', 'sophomore'] 0.337726061090337 29
+['gold', 'precious', 'silver', 'bronze'] 0.3287366797969898 4
+['ridiculous', 'silly', 'nonsense', 'pathetic', 'lame', 'absurd', 'outrageous', 'ludicrous', 'downright', 'preposterous', 'comical', 'laughable', 'nonsensical', 'baseless', 'outlandish', 'patently'] 0.3276130071353214 16
+['wild', 'golden', 'violet', 'mighty', 'amber', 'cherry', 'ruby', 'hardy', 'plum', 'siberian'] 0.32549051432994774 10
+['human', 'animal'] 0.3243044154092978 2
+['proof', 'motive', 'absolute', 'contrary', 'whatsoever', 'proven', 'convincing', 'intent', 'slightest', 'overwhelming', 'definite', 'sufficient', 'valid', 'probable', 'persuasive', 'circumstantial', 'verified', 'confirming', 'conclusive', 'insufficient'] 0.31525260785696896 46
+['crying', 'laughing', 'staring', 'screaming', 'smiling', 'yelled', 'trembling', 'whispering', 'shouted', 'weeping', 'wailing', 'uncontrollably', 'hysterically'] 0.31244342620279797 13
+['closer', 'harder', 'stronger', 'greater', 'slightly', 'tougher', 'improved', 'tighter', 'considerably', 'weaker', 'significantly', 'nearer', 'strengthened', 'firmer', 'progressively', 'stricter'] 0.3053892589378796 16
+['stone', 'built', 'iron', 'metal', 'concrete', 'wooden', 'arch', 'corrugated'] 0.3043904387941744 8
+['involved', 'responsible', 'engaged', 'active', 'linked', 'coordinating', 'assisted'] 0.3023927985067639 7
+['tired', 'boring', 'bored', 'exhausted', 'weary', 'stale', 'fatigued'] 0.30139397836305865 7
+['criminal', 'federal', 'legal', 'civil', 'supreme', 'pending', 'violated', 'juvenile', 'patent', 'administrative', 'constitutional', 'statute', 'disciplinary', 'investigative', 'penal', 'judicial', 'statutory', 'appellate', 'antitrust'] 0.29920905929870345 19
+['aryan', 'practiced', 'teutonic', 'preserved', 'midget', 'negro', 'caucasian', 'primitive', 'queer', 'hawaiian', 'colonial', 'trojan', 'pious', 'ce', 'onwards', 'pagan', 'scandinavian', 'persian', 'oriental', 'civilized'] 0.29777325534212706 249
+['online', 'flash', 'electric', 'remote', 'mobile', 'wired', 'mini', 'digital', 'electronic', 'virtual', 'utility', 'newest', 'wireless', 'micro', 'hybrid', 'prepaid', 'cellular', 'portable', 'streaming', 'compatible'] 0.29764840282416394 28
+['secret', 'covert'] 0.28410190462516155 2
+['con', 'instinct', 'cunning', 'sneaky', 'ruthless', 'savage', 'heartless', 'vicious', 'subconscious', 'destructive', 'sly', 'shameless', 'blooded', 'daring', 'cutthroat', 'cleansing', 'fearless', 'mindless', 'devious', 'resourceful'] 0.2779217049859854 109
+['master'] 0.26699710966420914 1
+['pass', 'passing'] 0.2651243218947618 2
+['odd', 'unusual', 'rare', 'extraordinary', 'unique', 'surprising', 'peculiar', 'striking', 'exceptional', 'occasional', 'uncommon', 'noteworthy'] 0.2608793362840145 12
+['above', 'bottom', 'below', 'upper'] 0.2603799262121619 4
+['rich', 'natural', 'wealthy', 'mineral', 'richest'] 0.25732103952206453 5
+['drunk', 'driving', 'drunken', 'intoxicated'] 0.25251421758048304 4
+['murdered', 'raped', 'beaten', 'tortured', 'executed', 'humiliated', 'stoned', 'abused', 'captive', 'drugged', 'violently', 'slain', 'imprisoned', 'harassed', 'brutally', 'mistreated', 'mutilated', 'assassinated', 'blindfolded', 'beheaded'] 0.25188995499066724 24
+['ugly', 'nasty', 'embarrassing', 'bitter', 'painful', 'messy', 'unpleasant', 'humiliating', 'bruising', 'divisive', 'stinging', 'embroiled'] 0.24889349455955154 12
+['cute', 'sexy', 'adorable', 'naughty', 'skinny', 'goofy'] 0.24720798556704898 6
+['sound'] 0.24502306650269368 1
+['rude', 'selfish', 'lazy', 'arrogant', 'corrupt', 'petty', 'naive', 'greedy', 'ignorant', 'childish', 'obnoxious', 'vulgar', 'cynical', 'incompetent', 'immature', 'disrespectful', 'insensitive', 'dishonest', 'crass', 'unprofessional'] 0.24352483628713584 31
+['bust', 'bearing', 'painted', 'shaped', 'framed', 'carved', 'mock', 'pendant', 'stained', 'cardboard', 'banner', 'oval', 'decorated', 'monumental', 'sewn', 'crescent', 'miniature', 'woven', 'pictured', 'ceramic'] 0.2376567679428675 64
+['english', 'british', 'irish', 'australian', 'scottish', 'welsh'] 0.23004076434711496 6
+['frank'] 0.22485938485164397 1
+['worthy', 'noble', 'honored', 'deserved', 'honorable', 'rank', 'corporal', 'righteous', 'distinguished', 'humane', 'legion', 'posthumous', 'honourable', 'illustrious', 'exemplary', 'prestigious', 'coveted', 'selfless', 'esteemed', 'deserving'] 0.22367328593099406 26
+['cold'] 0.22367328593099403 1
+['rough', 'wet', 'dirt', 'downhill', 'treacherous', 'slick', 'soaked', 'slippery', 'dusty', 'muddy', 'bumpy', 'soggy', 'icy', 'slushy'] 0.222487187010344 14
+['huge', 'massive', 'enormous', 'vast', 'tremendous', 'considerable', 'substantial', 'gigantic', 'colossal', 'hefty', 'immense', 'mammoth', 'accumulated', 'sizable', 'sizeable'] 0.22211262945645457 15
+['faithful', 'cheering', 'spontaneous', 'mocking', 'interrupted', 'noisy', 'hysterical', 'mourning', 'festive', 'verbal', 'grieving', 'tempered', 'wildly', 'solemn', 'rambling', 'joyous', 'agitated', 'giddy', 'stirred', 'nonstop'] 0.22055197298191515 105
+['interesting', 'exciting', 'fascinating', 'compelling', 'intriguing'] 0.2201774154280256 5
+['hardest', 'dearest', 'happiest', 'smartest', 'hottest', 'nicest', 'prettiest', 'sweetest', 'coolest', 'easiest', 'strangest', 'luckiest', 'safest', 'stupidest', 'funniest', 'craziest', 'cutest', 'ugliest', 'dumbest', 'saddest'] 0.2178052175867257 129
+['nuts', 'ginger', 'scotch', 'peanut', 'rum', 'cereal', 'crackers', 'vanilla', 'melted', 'baking', 'powdered', 'blended', 'balsamic', 'toasted', 'sweetened', 'granulated', 'candied'] 0.21574515104033357 17
+['dangerous', 'risky', 'unstable', 'volatile', 'potentially', 'unsafe', 'harmful', 'perilous', 'hazardous'] 0.21256141183227314 9
+['radio', 'regular', 'daily', 'weekly', 'nightly', 'correspondent'] 0.21249898557329155 6
+['pure', 'naturally', 'raw', 'liquid', 'fluid', 'processed', 'organic', 'artificial', 'melting', 'refined', 'excess', 'imported', 'granular', 'absorbed', 'molten', 'synthetic', 'readily', 'consuming', 'cultured', 'additive'] 0.21043891902689946 32
+['spread', 'cured', 'allergic', 'fatal', 'infected', 'contagious', 'immune', 'viral', 'contracted', 'infectious', 'acute', 'epidemic', 'bubonic', 'resistant', 'bacterial', 'strep', 'susceptible', 'respiratory', 'transmitted', 'cloven'] 0.20744245859578372 32
+['patient', 'medical', 'dental', 'forensic', 'psychiatric', 'clinical', 'diagnostic', 'veterinary'] 0.20569452334429955 8
+['deep', 'deepest'] 0.19801609348956545 2
+['christian', 'jewish', 'roman', 'religious', 'muslim', 'catholic', 'orthodox', 'hindu', 'secular', 'protestant', 'devout', 'anglican', 'fundamentalist', 'lutheran', 'coptic', 'evangelical'] 0.1972045521228049 16
+['speaking', 'spoken', 'fluent'] 0.18890185967825507 3
+['fly'] 0.1802246096798157 1
+['chief', 'executive'] 0.17991247838490781 2
+['insane', 'paranoid', 'maniac', 'lunatic', 'suicidal', 'sane', 'delusional', 'psychotic', 'schizophrenic', 'deranged', 'homicidal', 'manic', 'psychopathic'] 0.1722964747891553 13
+['written', 'recorded', 'published', 'dated', 'entitled', 'edited', 'composed', 'biographical', 'titled', 'handwritten', 'unpublished'] 0.17098552335054218 11
+['crack', 'smoking', 'anti', 'counter', 'cracking'] 0.16930001435803957 5
+['fake', 'false', 'phony', 'forged', 'bogus', 'counterfeit', 'fraudulent'] 0.16624112766794227 7
+['upstairs', 'downstairs', 'attic'] 0.16336951975478964 3
+['complicated', 'complex', 'tricky', 'delicate', 'confusing', 'elaborate', 'costly', 'unresolved', 'convoluted', 'intricate', 'fraught', 'bureaucratic', 'arduous', 'logistical', 'murky', 'daunting', 'tortuous', 'contentious', 'cumbersome', 'thorny'] 0.16324466723682654 23
+['jealous', 'pissed', 'joking', 'heartbroken', 'teased'] 0.16305738845988177 5
+['plane', 'jet'] 0.161247026949416 2
+['cruel', 'unacceptable', 'unfair', 'inappropriate', 'unnecessary', 'inhuman', 'immoral', 'excessive', 'irresponsible', 'abusive', 'unethical', 'unreasonable', 'obscene', 'unjust', 'improper', 'unconstitutional', 'arbitrary', 'undemocratic', 'oppressive', 'intolerable'] 0.1604354855826555 28
+['dirty', 'cheap'] 0.15600322119496343 2
+['technically', 'physically', 'mentally', 'retarded', 'emotionally', 'handicapped', 'incapable', 'competent', 'politically', 'financially', 'unfit', 'morally', 'clinically', 'visually', 'socially', 'psychologically', 'strategically', 'medically', 'ethically', 'constitutionally'] 0.15556623738209238 43
+['grown', 'growing', 'mature', 'steadily', 'cultivated'] 0.15350617083570034 5
+['holy', 'sacred', 'holiest'] 0.145265904650132 3
+['singing', 'piano', 'musical', 'solo', 'classical', 'vocal', 'lyric', 'instrumental', 'acoustic', 'virtuoso', 'melodic', 'orchestral', 'symphonic', 'philharmonic'] 0.14426708450642678 14
+['delicious', 'tasty', 'juicy', 'yummy', 'spicy', 'tart', 'nutty', 'ripe', 'caramel', 'crispy', 'hearty', 'crisp', 'creamy', 'luscious', 'fruity', 'nutritious', 'braised', 'sauteed', 'earthy', 'meaty'] 0.1434555431396663 33
+['honest', 'truthful', 'candid'] 0.14314341184475837 3
+['angry', 'furious', 'enraged', 'irate'] 0.14208216544207156 4
+['illegal', 'forbidden', 'legally', 'banned', 'barred', 'illegally', 'prohibited', 'smuggled', 'illicit', 'underage', 'unauthorized', 'knowingly', 'contraband', 'clandestine', 'undocumented', 'confiscate', 'unregistered', 'unlicensed', 'pornographic', 'restricting'] 0.1397099676007716 21
+['blind', 'deaf', 'mute', 'impaired'] 0.13864872119808477 4
+['emotional', 'physical', 'mental', 'psychological', 'cognitive', 'behavioral'] 0.136838359687619 6
+['mass', 'nuclear', 'peaceful', 'solved', 'peacefully', 'atomic', 'fissile'] 0.1306581600484428 7
+['handsome', 'charming', 'attractive'] 0.1280362571712165 3
+['pop', 'punk', 'hip', 'hardcore', 'psychedelic', 'indie'] 0.12759927335834545 6
+['military', 'civilian'] 0.1274119945814007 2
+['x', 'zero'] 0.1265380269556586 2
+['safer', 'cleaner', 'quicker', 'cheaper', 'lighter', 'shorter', 'heavier', 'simpler', 'quieter', 'richer', 'softer', 'poorer', 'thicker', 'thinner', 'healthier', 'freer', 'newer', 'riskier', 'smoother', 'fairer'] 0.12553920681195338 24
+['waste', 'toxic', 'radioactive', 'contaminated'] 0.12522707551704548 4
+['disgusting', 'vile', 'atrocious', 'despicable', 'appalling', 'cowardly', 'repulsive', 'hurtful', 'barbaric', 'shameful', 'unforgivable', 'unspeakable', 'senseless', 'revolting', 'heinous', 'hateful', 'indescribable', 'scandalous', 'abhorrent', 'incomprehensible'] 0.12079481112935347 47
+['presidential', 'sworn', 'elected', 'democratic', 'bush', 'republican', 'elect', 'electoral', 'parliamentary', 'incumbent', 'gubernatorial', 'presumptive', 'unopposed', 'mayoral', 'senatorial'] 0.11960871220870348 15
+['complete', 'completed', 'partial', 'completing'] 0.11948385969074028 4
+['worst', 'deadliest'] 0.11885959710092454 2
+['correct', 'corrected', 'incorrect'] 0.11867231832397981 3
+['gay', 'lesbian', 'homosexual', 'heterosexual', 'bisexual', 'transgender'] 0.11786077695721928 6
+['sandy', 'rocky', 'shallow', 'scenic', 'arctic', 'bluff', 'coastal', 'fertile', 'coral', 'barren', 'secluded', 'overlooking', 'sheltered', 'dotted', 'rugged', 'unspoiled', 'pristine', 'uninhabited', 'populated', 'parched'] 0.1177359244392561 53
+['blame', 'blamed', 'squarely'] 0.11736136688536666 3
+['divine', 'spiritual', 'ritual', 'healing', 'psychic', 'heavenly', 'supernatural', 'mystic', 'mystical', 'paranormal', 'earthly', 'miraculous', 'occult', 'satanic', 'transcendent', 'prophetic', 'esoteric', 'metaphysical'] 0.11224241364887726 18
+['nazi', 'soviet', 'communist', 'socialist', 'revolutionary', 'fascist', 'neo', 'marxist', 'bolshevik', 'stalinist', 'totalitarian'] 0.11149329854109832 11
+['awesome'] 0.11080660969230097 1
+['liver', 'abnormal', 'cerebral', 'spinal', 'traumatic', 'neurological', 'hypertensive', 'muscular', 'implanted', 'chronic', 'cardiac', 'diabetic', 'pulmonary', 'hormonal', 'arterial', 'fetal', 'reproductive', 'digestive', 'invasive', 'metabolic'] 0.1098702158075773 94
+['pregnant', 'newborn', 'unborn', 'unmarried', 'unwed'] 0.10980778954859573 5
+['sweeter', 'flatter', 'fatter', 'dumber', 'braver', 'angrier', 'truer', 'sadder', 'funnier', 'nobler', 'skinnier', 'cleverer', 'sexier', 'whiter', 'rougher', 'kinder', 'finer', 'weirder', 'slimmer', 'meaner'] 0.10924595321776151 136
+['positive', 'negative'] 0.10899624818183522 2
+['filthy', 'crowded', 'stinking', 'smelly', 'shabby', 'unclean', 'leaky', 'dank', 'moldy', 'overflowing', 'soiled', 'polluted', 'unsanitary', 'clogged', 'sanitary', 'cramped', 'putrid', 'teeming', 'unhygienic', 'rickety'] 0.10637434530460894 36
+['forgotten', 'sadly', 'ignored', 'neglected', 'conveniently', 'overlooked'] 0.10599978775071947 6
+['hearing'] 0.10493854134803264 1
+['v', 'ii', 'iii', 'iv', 'vi'] 0.10425185249923528 5
+['distant', 'lunar', 'observing', 'asteroid', 'martian', 'infrared', 'cosmic', 'extraterrestrial', 'celestial', 'milky', 'stellar', 'faraway', 'robotic', 'polar', 'astronomical', 'terrestrial', 'planetary', 'orbital', 'interstellar', 'interplanetary'] 0.10169237588099057 31
+['base'] 0.10119296580913795 1
+['tight'] 0.0996323093345985 1
+['smelling', 'sticky', 'poisonous', 'salty', 'flammable', 'rancid', 'intoxicating', 'nitrous', 'dripping', 'gooey', 'scented', 'slimy', 'watery', 'edible', 'combustible', 'laced', 'sugary', 'fragrant', 'noxious', 'acrid'] 0.09863348919089324 62
+['sudden', 'dramatic', 'unexpected', 'unexplained', 'unforeseen', 'abrupt', 'precipitous'] 0.0984462104139485 7
+['royal', 'imperial'] 0.09451335609810911 2
+['sunny', 'chilly', 'mild', 'windy', 'cloudy', 'rainy', 'damp', 'moist', 'tropical', 'frigid', 'steamy', 'foggy', 'snowy', 'stormy', 'hazy', 'overcast', 'breezy', 'humid', 'balmy', 'scorching'] 0.09345210969542227 31
+['brilliant', 'superb', 'dazzling', 'brilliantly', 'acrobatic'] 0.0902683704873618 5
+['reckless', 'deliberate', 'careless', 'accidental', 'trespassing', 'liable', 'premeditated', 'bodily', 'indecent', 'intentional', 'grievous', 'willful', 'wrongful', 'malicious', 'disorderly', 'lewd', 'recklessly', 'punishable', 'involuntary', 'unlawful'] 0.08933197660263813 36
+['anyways', 'anyhow', 'unnoticed', 'kaput', 'astray', 'unchecked', 'unchallenged', 'awol', 'berserk', 'haywire', 'undetected', 'unpunished', 'bonkers', 'amiss', 'unappreciated', 'unreported', 'unsaid', 'amok', 'awry', 'unrecorded'] 0.08852043523587763 29
+['color', 'colour'] 0.08827073019995131 2
+['prescription', 'lethal', 'tonic', 'potent', 'herbal', 'pharmaceutical', 'anesthetic', 'medicinal', 'sedative', 'addictive', 'generic', 'prescribed', 'otc', 'antibiotic', 'dietary', 'supplemental', 'therapeutic', 'laxative', 'nutritional', 'prophylactic'] 0.08664764746643026 41
+['indian', 'african', 'asian', 'tribal', 'malaysian', 'tamil'] 0.08571125358170661 6
+['spanish', 'mexican', 'peruvian', 'brazilian', 'colombian', 'portuguese', 'cuban', 'filipino', 'paraguayan', 'chilean', 'argentine', 'angolan', 'panamanian', 'dominican', 'philippine', 'uruguayan', 'venezuelan', 'ecuadorian', 'bolivian', 'guatemalan'] 0.08564882732272502 21
+['foreign', 'abroad', 'overseas'] 0.08221538307873824 3
+['romantic', 'romance', 'erotic'] 0.0794686276835488 3
+['brave', 'courageous', 'heroic', 'gallant', 'valiant'] 0.07734613487817515 5
+['naked', 'nude', 'clothed', 'topless'] 0.07709642984224885 4
+['tall', 'taller', 'tallest', 'erect'] 0.07491151077789361 4
+['lit', 'shining', 'glowing', 'blazing', 'dim', 'blinking', 'darkened', 'radiant', 'brightly', 'flickering', 'extinguished', 'blinding', 'illuminated', 'incandescent', 'twinkling', 'lighted', 'luminous', 'dimly'] 0.07235203415964891 18
+['tactical', 'offensive', 'strategic', 'defensive', 'operational'] 0.0712907877569621 5
+['bothered', 'sore', 'healed', 'numb', 'swollen', 'aching', 'nagging', 'surgically', 'bandaged', 'dislocated', 'inflamed', 'achy', 'strained', 'arthritic'] 0.07110350898001735 14
+['molar', 'sensory', 'anal', 'jugular', 'hind', 'reflex', 'cranial', 'nasal', 'rectal', 'abdominal', 'mandibular', 'lumbar', 'posterior', 'thoracic', 'lateral', 'anterior', 'olfactory', 'bony', 'pelvic', 'ocular'] 0.0707289514261279 101
+['creative', 'artistic', 'literary', 'narrative', 'culinary', 'visionary', 'poetic', 'contemporary', 'innovative', 'architectural', 'aesthetic', 'cinematic', 'inventive', 'imaginative', 'entrepreneurial', 'conceptual', 'philanthropic', 'journalistic', 'collaborative', 'lyrical'] 0.06848160610279107 23
+['egyptian', 'israeli', 'iranian', 'islamic', 'turkish', 'palestinian', 'pakistani', 'afghan', 'kenyan', 'iraqi', 'lebanese', 'saudi', 'militant', 'yemeni', 'ethiopian', 'somali', 'nigerian', 'moroccan', 'syrian', 'libyan'] 0.06760763847704898 25
+['exact', 'precise'] 0.06760763847704898 2
+['prime', 'premier'] 0.06610940826149111 2
+['gently', 'gentle', 'bold'] 0.0652978668947306 3
+['cuddly', 'furry', 'fluffy', 'cozy', 'fuzzy', 'homey', 'comfy', 'cosy', 'plush', 'cushy', 'snug', 'roomy'] 0.06429904675102535 12
+['ancient', 'medieval', 'archaeological'] 0.06336265286630167 3
+['carefully', 'thoroughly', 'meticulously'] 0.06323780034833854 3
+['advance', 'advanced', 'advancing', 'seeded'] 0.06117773380194645 4
+['cooler', 'clearer', 'hotter', 'darker', 'brighter', 'colder', 'warmed', 'warmer', 'calmer', 'drier', 'milder', 'wetter', 'paler', 'denser', 'noticeably'] 0.0610528812839833 15
+['li', 'tan', 'gu', 'wan', 'tai'] 0.059741929845370155 5
+['sexual', 'sexually', 'consensual'] 0.059117667255554375 3
+['kinda'] 0.05886796221962806 1
+['weather'] 0.05805642085286755 1
+['blonde', 'blond', 'curly', 'haired', 'brunette', 'dyed', 'frizzy'] 0.0576194370399965 7
+['chemical', 'genetic', 'biological', 'genetically', 'molecular', 'biochemical', 'radiological'] 0.05587150178851232 7
+['surface', 'smooth'] 0.05437327157295445 2
+['generous', 'gracious', 'charitable', 'compassionate', 'generously'] 0.054248419054991295 5
+['fixed'] 0.051938647472672905 1
+['atlantic', 'pacific', 'continental', 'mediterranean', 'transatlantic'] 0.051314384882857125 5
+['smarter', 'happier', 'wiser'] 0.05031556473915188 3
+['deeper', 'broad', 'wider', 'broader', 'deepening'] 0.05031556473915187 5
+['bone'] 0.050190712221188725 1
+['escaped', 'unharmed', 'unhurt', 'unscathed', 'uninjured'] 0.04956644963137294 5
+['hmong', 'vietnamese', 'thai', 'lao', 'ethnic', 'haitian', 'burmese', 'nepalese', 'nepali', 'cambodian', 'rwandan', 'laotian', 'bhutanese'] 0.04931674459544662 13
+['swimming', 'olympic', 'indoor', 'synchronized', 'equestrian', 'synchronised'] 0.04925431833646505 6
+['farther', 'ashore', 'westward', 'offshore', 'inland', 'upstream', 'downstream', 'nautical', 'thence', 'furthest', 'outward', 'farthest', 'dissipated', 'tidal', 'upriver', 'seaward', 'clockwise', 'eastward', 'northward', 'southerly'] 0.04819307193377823 30
+['direct', 'indirect'] 0.04800579315683349 2
+['marine', 'naval', 'expeditionary'] 0.04750638308498087 3
+['tragic', 'unfortunate', 'untimely', 'regrettable'] 0.046008152869422995 4
+['wandering', 'restless', 'disoriented', 'sleepless', 'barefoot', 'yonder', 'horseback', 'shivering', 'dazed', 'aimlessly', 'unaided', 'aimless'] 0.0454463165385888 12
+['bang'] 0.0440105125820125 1
+['acid', 'fatty', 'beta', 'sulfuric', 'carbonic', 'citric', 'oxidized', 'lactic', 'unsaturated', 'amino', 'catalytic', 'phosphoric'] 0.042387429848491476 12
+['polish', 'hungarian', 'czech', 'serbian', 'ukrainian', 'lithuanian', 'armenian', 'romanian', 'croatian', 'finnish', 'bulgarian', 'slovenian', 'slovakian', 'macedonian'] 0.04163831474071253 14
+['legitimate', 'sole', 'rightful', 'sovereign', 'lawful', 'illegitimate', 'undisputed'] 0.04057706833802571 7
+['slap', 'smack', 'whacked', 'backhand', 'forehand'] 0.03989037948922835 5
+['random', 'randomly'] 0.03982795323024677 2
+['harsh', 'punishing', 'harshly', 'imposed', 'imposing', 'punitive', 'repressive', 'harsher', 'harshest', 'lenient', 'retaliatory', 'stringent', 'scathing', 'draconian'] 0.039390969417375736 14
+['organized', 'staged', 'sanctioned', 'coordinated', 'organised', 'orchestrated', 'supervised', 'loosely', 'jointly', 'centrally'] 0.03926611689941257 10
+['outer', 'inner', 'innermost'] 0.03826729675570733 3
+['fleet'] 0.03676906654014945 1
+['rational', 'logical', 'irrational', 'reasoning', 'logically', 'intuitive', 'deductive'] 0.03670664028116787 7
+['explosive', 'exploded', 'homemade', 'improvised', 'incendiary', 'unexploded'] 0.03527083632459157 6
+['betting', 'crooked', 'shady'] 0.03483385251172053 3
+['twisted', 'twisting', 'tangled', 'mangled', 'crumpled'] 0.03358532733208897 5
+['latin', 'hebrew', 'arabic'] 0.03346047481412582 3
+['faced', 'posed'] 0.03346047481412581 2
+['pussy'] 0.03239922841143899 1
+['cd', 'stereo', 'deluxe', 'mono', 'compact', 'boxed', 'maxi', 'paperback', 'digitally', 'bootleg', 'packaged', 'floppy', 'midi', 'unreleased'] 0.031774965821623216 14
+['sameer'] 0.030027030570139022 1
+['extinct', 'endangered', 'prehistoric', 'fossil', 'inhabited', 'aquatic', 'endemic', 'flightless', 'sumatran', 'carnivorous', 'extant'] 0.02990217805217587 11
+['racist', 'racial', 'bias', 'sexist', 'homophobic', 'racially', 'xenophobic'] 0.02977732553421272 7
+['ace'] 0.028403947836617996 1
+['eyed', 'misty', 'beady', 'steely', 'starry', 'teary', 'bleary'] 0.028029390282728526 7
+['instant', 'instantly'] 0.02703057013902328 2
+['deeply', 'profoundly'] 0.02671843884411539 2
+['arranged'] 0.025594766182446986 1
+['superior', 'inferior'] 0.025095356110594363 2
+['eternal', 'everlasting', 'undivided', 'indivisible'] 0.025032929851612783 4
+['net'] 0.024471093520778583 1
+['minimum', 'maximum', 'allowable'] 0.023784404671981223 3
+['dizzy', 'nauseous', 'unwell', 'dehydrated', 'lightheaded', 'nauseated'] 0.023472273377073333 6
+['solar', 'thermal', 'renewable'] 0.022223748197441773 3
+['chopped', 'sliced', 'peeled', 'finely', 'shredded', 'avocado', 'thinly', 'unsalted', 'blanched'] 0.0221613219384602 9
+['nicer', 'prettier', 'cuter'] 0.020600665463920743 3
+['choked', 'strangled', 'starved', 'smothered', 'asphyxiated'] 0.019976402874104963 5
+['feminine', 'masculine', 'singular', 'plural', 'possessive', 'inanimate', 'grammatical', 'accusative', 'adjective', 'neuter', 'grammatically', 'patronymic'] 0.019851550356141806 12
+['bass'] 0.01947699280225234 1
+['surgical', 'cosmetic', 'orthopedic', 'reconstructive', 'pediatric', 'paediatric', 'ambulatory', 'orthopaedic'] 0.019289714025307606 8
+['visual'] 0.01885273021243656 1
+['annual', 'monthly', 'quarterly', 'annually', 'yearly', 'biannual'] 0.01835332014058394 6
+['extreme'] 0.018041188845676043 1
+['buddhist', 'tibetan', 'taoist'] 0.017541778773823423 3
+['volcanic', 'seismic', 'geological', 'oceanic', 'jurassic', 'glacial', 'cretaceous', 'quaternary', 'meteorological', 'tectonic', 'cambrian', 'undersea', 'geologic', 'carboniferous', 'paleozoic', 'geophysical', 'topographic', 'geologically'] 0.01754177877382342 18
+['stabbing', 'torturing', 'abducting', 'fatally', 'wounding'] 0.017042368701970796 5
+['flawless', 'impeccable', 'flawlessly', 'effortless', 'faultless'] 0.016855089925026063 5
+['goddamned'] 0.016480532371136596 1
+['bully', 'bullying'] 0.016355679853173436 2
+['congressional', 'partisan', 'legislative', 'nonpartisan', 'bipartisan'] 0.01629325359419186 5
+['epic', 'titanic'] 0.01629325359419186 2
+['manual'] 0.01629325359419186 1
+['crappy'] 0.015606564745394501 1
+['infinite', 'finite', 'polynomial'] 0.01541928596844977 3
+['remaining'] 0.015232007191505035 1
+['sorted', 'alphabetically', 'ironed', 'alphabetical', 'chronologically'] 0.014982302155578721 5
+['minus', 'fahrenheit', 'centigrade'] 0.014919875896597143 3
+['undying', 'unconditional', 'unconditionally', 'unquestioning'] 0.01385862949391032 4
+['louder'] 0.01317194064511296 1
+['mint'] 0.01285980935020507 1
+['native', 'indigenous'] 0.012797383091223493 2
+['fastest', 'quickest', 'slowest'] 0.012672530573260335 3
+['alcoholic'] 0.012547678055297181 1
+['obsessive', 'intensely', 'compulsive'] 0.011923415465481401 3
+['scrub', 'scrubby', 'subalpine'] 0.0119234154654814 3
+['insulting', 'blasphemous', 'derogatory'] 0.011673710429555086 3
+['fitting'] 0.011611284170573511 1
+['narrowed', 'surplus', 'gaping', 'yawning', 'narrowing', 'widest'] 0.011111874098720885 6
+['harmless'] 0.01036275899094195 1
+['der'] 0.010300332731960371 1
+['darkest', 'blackest'] 0.010300332731960371 2
+['enlarged', 'expanded', 'prostate', 'thyroid', 'embryonic'] 0.01011305395501564 5
+['temporal', 'frontal', 'parietal', 'prefrontal', 'occipital'] 0.00967607014214459 5
+['multiply', 'exponentially', 'tenfold', 'multiplied', 'fourfold', 'fivefold'] 0.009301512588255123 6
+['magnetic'] 0.009301512588255123 1
+['soprano', 'tenor', 'baritone', 'operatic', 'contralto'] 0.008864528775384078 5
+['oral', 'trimester', 'orally', 'cesarean', 'caesarean'] 0.00848997122149461 5
+['biblical', 'literal', 'textual', 'mythological', 'theological', 'allegorical', 'scriptural'] 0.00842754496251303 7
+['skim', 'skimmed', 'evaporated', 'nonfat'] 0.008302692444549875 4
+['facial'] 0.008240266185568298 1
+['telepathic', 'superhuman', 'mutant'] 0.00817783992658672 3
+['electromagnetic', 'gravitational', 'inertial', 'electrostatic'] 0.008115413667605143 4
+['puff', 'puffy', 'puffed'] 0.007865708631678828 3
+['unannounced', 'unscheduled', 'unplanned'] 0.007366298559826206 3
+['outlaw', 'outlawed'] 0.006991741005936737 2
+['butch'] 0.006929314746955159 1
+['xi', 'xvi', 'viii', 'ix', 'xiii', 'xx', 'vii', 'xii', 'xiv', 'xv', 'xix', 'xxi', 'xxii'] 0.0068668884879735815 13
+['unreal'] 0.0068668884879735815 1
+['orderly'] 0.006429904675102535 1
+['unlocked'] 0.006305052157139379 1
+['breeding', 'migratory'] 0.006180199639176223 2
+['crude'] 0.005805642085286756 1
+['blurred', 'grainy', 'blurry'] 0.0057432158263051765 3
+['ferrous'] 0.005680789567323599 1
+['neural', 'synaptic', 'neuronal'] 0.0051189532364893965 3
+['unofficial'] 0.005056526977507819 1
+['madly'] 0.004619543164636773 1
+['distorted', 'warped', 'skewed'] 0.004557116905655194 3
+['imbecile'] 0.004432264387692039 1
+['feral', 'domesticated'] 0.004244985610747304 2
+['stern'] 0.003995280574820992 1
+['carotid', 'femoral', 'aortic'] 0.003932854315839414 3
+['auspicious', 'inauspicious'] 0.0038704280568578366 2
+['uncharted', 'unexplored', 'unalienable', 'untapped', 'unchartered', 'inalienable', 'undiscovered', 'unexploited'] 0.0038704280568578366 8
+['bc'] 0.0036831492799131024 1
+['westbound', 'southbound', 'eastbound', 'northbound'] 0.0035582967619499466 4
+['azure', 'argent', 'wavy', 'sable', 'heraldic'] 0.0034958705029683687 5
+['nosed', 'snub'] 0.0033710179850052124 2
+['bodied'] 0.0029340341721341666 1
+['monstrous'] 0.0029340341721341666 1
+['teensy', 'weensy'] 0.0028091816541710108 2
+['spotless'] 0.0028091816541710103 1
+['hungrier', 'juicier', 'tastier', 'handsomer'] 0.002746755395189433 4
+['leeward', 'downwind', 'upwind', 'windward'] 0.002746755395189433 4
+['nocturnal', 'diurnal'] 0.002746755395189433 2
+['tingling'] 0.0027467553951894324 1
+['indentured'] 0.0025594766182446983 1
+['semitic', 'semite'] 0.0025594766182446983 2
+['tabby'] 0.0024346241002815424 1
+['degraded'] 0.0024346241002815424 1
+['botched', 'foiled', 'bungled', 'abortive'] 0.002434624100281542 4
+['moody'] 0.0023721978412999645 1
+['damnable', 'accursed'] 0.0023097715823183866 2
+['disapprovingly', 'suntanned', 'blankly', 'enviously', 'approvingly', 'longingly'] 0.002309771582318386 6
+['blooming', 'flowering'] 0.00218491906435523 2
+['lightweight'] 0.0020600665463920745 1
+['isosceles', 'congruent', 'equilateral'] 0.002060066546392074 3
+['immaculate'] 0.001997640287410496 1
+['romantically'] 0.001997640287410496 1
+['snoopy'] 0.001997640287410496 1
+['avenged'] 0.0019352140284289183 1
+['perverse'] 0.0019352140284289183 1
+['repentant'] 0.0018727877694473404 1
+['blest'] 0.0018727877694473404 1
+['undetectable'] 0.0018727877694473404 1
+['pubic'] 0.0018727877694473404 1
+['airtight', 'refrigerated'] 0.0016855089925026062 2
+['adhesive'] 0.0016855089925026062 1
+['unpolished', 'milled'] 0.0016855089925026062 2
+['impartially', 'humanely'] 0.0016230827335210283 2
+['evenly'] 0.0016230827335210283 1
+['adulterer'] 0.0016230827335210283 1
+['undue'] 0.0014982302155578723 1
+['himalayan', 'landlocked'] 0.0014982302155578723 2
+['clerical', 'priestly'] 0.0013733776975947164 2
+['newtonian', 'relativistic'] 0.0013733776975947164 2
+['miserably'] 0.001310951438613138 1
+['thrifty'] 0.001310951438613138 1
+['basest'] 0.0010612464026868262 1
+['unsavory', 'unsavoury'] 0.001061246402686826 2
+['sunken'] 0.000998820143705248 1
+['copernican'] 0.000998820143705248 1
+['nuptial'] 0.0009363938847236702 1
+['fey'] 0.0009363938847236702 1
+['humongous', 'bally', 'lyonnaise'] 0.0009363938847236702 3
+['sic'] 0.0008115413667605141 1
+['coiling'] 0.0008115413667605141 1
+['someway'] 0.0007491151077789361 1
+['saharan'] 0.0007491151077789361 1
+['nonstandard'] 0.0007491151077789361 1
+['stabler'] 0.0007491151077789361 1
+['fittest'] 0.0006866888487973581 1
+['flagellate'] 0.0006866888487973581 1
+['tinier'] 0.0006866888487973581 1
+['positional'] 0.0006866888487973581 1
+['whitewashed', 'tiled', 'gabled'] 0.000686688848797358 3
+['patriarchal', 'hierarchical', 'archiepiscopal'] 0.000686688848797358 3
+['hemorrhagic', 'haemorrhagic'] 0.0006242625898157801 2
+['goosey'] 0.0005618363308342022 1
+['congenital', 'recessive'] 0.0005618363308342021 2
+['maneuverable', 'manoeuvrable'] 0.0005618363308342021 2
+['motivational'] 0.000499410071852624 1
+['singularly'] 0.000499410071852624 1
+['unrefined'] 0.0004369838128710461 1
+['irreproachable'] 0.0004369838128710461 1
+['astral'] 0.0004369838128710461 1
+['appalachian', 'andean'] 0.0004369838128710461 2
+['eerily'] 0.00037455755388946806 1
+['bellied'] 0.00037455755388946806 1
+['mousey'] 0.00037455755388946806 1
+['crosser'] 0.00037455755388946806 1
+['jawed'] 0.00037455755388946806 1
+['inexorable'] 0.00037455755388946806 1
+['afghani'] 0.00031213129490789004 1
+['defendable', 'gettable'] 0.00031213129490789004 2
+['shatterproof'] 0.00031213129490789004 1
+['tangentially', 'distantly'] 0.00031213129490789 2
+['alfresco'] 0.000249705035926312 1
+['duplex'] 0.000249705035926312 1
+['procedural', 'evidentiary'] 0.000249705035926312 2
+['herewith'] 0.000249705035926312 1
+['bluffer'] 0.00018727877694473403 1
+['thematic'] 0.00018727877694473403 1
+['unisexual'] 0.00018727877694473403 1
+['doctrinal'] 0.00018727877694473403 1
+['upcountry', 'snowbound'] 0.000187278776944734 2
+['rationed'] 0.000124852517963156 1
+['goofiest'] 0.000124852517963156 1
+['trussed'] 0.000124852517963156 1
+['aerobic'] 0.000124852517963156 1
+['corporeal', 'incorporeal'] 0.000124852517963156 2
+['saute'] 0.000124852517963156 1
+['appeasing', 'placating'] 0.000124852517963156 2
+['gamy', 'gamey'] 0.000124852517963156 2
+['inflationary', 'deflationary'] 0.000124852517963156 2
+['unreasoning'] 0.000124852517963156 1
+['churchly'] 0.000124852517963156 1
+['crested'] 0.000124852517963156 1
+['barmy'] 6.2426258981578e-05 1
+['narcoleptic'] 6.2426258981578e-05 1
+['enervated'] 6.2426258981578e-05 1
+['sneezy'] 6.2426258981578e-05 1
+['greedily'] 6.2426258981578e-05 1
+['filthiest'] 6.2426258981578e-05 1
+['uncoated'] 6.2426258981578e-05 1
+['incommunicado'] 6.2426258981578e-05 1
+['greenly'] 6.2426258981578e-05 1
+['odorous'] 6.2426258981578e-05 1

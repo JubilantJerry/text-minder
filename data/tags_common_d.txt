@@ -1,0 +1,1000 @@
+* more
+* location
+* level more
+* quantity
+* multiple
+*
+* quantity small
+* create time_point distance small
+*
+* time_point less
+*
+* time_point quantity
+*
+*
+* time_point
+*
+* more
+*
+* quantity more
+*
+* time_point more
+* multiple
+*
+* multiple
+* time_point less
+* location
+*
+*
+* location
+* quantity more
+* good
+* location substance animal air
+*
+*
+*
+* good
+* distance more
+*
+* small
+*
+* level big good
+*
+* location distance less
+*
+* multiple
+* location
+* person time_point more
+* level less
+* time_point big
+* event quantity small
+*
+* trait distance less
+* multiple
+*
+* level more
+* location good
+* artifact dead
+*
+* time_point
+*
+*
+*
+*
+* less
+* use more easy_simple
+*
+*
+*
+* small
+* location
+*
+* time_point
+*
+* multiple
+* location
+*
+* less
+*
+*
+* society
+* abstract
+*
+*
+* quantity event
+* question less
+*
+*
+*
+*
+* quantity big
+*
+*
+*
+*
+*
+*
+*
+* question
+*
+* big
+* time_point
+* multiple
+*
+*
+* distance more
+*
+*
+*
+*
+*
+* distance more
+*
+* time_point more
+*
+* less
+*
+* time_point less
+* society alive trait
+* quantity more
+*
+*
+*
+* more good
+*
+*
+*
+*
+* level society
+*
+* time_point person less
+* society
+* small
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* analysis good data
+*
+* time_point quantity
+*
+* analysis good question less
+* big
+*
+* quantity
+*
+*
+* value big
+*
+* multiple time_point
+*
+*
+*
+*
+*
+* vision trait
+*
+*
+*
+*
+* location
+* change
+*
+*
+*
+* good big
+*
+* good quality
+*
+*
+*
+*
+* level small
+*
+*
+*
+* distance less
+* quality bad
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* change
+*
+*
+*
+* group trait
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* location distance less
+* level more
+*
+*
+*
+* vision trait analysis easy_simple
+*
+*
+* time_point more
+* level more
+*
+*
+*
+*
+* emphasis
+*
+*
+*
+* question
+* multiple
+*
+*
+* financial value less control
+* location
+*
+* level more
+*
+*
+*
+*
+* time_point less
+*
+*
+*
+*
+*
+*
+*
+* quantity big
+* distance less
+* quantity
+*
+*
+* alive data say
+* quantity
+* thought
+*
+*
+* society
+*
+*
+*
+*
+* multiple help effort
+* question
+* analysis good data
+* politics
+*
+*
+*
+*
+*
+*
+*
+* quantity big effort
+*
+* analysis ownership resource
+*
+* location less
+*
+*
+*
+* bad person society ownership emotion
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* ownership person more
+* location
+* body move easy_simple control
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* location
+*
+* emphasis
+*
+* level less
+*
+*
+* dead air
+*
+* quantity
+*
+* location
+* level less
+*
+*
+* question multiple more
+*
+* time_point distance less
+*
+* distance more
+*
+* easy_simple
+*
+* question multiple
+*
+*
+*
+*
+* substance damage difficult emphasis
+*
+*
+*
+*
+*
+* location
+*
+* abstract
+*
+* time_point more
+*
+*
+* ownership
+*
+*
+*
+*
+*
+*
+* quantity small
+* time_period less
+*
+*
+* alive
+*
+*
+*
+*
+* distance more
+* vision difficult
+* multiple
+* effort difficult
+*
+* location
+* time_point quantity
+*
+* level more
+*
+*
+* thought analysis
+*
+* question receive emotion
+*
+*
+*
+*
+* ownership control
+* person quantity
+* vision trait
+* analysis ownership resource
+*
+*
+* location say
+*
+*
+*
+* emotion
+*
+*
+* easy_simple
+* vision trait
+*
+*
+*
+*
+*
+* abstract quantity analysis
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* location
+* question location
+*
+*
+*
+*
+*
+*
+* quantity big
+*
+*
+*
+*
+*
+* easy_simple
+* cold
+*
+* quantity less love
+*
+*
+*
+*
+*
+*
+* society change
+*
+* easy_simple
+*
+*
+* location
+*
+* easy_simple
+*
+*
+*
+* question less
+*
+* emphasis level more
+* dead
+*
+* stability good emotion
+* religion
+*
+*
+*
+*
+* location
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* level more
+*
+*
+*
+*
+*
+*
+* plan thought
+*
+*
+*
+*
+*
+* location change
+* nature
+* medical
+*
+*
+*
+*
+*
+* emphasis
+* emphasis
+*
+*
+*
+* difficult
+* multiple question
+* time_period less
+* abstract good
+*
+* bad
+*
+*
+* politics location
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* effort change good analysis
+*
+*
+*
+*
+* time_point less
+*
+*
+* vision trait
+*
+* emphasis
+*
+* financial
+*
+*
+*
+*
+*
+*
+* religion
+*
+*
+* distance more
+* time_point multiple easy_simple
+*
+*
+*
+*
+*
+*
+*
+*
+* question less analysis
+*
+* society create
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* level less
+*
+* quantity distance less
+*
+* easy_simple
+*
+*
+*
+*
+*
+* location more
+*
+*
+*
+*
+* trait move change less
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* location
+* time_point nature
+* time_point less
+* time_point hot
+*
+* quantity big
+* question
+*
+*
+*
+* data good analysis
+* location
+*
+*
+*
+*
+* easy_simple
+*
+*
+*
+*
+*
+* quantity less
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* abstract alive
+* location thought distance big
+*
+*
+* location
+*
+*
+*
+* quantity big
+*
+* easy_simple
+* multiple change small
+*
+* hot
+*
+* quality emotion intense
+*
+*
+*
+* society alive move
+*
+* question
+*
+*
+*
+*
+*
+*
+*
+* abstract bad
+* value more
+*
+*
+*
+*
+*
+*
+* value control more
+*
+* politics
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* quality trait good bad
+*
+*
+* analysis easy_simple
+*
+*
+*
+*
+*
+*
+*
+*
+* question level
+*
+*
+*
+*
+*
+* vision emotion good
+*
+* emotion good
+*
+* thought question
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* time_period less
+*
+*
+* time_point distance less
+*
+* quantity more
+* level less
+* artifact
+*
+*
+* quantity
+*
+*
+* location
+* vision trait
+*
+*
+*
+* quality thought more
+*
+* time_point multiple
+*
+* quantity more
+*
+*
+* analysis
+*
+*
+*
+* time_point
+* financial quantity value small
+*
+*
+*
+*
+*
+* quality
+*
+*
+*
+*
+*
+*
+* time_point more
+* location
+*
+* quantity change less
+*
+*
+* nature vision trait
+*
+*
+*
+* financial
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* family create
+*
+*
+* location
+*
+*
+* control data analysis
+* vision change less
+*
+*
+* time_period more
+*
+*
+*
+* move
+*
+*
+* quality plan outfit good
+*
+*
+* analysis easy_simple
+*
+*
+*
+*
+*
+*
+*
+*
+* time_period distance less
+*
+*
+*
+*
+*
+*
+* vision emotion good
+*
+* location
+*
+*
+*
+* quantity big
+*
+*
+*
+* quantity small
+*
+* society receive more
+* abstract good politics
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* plan create
+* level less
+*
+*
+* analysis
+*
+* alive
+* quality time_period more stability
+*
+*
+*
+* abstract location easy_simple
+*
+*
+*
+*
+*
+* control quantity less stability
+*
+*
+*
+*
+*
+* easy_simple
+* society dead change
+*
+*
+*
+*
+*
+* family love group
+*
+*
+* emotion thought data more
+* thought difficult change more
+*
+* expertise
+*
+*
+*
+*
+* ownership
+*
+* quantity small
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* time_point less
+* abstract change small good
+*
+*
+* quantity change less
+*
+*
+*
+*
+*
+*
+*
+*
+* plan control
+* abstract distance less
+*
+*
+*
+* time_point more
+*
+* data good expertise
+* distance more
+*
+*
+* level more
+*
+* distance quantity less
+*
+*
+*
+*
+*
+*
+* body move effort
+*
+*
+*
+* vision
+*
+*
+*
+*
+*
+*
+*
+*
+* quantity more
+*
+* analysis ownership resource
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* body move easy_simple
+*
+*
+*
+*
+*
+*
+*
+* sound less
+*
+*
+* politics
+*
+* touch trait
+* quantity change more
+*
+*
+*
+*
+* distance more
+*
+*
+*
+* value more
+*
+*
+*
+*
+*
+*

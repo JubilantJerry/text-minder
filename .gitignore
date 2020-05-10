@@ -1,0 +1,16 @@
+spot_script
+*.npy
+*.pth
+*.tar.gz
+*.zip
+data/glove.6B.300d.txt
+data/en.txt
+# data/eval_lines
+# data/eval_lines_not_disjoint
+# data/lines
+code
+data/gpt2/4b337a*
+data/gpt2/6d8826*
+data/gpt2/98aa65*
+data/gpt2/f20f05*
+*.pyc
